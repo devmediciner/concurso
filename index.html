@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MedConcursos - Vagas para Médico & Distância de Divinópolis MG</title>
+  
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Lucide Icons CDN -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              50: '#eff6ff',
+              100: '#dbeafe',
+              500: '#1d4ed8',
+              600: '#1e40af',
+              700: '#1d3557',
+              800: '#0f172a'
+            },
+            accent: {
+              50: '#ecfdf5',
+              500: '#10b981',
+              600: '#059669'
+            }
+          }
+        }
+      }
+    }
+  </script>
+  
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+    body {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+    }
+    .badge-near {
+      background-color: #dcfce7;
+      color: #166534;
+      border: 1px solid #bbf7d0;
+    }
+    .badge-medium {
+      background-color: #e0f2fe;
+      color: #0369a1;
+      border: 1px solid #bae6fd;
+    }
+    .badge-far {
+      background-color: #f1f5f9;
+      color: #475569;
+      border: 1px solid #e2e8f0;
+    }
+    .custom-scroll::-webkit-scrollbar {
+      height: 6px;
+      width: 6px;
+    }
+    .custom-scroll::-webkit-scrollbar-thumb {
+      background: #cbd5e1;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-900 min-h-screen flex flex-col antialiased">
+
+  <!-- Header -->
+  <header class="bg-gradient-to-r from-slate-900 via-blue-950 to-slate-900 text-white shadow-lg sticky top-0 z-40">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3.5 flex flex-col md:flex-row md:items-center md:justify-between gap-3">
+      
+      <div class="flex items-center gap-3">
+        <div class="w-11 h-11 rounded-xl bg-blue-600 flex items-center justify-center shadow-md shadow-blue-500/20 text-white">
+          <i data-lucide="stethoscope" class="w-6 h-6"></i>
+        </div>
+        <div>
+          <div class="flex items-center gap-2">
+            <h1 class="text-xl font-bold tracking-tight text-white">MedConcursos</h1>
+            <span class="text-xs font-semibold px-2 py-0.5 rounded-full bg-emerald-500/20 text-emerald-300 border border-emerald-500/30">Vagas de Médico</span>
+          </div>
+          <p class="text-xs text-slate-300 flex items-center gap-1.5 mt-0.5">
+            <i data-lucide="map-pin" class="w-3.5 h-3.5 text-rose-400"></i>
+            Referência de Distância: <span class="font-semibold text-white">Divinópolis - MG</span>
+          </p>
+        </div>
+      </div>
+
+      <div class="flex items-center gap-2.5 flex-wrap">
+        <span id="lastUpdated" class="text-xs text-slate-400 hidden sm:inline-block">Carregando dados...</span>
+        
+        <button id="btnRefresh" class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-blue-600 hover:bg-blue-500 text-white text-xs font-medium transition shadow-sm hover:shadow active:scale-95">
+          <i data-lucide="refresh-cw" id="refreshIcon" class="w-3.5 h-3.5"></i>
+          <span>Atualizar Vagas</span>
+        </button>
+
+        <a href="https://www.pciconcursos.com.br/vagas/medico" target="_blank" rel="noopener noreferrer" 
+           class="flex items-center gap-1 px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs font-medium border border-slate-700 transition">
+          <span>PCI Concursos</span>
+          <i data-lucide="external-link" class="w-3.5 h-3.5 text-slate-400"></i>
+        </a>
+      </div>
+
+    </div>
+  </header>
+
+  <!-- Notification Toast for GitHub Pages -->
+  <div id="toastNotification" class="hidden fixed bottom-5 right-5 max-w-sm bg-slate-900 text-white p-4 rounded-2xl shadow-2xl border border-slate-700 z-50 flex items-start gap-3 transition-all">
+    <div class="w-8 h-8 rounded-lg bg-blue-600 flex items-center justify-center shrink-0 mt-0.5">
+      <i data-lucide="info" class="w-4 h-4 text-white"></i>
+    </div>
+    <div class="text-xs space-y-1">
+      <p id="toastTitle" class="font-bold text-slate-100">Atualização de Vagas</p>
+      <p id="toastMessage" class="text-slate-300 leading-relaxed"></p>
+    </div>
+    <button id="closeToast" class="text-slate-400 hover:text-white p-1 ml-auto">
+      <i data-lucide="x" class="w-4 h-4"></i>
+    </button>
+  </div>
+
+  <!-- Main Content -->
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 flex-1 w-full space-y-6">
+
+    <!-- KPI / Statistics Banner -->
+    <div class="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-5 gap-3.5">
+      
+      <!-- Total Vagas -->
+      <div class="bg-white p-4 rounded-xl border border-slate-200 shadow-sm flex items-center gap-3.5">
+        <div class="w-10 h-10 rounded-lg bg-blue-50 text-blue-600 flex items-center justify-center shrink-0">
+          <i data-lucide="briefcase" class="w-5 h-5"></i>
+        </div>
+        <div>
+          <span class="text-xs font-medium text-slate-500">Total Encontrado</span>
+          <p id="statTotal" class="text-xl font-bold text-slate-800 leading-tight">--</p>
+          <span id="statOpenTag" class="text-[11px] text-emerald-600 font-medium">-- abertas</span>
+        </div>
+      </div>
+
+      <!-- Minas Gerais -->
+      <div class="bg-white p-4 rounded-xl border border-slate-200 shadow-sm flex items-center gap-3.5">
+        <div class="w-10 h-10 rounded-lg bg-emerald-50 text-emerald-600 flex items-center justify-center shrink-0">
+          <i data-lucide="map" class="w-5 h-5"></i>
+        </div>
+        <div>
+          <span class="text-xs font-medium text-slate-500">Minas Gerais (MG)</span>
+          <p id="statTotalMG" class="text-xl font-bold text-slate-800 leading-tight">--</p>
+          <span class="text-[11px] text-slate-500 font-medium">no seu estado</span>
+        </div>
+      </div>
+
+      <!-- Mais Próximo -->
+      <div class="bg-white p-4 rounded-xl border border-emerald-200 shadow-sm flex items-center gap-3.5 bg-gradient-to-br from-emerald-50/50 to-white col-span-2 sm:col-span-1">
+        <div class="w-10 h-10 rounded-lg bg-emerald-100 text-emerald-700 flex items-center justify-center shrink-0">
+          <i data-lucide="navigation" class="w-5 h-5"></i>
+        </div>
+        <div class="overflow-hidden">
+          <span class="text-xs font-medium text-emerald-800">Mais Perto de Divinópolis</span>
+          <p id="statClosestDist" class="text-xl font-bold text-emerald-900 leading-tight">-- km</p>
+          <p id="statClosestCity" class="text-[11px] text-emerald-700 font-medium truncate">--</p>
+        </div>
+      </div>
+
+      <!-- Maior Salário -->
+      <div class="bg-white p-4 rounded-xl border border-slate-200 shadow-sm flex items-center gap-3.5 col-span-2 sm:col-span-1">
+        <div class="w-10 h-10 rounded-lg bg-amber-50 text-amber-600 flex items-center justify-center shrink-0">
+          <i data-lucide="banknote" class="w-5 h-5"></i>
+        </div>
+        <div class="overflow-hidden">
+          <span class="text-xs font-medium text-slate-500">Maior Remuneração</span>
+          <p id="statHighestSalary" class="text-xl font-bold text-slate-800 leading-tight truncate">--</p>
+          <p id="statHighestTitle" class="text-[11px] text-slate-500 font-medium truncate">--</p>
+        </div>
+      </div>
+
+      <!-- Referência Divinópolis Info -->
+      <div class="bg-white p-4 rounded-xl border border-blue-100 shadow-sm flex items-center gap-3.5 bg-blue-50/40 col-span-2 sm:col-span-2 lg:col-span-1">
+        <div class="w-10 h-10 rounded-lg bg-blue-100 text-blue-700 flex items-center justify-center shrink-0">
+          <i data-lucide="compass" class="w-5 h-5"></i>
+        </div>
+        <div>
+          <span class="text-xs font-medium text-blue-800">Cálculo de Distância</span>
+          <p class="text-xs text-slate-700 leading-tight mt-0.5">Direta + Estimativa Rodoviária</p>
+          <span class="text-[10px] text-blue-600 font-medium">Link para Google Maps</span>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Filter & Search Controls Card -->
+    <div class="bg-white rounded-2xl border border-slate-200 shadow-sm p-4 sm:p-5 space-y-4">
+      
+      <!-- Top Row: Search input + View switcher + Export -->
+      <div class="flex flex-col md:flex-row gap-3 items-stretch md:items-center justify-between">
+        
+        <!-- Search bar -->
+        <div class="relative flex-1">
+          <i data-lucide="search" class="w-4 h-4 text-slate-400 absolute left-3.5 top-1/2 -translate-y-1/2 pointer-events-none"></i>
+          <input 
+            type="text" 
+            id="searchInput" 
+            placeholder="Buscar por cidade, prefeitura, hospital, especialidade médica..." 
+            class="w-full pl-10 pr-4 py-2.5 rounded-xl border border-slate-200 bg-slate-50 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/20 focus:border-blue-500 text-sm transition"
+          >
+          <button id="clearSearch" class="hidden absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600 p-1">
+            <i data-lucide="x" class="w-4 h-4"></i>
+          </button>
+        </div>
+
+        <div class="flex items-center gap-2 self-end md:self-auto">
+          <!-- View switcher (Cards vs Table) -->
+          <div class="flex items-center bg-slate-100 p-1 rounded-xl border border-slate-200">
+            <button id="viewCardsBtn" class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium bg-white text-slate-900 shadow-sm transition">
+              <i data-lucide="layout-grid" class="w-3.5 h-3.5"></i>
+              <span>Cards</span>
+            </button>
+            <button id="viewTableBtn" class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium text-slate-600 hover:text-slate-900 transition">
+              <i data-lucide="table" class="w-3.5 h-3.5"></i>
+              <span>Tabela</span>
+            </button>
+          </div>
+
+          <!-- Export CSV -->
+          <button id="exportCsvBtn" title="Exportar para Excel / CSV" class="flex items-center gap-1.5 px-3 py-2 rounded-xl border border-slate-200 bg-white hover:bg-slate-50 text-slate-700 text-xs font-medium transition shadow-sm">
+            <i data-lucide="download" class="w-3.5 h-3.5 text-slate-500"></i>
+            <span class="hidden sm:inline">Exportar CSV</span>
+          </button>
+        </div>
+
+      </div>
+
+      <!-- Filters & Sorting Grid -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 pt-2 border-t border-slate-100">
+        
+        <!-- Estado (UF) -->
+        <div>
+          <label for="ufFilter" class="block text-xs font-semibold text-slate-600 mb-1.5 flex items-center gap-1">
+            <i data-lucide="map-pinned" class="w-3.5 h-3.5 text-blue-600"></i>
+            <span>Estado (UF)</span>
+          </label>
+          <select id="ufFilter" class="w-full py-2 px-3 rounded-lg border border-slate-200 bg-white text-xs font-medium text-slate-800 focus:outline-none focus:ring-2 focus:ring-blue-500/20 focus:border-blue-500">
+            <option value="ALL">Todos os Estados</option>
+            <!-- Generated dynamically with counts -->
+          </select>
+        </div>
+
+        <!-- Distância de Divinópolis -->
+        <div>
+          <label for="distFilter" class="block text-xs font-semibold text-slate-600 mb-1.5 flex items-center gap-1">
+            <i data-lucide="car" class="w-3.5 h-3.5 text-emerald-600"></i>
+            <span>Distância de Divinópolis</span>
+          </label>
+          <select id="distFilter" class="w-full py-2 px-3 rounded-lg border border-slate-200 bg-white text-xs font-medium text-slate-800 focus:outline-none focus:ring-2 focus:ring-blue-500/20 focus:border-blue-500">
+            <option value="ALL">Todas as Distâncias</option>
+            <option value="100">Até 100 km (Região Imediata)</option>
+            <option value="200">Até 200 km (Região Metropolitana / Central)</option>
+            <option value="300">Até 300 km (Interior MG / Proximidades)</option>
+            <option value="500">Até 500 km (MG / SP / RJ)</option>
+          </select>
+        </div>
+
+        <!-- Faixa Salarial -->
+        <div>
+          <label for="salaryFilter" class="block text-xs font-semibold text-slate-600 mb-1.5 flex items-center gap-1">
+            <i data-lucide="badge-dollar-sign" class="w-3.5 h-3.5 text-amber-600"></i>
+            <span>Faixa Salarial</span>
+          </label>
+          <select id="salaryFilter" class="w-full py-2 px-3 rounded-lg border border-slate-200 bg-white text-xs font-medium text-slate-800 focus:outline-none focus:ring-2 focus:ring-blue-500/20 focus:border-blue-500">
+            <option value="ALL">Qualquer Valor</option>
+            <option value="5000">A partir de R$ 5.000</option>
+            <option value="10000">A partir de R$ 10.000</option>
+            <option value="15000">A partir de R$ 15.000</option>
+            <option value="20000">A partir de R$ 20.000</option>
+            <option value="ONLY_DISCLOSED">Apenas com Salário Informado</option>
+          </select>
+        </div>
+
+        <!-- Organizar Por (Sorting) -->
+        <div>
+          <label for="sortBy" class="block text-xs font-semibold text-slate-600 mb-1.5 flex items-center gap-1">
+            <i data-lucide="arrow-up-down" class="w-3.5 h-3.5 text-indigo-600"></i>
+            <span>Organizar Por</span>
+          </label>
+          <select id="sortBy" class="w-full py-2 px-3 rounded-lg border border-slate-200 bg-white text-xs font-medium text-slate-800 focus:outline-none focus:ring-2 focus:ring-blue-500/20 focus:border-blue-500">
+            <option value="dist_asc">🚗 Menor Distância de Divinópolis</option>
+            <option value="salary_desc">💰 Maior Salário</option>
+            <option value="salary_asc">💰 Menor Salário</option>
+            <option value="deadline_asc">⏳ Inscrição Encerrando Primeiro</option>
+            <option value="deadline_desc">📅 Inscrição com Mais Prazo</option>
+            <option value="dist_desc">🚗 Maior Distância</option>
+            <option value="title_asc">🏢 Nome do Órgão (A - Z)</option>
+          </select>
+        </div>
+
+      </div>
+
+      <!-- Quick Chips / Status filter -->
+      <div class="flex items-center justify-between flex-wrap gap-2 pt-2 text-xs">
+        
+        <div class="flex items-center gap-1.5 flex-wrap">
+          <span class="text-slate-500 font-medium mr-1">Status:</span>
+          <button data-status="OPEN" class="status-btn px-2.5 py-1 rounded-full font-medium bg-emerald-100 text-emerald-800 border border-emerald-300">
+            Apenas Inscrições Abertas
+          </button>
+          <button data-status="ALL" class="status-btn px-2.5 py-1 rounded-full font-medium bg-slate-100 text-slate-600 hover:bg-slate-200 border border-transparent">
+            Todos (inclui encerrados)
+          </button>
+          <button data-status="CLOSED" class="status-btn px-2.5 py-1 rounded-full font-medium bg-slate-100 text-slate-600 hover:bg-slate-200 border border-transparent">
+            Apenas Encerrados
+          </button>
+        </div>
+
+        <div class="flex items-center gap-1.5">
+          <button id="btnResetFilters" class="text-slate-500 hover:text-blue-600 text-xs font-medium flex items-center gap-1">
+            <i data-lucide="rotate-ccw" class="w-3 h-3"></i>
+            <span>Limpar Filtros</span>
+          </button>
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- Active Results Header -->
+    <div class="flex items-center justify-between text-xs text-slate-500 px-1">
+      <div>
+        Mostrando <span id="visibleCount" class="font-bold text-slate-800">0</span> de <span id="totalItemsCount" class="font-bold text-slate-800">0</span> concursos
+      </div>
+      <div id="activeFilterBadge" class="hidden font-medium text-blue-600">
+        Filtros aplicados
+      </div>
+    </div>
+
+    <!-- Results Container: Cards View -->
+    <div id="cardsContainer" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+      <!-- Injected via JavaScript -->
+    </div>
+
+    <!-- Results Container: Table View -->
+    <div id="tableContainer" class="hidden bg-white rounded-2xl border border-slate-200 shadow-sm overflow-hidden">
+      <div class="overflow-x-auto custom-scroll">
+        <table class="w-full text-left text-xs">
+          <thead class="bg-slate-50 border-b border-slate-200 text-slate-600 uppercase text-[10px] tracking-wider font-semibold">
+            <tr>
+              <th class="py-3 px-4">Concurso / Órgão</th>
+              <th class="py-3 px-3">Local (Cidade / UF)</th>
+              <th class="py-3 px-3">Distância Divinópolis</th>
+              <th class="py-3 px-3">Salário Máximo</th>
+              <th class="py-3 px-3">Vagas</th>
+              <th class="py-3 px-3">Inscrições Até</th>
+              <th class="py-3 px-3 text-right">Ações</th>
+            </tr>
+          </thead>
+          <tbody id="tableBody" class="divide-y divide-slate-100">
+            <!-- Injected via JavaScript -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Empty State -->
+    <div id="emptyState" class="hidden bg-white rounded-2xl border border-slate-200 p-12 text-center max-w-md mx-auto space-y-3">
+      <div class="w-12 h-12 bg-slate-100 text-slate-400 rounded-full flex items-center justify-center mx-auto">
+        <i data-lucide="search-x" class="w-6 h-6"></i>
+      </div>
+      <h3 class="text-base font-semibold text-slate-800">Nenhum concurso encontrado</h3>
+      <p class="text-xs text-slate-500">Tente alterar os termos de busca ou remover alguns filtros aplicados.</p>
+      <button id="emptyResetBtn" class="px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white text-xs font-medium rounded-lg transition">
+        Redefinir Filtros
+      </button>
+    </div>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-white border-t border-slate-200 py-6 text-slate-500 text-xs mt-10">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-3 text-center sm:text-left">
+      <div>
+        <p class="font-medium text-slate-700">MedConcursos • Painel de Oportunidades Médicas</p>
+        <p class="text-slate-400 text-[11px] mt-0.5">Dados sincronizados diretamente do PCI Concursos com cálculo geográfico IBGE.</p>
+      </div>
+      <div class="flex items-center gap-3 text-[11px]">
+        <span>Ponto de Partida: Divinópolis - MG</span>
+        <span>•</span>
+        <a href="https://www.pciconcursos.com.br/vagas/medico" target="_blank" class="hover:text-blue-600 transition">Fonte Oficial</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- App Script (Relative path compatible with GitHub Pages and local) -->
+  <script src="./app.js"></script>
+</body>
+</html>

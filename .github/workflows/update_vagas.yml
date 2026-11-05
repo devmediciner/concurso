@@ -1,0 +1,38 @@
+name: Atualização Automática de Vagas (PCI Concursos)
+
+on:
+  schedule:
+    # Executa todos os dias às 06:00 BRT (09:00 UTC)
+    - cron: '0 9 * * *'
+  workflow_dispatch: # Permite atualizar manualmente com 1 clique na aba Actions do GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do Repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar Dependências
+        run: |
+          pip install beautifulsoup4
+
+      - name: Executar Scraper e Recalcular Distâncias
+        run: |
+          python scraper.py
+
+      - name: Salvar e Publicar Vagas Atualizadas
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/vagas.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto: atualização diária de vagas [skip ci]" && git push)
