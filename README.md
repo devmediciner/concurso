@@ -2,96 +2,64 @@
 
 Aplicação web desenvolvida para raspar, estruturar e exibir as vagas de concurso público para **Médico** do site **[PCI Concursos](https://www.pciconcursos.com.br/vagas/medico)**, calculando automaticamente a **distância geográfica em relação a Divinópolis - MG**.
 
----
-
-## 🚀 Funcionalidades
-
-1. **Extração Automática de Vagas (Web Scraping)**
-   - Extrai em tempo real do [PCI Concursos - Vagas para Médico](https://www.pciconcursos.com.br/vagas/medico).
-   - Dados detalhados por concurso:
-     - **Órgão / Instituição**: Prefeitura, Fundação, Hospital, Universidade, etc.
-     - **Cidade e Estado (UF)**.
-     - **Valores / Remuneração**: Salário máximo divulgado e especificações de vencimentos.
-     - **Data de Encerramento**: Prazo final de inscrições com contagem de dias restantes (*"Últimos dias"*, *"Inscrições Abertas"*, *"Encerrado"*).
-     - **Número de Vagas**: Quantidade exata de vagas ou indicação de Cadastro de Reserva (CR).
-     - **Link Direto**: Atalho para o edital e detalhes na página oficial do concurso.
-
-2. **Cálculo de Distância até Divinópolis - MG**
-   - Ponto de referência: **Divinópolis - MG** (`Latitude: -20.1446`, `Longitude: -44.8912`).
-   - Base de dados georreferenciada de todos os **5.571 municípios brasileiros do IBGE**.
-   - **Distância direta**: Fórmula de Haversine em quilômetros.
-   - **Distância rodoviária estimada**: Estimativa de trajeto rodoviário real.
-   - **Botão Google Maps**: Abre a rota de carro detalhada partindo de Divinópolis diretamente para a cidade do concurso.
-   - **Classificação visual por proximidade**:
-     - ⚡ **Vizinho (< 70 km)**: Ex: *Onça de Pitangui (47 km)*, *Piracema (59 km)*.
-     - 🚗 **Próximo (70 - 150 km)**: Ex: *Belo Horizonte (104 km)*, *Confins (110 km)*, *Lagoa Santa (118 km)*, *São João del-Rei (128 km)*.
-     - 🧭 **Médio (150 - 300 km)**: Interior de Minas Gerais e divisa.
-     - 📍 **Distante / Muito Distante (> 300 km)**.
-
-3. **Filtros Avançados**
-   - **Por Estado (UF)**: Selecione MG, SP, RJ, SC, RS, DF, etc. (com contagem de vagas em cada estado).
-   - **Por Distância de Divinópolis**: Todas, Até 100 km, Até 200 km, Até 300 km, Até 500 km.
-   - **Por Faixa Salarial**: Qualquer valor, A partir de R$ 5.000, R$ 10.000, R$ 15.000, R$ 20.000 ou apenas com salário divulgado.
-   - **Por Status**: Apenas inscrições abertas (padrão), todos os concursos ou apenas encerrados.
-   - **Busca Textual em Tempo Real**: Filtre por nome da prefeitura, cidade, especialidade médica ou palavras-chave.
-
-4. **Organização e Ordenação (Sorting)**
-   - 🚗 **Menor Distância de Divinópolis** (mais próximos primeiro).
-   - 💰 **Maior Salário** (maiores vencimentos no topo).
-   - 💰 **Menor Salário**.
-   - ⏳ **Data de Encerramento mais próxima** (inscrições terminando antes).
-   - 📅 **Data de Encerramento com mais prazo**.
-   - 🏢 **Ordem Alfabética (A-Z)**.
-
-5. **Interface Moderna e Responsiva**
-   - Alternância entre **Modo Cards** e **Modo Tabela** (estilo planilha).
-   - Cards com indicadores estatísticos no topo (Total de vagas, vagas em MG, vaga mais próxima, maior salário).
-   - Botão **"Atualizar Vagas"** para recarregar o PCI Concursos sob demanda.
-   - Botão **"Exportar CSV"** para download e abertura no Excel.
+Compatível com execução **Local** e hospedagem 100% gratuita no **GitHub Pages** (com atualização automática diária via GitHub Actions).
 
 ---
 
-## 💻 Como Executar
+## 🌐 Publicando no GitHub Pages (Passo a Passo)
 
-### Opção 1: Pelo executável rápido (Windows)
-Basta dar dois cliques no arquivo:
-```cmd
-iniciar.bat
+Como o GitHub Pages só hospeda arquivos estáticos, preparamos o projeto com uma **Automação no GitHub Actions** que roda o scraper em Python todo dia na nuvem gratuitamente, atualiza os dados e publica no site sem você precisar de nenhum servidor pago!
+
+### 1. Crie um repositório no GitHub
+1. Acesse [github.com/new](https://github.com/new).
+2. Dê um nome ao repositório (ex.: `medconcursos` ou `concurso-medico`).
+3. Deixe como **Public** e **não** marque as opções de README nem .gitignore (o projeto já tem).
+4. Clique em **Create repository**.
+
+### 2. Envie os arquivos do seu computador
+No terminal da pasta do projeto, execute os comandos:
+```bash
+git remote add origin https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git push -u origin main
 ```
-Ele iniciará o servidor e abrirá o navegador em `http://localhost:8000`.
+*(Substitua `SEU_USUARIO` e `SEU_REPOSITORIO` pelo seu usuário e nome do repo no GitHub)*.
 
-### Opção 2: Pelo terminal
-1. Instale as dependências:
+### 3. Ative o GitHub Pages
+1. No seu repositório no GitHub, clique na aba **Settings** (Configurações).
+2. No menu lateral esquerdo, clique em **Pages**.
+3. Em **Build and deployment**:
+   - **Source**: Selecione `Deploy from a branch`.
+   - **Branch**: Selecione `main` e a pasta `/ (root)`.
+4. Clique em **Save**.
+
+Pronto! Em cerca de 1 minuto, seu site estará no ar no link:
+`https://SEU_USUARIO.github.io/SEU_REPOSITORIO/`
+
+### 4. Permissão para o GitHub Actions atualizar sozinho
+Para a automação diária poder salvar as vagas atualizadas:
+1. No repositório, vá em **Settings** > **Actions** > **General**.
+2. Role até **Workflow permissions** e marque:
+   - **Read and write permissions**.
+3. Clique em **Save**.
+
+---
+
+## ⚡ Atualização Automática vs Manual
+
+- **Atualização Automática**: O arquivo `.github/workflows/update_vagas.yml` roda todos os dias às **06:00 (horário de Brasília)**, raspa o PCI Concursos e atualiza o site automaticamente.
+- **Atualização Manual com 1 clique**:
+  1. Vá na aba **Actions** do seu repositório no GitHub.
+  2. Clique em **Atualização Automática de Vagas**.
+  3. Clique no botão **Run workflow** > **Run workflow**.
+
+---
+
+## 💻 Executando Localmente no Computador
+
+Você também pode continuar usando normalmente no seu computador:
+- Dê dois cliques em `iniciar.bat`, ou:
 ```bash
 pip install -r requirements.txt
-```
-
-2. Execute o servidor:
-```bash
 python main.py
 ```
-
-3. Acesse no navegador:
-```
-http://localhost:8000
-```
-
----
-
-## 📁 Estrutura do Projeto
-
-```
-concurso/
-├── data/
-│   ├── municipios.json   # 5.571 municípios brasileiros com coordenadas IBGE
-│   └── vagas.json        # Cache local das vagas coletadas
-├── static/
-│   ├── index.html        # Interface visual (Tailwind CSS + Lucide Icons)
-│   └── app.js            # Lógica interativa, filtros, ordenação e exportação
-├── main.py               # Servidor FastAPI com rotas da API
-├── scraper.py            # Coletor do PCI Concursos com parser geográfico
-├── requirements.txt      # Dependências Python
-├── iniciar.bat           # Script 1-clique para Windows
-└── README.md             # Documentação do projeto
-```
-
+Acesse em: `http://localhost:8000`
