@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T19:41:32.131851",
+  "updated_at": "2026-11-10T16:55:38.508894",
   "origin": {
     "name": "Divinópolis",
     "uf": "MG",
@@ -8,15 +8,15 @@
   },
   "stats": {
     "total": 192,
-    "total_open": 114,
-    "total_mg": 21,
+    "total_open": 119,
+    "total_mg": 22,
     "closest": {
-      "title": "Prefeitura de Onça de Pitangui",
-      "city": "Onça de Pitangui",
+      "title": "Prefeitura de Araújos",
+      "city": "Araújos",
       "uf": "MG",
-      "dist_km": 47.2,
-      "dist_road_km": 59.0,
-      "salary_str": "R$ 14.829,31"
+      "dist_km": 36.7,
+      "dist_road_km": 45.9,
+      "salary_str": "R$ 13.865,67"
     },
     "highest_salary": {
       "title": "Rede SARAH de Hospitais de Reabilitação",
@@ -24,26 +24,27 @@
       "salary_str": "R$ 36.914,91"
     },
     "state_counts": {
-      "Nacional": 72,
-      "SP": 20,
-      "DF": 8,
+      "Nacional": 68,
+      "SP": 21,
+      "DF": 7,
       "RJ": 2,
-      "MG": 21,
+      "MG": 22,
       "ES": 3,
-      "PR": 3,
-      "RS": 16,
-      "SC": 18,
+      "PR": 2,
+      "RS": 17,
+      "SC": 20,
       "GO": 2,
       "MS": 1,
       "MT": 4,
       "AC": 1,
+      "AP": 1,
       "RO": 1,
-      "BA": 4,
+      "BA": 3,
       "CE": 5,
       "MA": 2,
-      "PB": 1,
+      "PB": 3,
       "PE": 4,
-      "PI": 4
+      "PI": 3
     }
   },
   "vagas": [
@@ -60,7 +61,7 @@
       "salary_val": 11971.07,
       "deadline_str": "18/11/2026",
       "deadline_iso": "2026-11-18",
-      "days_remaining": 10,
+      "days_remaining": 9,
       "vacancies": "80 vagas",
       "details": "80 vagas até R$ 11.971,07 | Médico | Superior",
       "cargo_parts": [
@@ -88,7 +89,7 @@
       "salary_val": 0.0,
       "deadline_str": "10/11/2026",
       "deadline_iso": "2026-11-10",
-      "days_remaining": 2,
+      "days_remaining": 1,
       "vacancies": "25 vagas",
       "details": "25 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -116,7 +117,7 @@
       "salary_val": 0.0,
       "deadline_str": "10/11/2026",
       "deadline_iso": "2026-11-10",
-      "days_remaining": 2,
+      "days_remaining": 1,
       "vacancies": "171 vagas",
       "details": "171 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -144,7 +145,7 @@
       "salary_val": 11778.84,
       "deadline_str": "07/01/2027",
       "deadline_iso": "2027-01-07",
-      "days_remaining": 60,
+      "days_remaining": 59,
       "vacancies": "10 vagas",
       "details": "10 vagas até R$ 11.778,84 | Vários Cargos | Médio / Superior",
       "cargo_parts": [
@@ -172,7 +173,7 @@
       "salary_val": 12213.03,
       "deadline_str": "04/01/2027",
       "deadline_iso": "2027-01-04",
-      "days_remaining": 57,
+      "days_remaining": 56,
       "vacancies": "1072 vagas",
       "details": "1072 vagas até R$ 12.213,03 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -200,7 +201,7 @@
       "salary_val": 18540.71,
       "deadline_str": "15/12/2026",
       "deadline_iso": "2026-12-15",
-      "days_remaining": 37,
+      "days_remaining": 36,
       "vacancies": "107 vagas",
       "details": "107 vagas até R$ 18.540,71 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -228,7 +229,7 @@
       "salary_val": 13881.85,
       "deadline_str": "10/12/2026",
       "deadline_iso": "2026-12-10",
-      "days_remaining": 32,
+      "days_remaining": 31,
       "vacancies": "171 vagas",
       "details": "171 vagas até R$ 13.881,85 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -245,6 +246,34 @@
     },
     {
       "id": 8,
+      "title": "Prefeitura de Patrocínio Paulista",
+      "headline": "Prefeitura de Patrocínio Paulista - SP divulga editais de concurso público e processo seletivo",
+      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-patrocinio-paulista-sp-divulga-editais-de-concurso-publico-e-processo-seletivo",
+      "city": "Patrocínio Paulista",
+      "uf": "SP",
+      "status": "Inscrições Abertas",
+      "is_open": true,
+      "salary_str": "R$ 21.296,07",
+      "salary_val": 21296.07,
+      "deadline_str": "09/12/2026",
+      "deadline_iso": "2026-12-09",
+      "days_remaining": 30,
+      "vacancies": "2 vagas",
+      "details": "2 vagas até R$ 21.296,07 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
+      "cargo_parts": [
+        "2 vagas até R$ 21.296,07",
+        "Vários Cargos",
+        "Fundamental / Médio / Técnico / Superior"
+      ],
+      "dist_km": 255.0,
+      "dist_road_km": 318.8,
+      "distance_category": "Médio (150 - 300 km)",
+      "lat": -20.6384,
+      "lng": -47.2801,
+      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Patroc%C3%ADnio+Paulista%2C+SP%2C+Brasil"
+    },
+    {
+      "id": 9,
       "title": "USCS - Universidade Municipal de São Caetano do Sul, HFASP e Barueri",
       "headline": "FAUSCS - SP abre seleção para residência médica em diversas áreas",
       "link": "https://www.pciconcursos.com.br/noticias/fauscs-sp-abre-selecao-para-residencia-medica-em-diversas-areas",
@@ -256,7 +285,7 @@
       "salary_val": 0.0,
       "deadline_str": "06/12/2026",
       "deadline_iso": "2026-12-06",
-      "days_remaining": 28,
+      "days_remaining": 27,
       "vacancies": "58 vagas",
       "details": "58 vagas | Médico Residente | Superior",
       "cargo_parts": [
@@ -272,7 +301,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/S%C3%A3o+Caetano+do+Sul%2C+SP%2C+Brasil"
     },
     {
-      "id": 9,
+      "id": 10,
       "title": "Prefeitura de Cubatão",
       "headline": "Prefeitura de Cubatão - SP abre concurso público com salários de até R$ 5.565,00",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cubatao-sp-abre-concurso-publico-com-salarios-de-ate-5565",
@@ -284,7 +313,7 @@
       "salary_val": 5565.0,
       "deadline_str": "03/12/2026",
       "deadline_iso": "2026-12-03",
-      "days_remaining": 25,
+      "days_remaining": 24,
       "vacancies": "19 vagas",
       "details": "19 vagas até R$ 5.565,00 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -300,7 +329,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Cubat%C3%A3o%2C+SP%2C+Brasil"
     },
     {
-      "id": 10,
+      "id": 11,
       "title": "Prefeitura de São José da Bela Vista",
       "headline": "Prefeitura de São José da Bela Vista - SP prorroga inscrições de concurso público",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-da-bela-vista-sp-prorroga-inscricoes-de-concurso-publico",
@@ -312,7 +341,7 @@
       "salary_val": 7078.72,
       "deadline_str": "03/12/2026",
       "deadline_iso": "2026-12-03",
-      "days_remaining": 25,
+      "days_remaining": 24,
       "vacancies": "CR",
       "details": "Cadastro reserva até R$ 7.078,72 | Vários Cargos | Médio / Superior",
       "cargo_parts": [
@@ -328,7 +357,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/S%C3%A3o+Jos%C3%A9+da+Bela+Vista%2C+SP%2C+Brasil"
     },
     {
-      "id": 11,
+      "id": 12,
       "title": "Prefeitura de Leme",
       "headline": "Prefeitura de Leme - SP abre concurso público com salários de até R$ 13.359,44",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-leme-sp-abre-concurso-publico-com-salarios-de-ate-13359",
@@ -340,7 +369,7 @@
       "salary_val": 13359.44,
       "deadline_str": "30/11/2026",
       "deadline_iso": "2026-11-30",
-      "days_remaining": 22,
+      "days_remaining": 21,
       "vacancies": "29 vagas",
       "details": "29 vagas até R$ 13.359,44 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -356,35 +385,35 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Leme%2C+SP%2C+Brasil"
     },
     {
-      "id": 12,
-      "title": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
-      "headline": "HCFMRP-USP abre três concursos públicos para médicos",
-      "link": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-abre-tres-concursos-publicos-para-medicos",
-      "city": "São Paulo",
+      "id": 13,
+      "title": "Prefeitura de Pinhalzinho",
+      "headline": "Prefeitura de Pinhalzinho - SP abre concurso público com salários de até R$ 7.723,14",
+      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinhalzinho-sp-abre-concurso-publico-com-salarios-de-ate-7723",
+      "city": "Pinhalzinho",
       "uf": "SP",
       "status": "Inscrições Abertas",
       "is_open": true,
-      "salary_str": "R$ 5.979,93",
-      "salary_val": 5979.93,
-      "deadline_str": "27/11/2026",
-      "deadline_iso": "2026-11-27",
-      "days_remaining": 19,
-      "vacancies": "3 vagas",
-      "details": "3 vagas até R$ 5.979,93 | Médico I | Superior",
+      "salary_str": "R$ 7.723,14",
+      "salary_val": 7723.14,
+      "deadline_str": "29/11/2026",
+      "deadline_iso": "2026-11-29",
+      "days_remaining": 20,
+      "vacancies": "19 vagas",
+      "details": "19 vagas até R$ 7.723,14 | Vários Cargos | Fundamental / Médio / Superior",
       "cargo_parts": [
-        "3 vagas até R$ 5.979,93",
-        "Médico I",
-        "Superior"
+        "19 vagas até R$ 7.723,14",
+        "Vários Cargos",
+        "Fundamental / Médio / Superior"
       ],
-      "dist_km": 417.7,
-      "dist_road_km": 522.1,
+      "dist_km": 341.8,
+      "dist_road_km": 427.2,
       "distance_category": "Distante (300 - 600 km)",
-      "lat": -23.5329,
-      "lng": -46.6395,
-      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/S%C3%A3o+Paulo%2C+SP%2C+Brasil"
+      "lat": -22.7811,
+      "lng": -46.5897,
+      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Pinhalzinho%2C+SP%2C+Brasil"
     },
     {
-      "id": 13,
+      "id": 14,
       "title": "HCFMRP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
       "headline": "HCFMRP - USP abre concurso público para médico na área de alergia e imunologia",
       "link": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-abre-concurso-publico-para-medico-na-area-de-alergia-e-imunologia",
@@ -396,7 +425,7 @@
       "salary_val": 5979.93,
       "deadline_str": "27/11/2026",
       "deadline_iso": "2026-11-27",
-      "days_remaining": 19,
+      "days_remaining": 18,
       "vacancies": "1 vagas",
       "details": "1 vaga até R$ 5.979,93 | Médico I | Superior",
       "cargo_parts": [
@@ -412,7 +441,35 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/S%C3%A3o+Paulo%2C+SP%2C+Brasil"
     },
     {
-      "id": 14,
+      "id": 15,
+      "title": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
+      "headline": "HCFMRP-USP abre três concursos públicos para médicos",
+      "link": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-abre-tres-concursos-publicos-para-medicos",
+      "city": "São Paulo",
+      "uf": "SP",
+      "status": "Inscrições Abertas",
+      "is_open": true,
+      "salary_str": "R$ 5.979,93",
+      "salary_val": 5979.93,
+      "deadline_str": "27/11/2026",
+      "deadline_iso": "2026-11-27",
+      "days_remaining": 18,
+      "vacancies": "3 vagas",
+      "details": "3 vagas até R$ 5.979,93 | Médico I | Superior",
+      "cargo_parts": [
+        "3 vagas até R$ 5.979,93",
+        "Médico I",
+        "Superior"
+      ],
+      "dist_km": 417.7,
+      "dist_road_km": 522.1,
+      "distance_category": "Distante (300 - 600 km)",
+      "lat": -23.5329,
+      "lng": -46.6395,
+      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/S%C3%A3o+Paulo%2C+SP%2C+Brasil"
+    },
+    {
+      "id": 16,
       "title": "Prefeitura de Monteiro Lobato",
       "headline": "Prefeitura de Monteiro Lobato - SP abre concurso público com vagas imediatas e cadastro de reserva",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-monteiro-lobato-sp-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
@@ -424,7 +481,7 @@
       "salary_val": 7408.75,
       "deadline_str": "23/11/2026",
       "deadline_iso": "2026-11-23",
-      "days_remaining": 15,
+      "days_remaining": 14,
       "vacancies": "64 vagas",
       "details": "64 vagas até R$ 7.408,75 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -440,7 +497,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Monteiro+Lobato%2C+SP%2C+Brasil"
     },
     {
-      "id": 15,
+      "id": 17,
       "title": "Prefeitura de Cunha",
       "headline": "Prefeitura de Cunha - SP abre concurso público com salários de até R$ 9.147,62",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cunha-sp-abre-concurso-publico-com-salarios-de-ate-9147",
@@ -452,7 +509,7 @@
       "salary_val": 9147.62,
       "deadline_str": "21/11/2026",
       "deadline_iso": "2026-11-21",
-      "days_remaining": 13,
+      "days_remaining": 12,
       "vacancies": "Cadastro de Reserva",
       "details": "Cadastro de reserva até R$ 9.147,62 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -468,7 +525,35 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Cunha%2C+SP%2C+Brasil"
     },
     {
-      "id": 16,
+      "id": 18,
+      "title": "Prefeitura de Iperó",
+      "headline": "Prefeitura de Iperó - SP abre concursos públicos e processo seletivo",
+      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipero-sp-abre-concursos-publicos-e-processo-seletivo",
+      "city": "Iperó",
+      "uf": "SP",
+      "status": "Inscrições Abertas",
+      "is_open": true,
+      "salary_str": "R$ 5.350,53",
+      "salary_val": 5350.53,
+      "deadline_str": "19/11/2026",
+      "deadline_iso": "2026-11-19",
+      "days_remaining": 10,
+      "vacancies": "55 vagas",
+      "details": "55 vagas até R$ 5.350,53 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
+      "cargo_parts": [
+        "55 vagas até R$ 5.350,53",
+        "Vários Cargos",
+        "Fundamental / Médio / Técnico / Superior"
+      ],
+      "dist_km": 459.2,
+      "dist_road_km": 574.0,
+      "distance_category": "Distante (300 - 600 km)",
+      "lat": -23.3513,
+      "lng": -47.6927,
+      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Iper%C3%B3%2C+SP%2C+Brasil"
+    },
+    {
+      "id": 19,
       "title": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
       "headline": "FAMESP - SP abre processos seletivos para diversas áreas em Bauru",
       "link": "https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-para-diversas-areas-em-bauru",
@@ -480,7 +565,7 @@
       "salary_val": 4934.38,
       "deadline_str": "18/11/2026",
       "deadline_iso": "2026-11-18",
-      "days_remaining": 10,
+      "days_remaining": 9,
       "vacancies": "19 vagas",
       "details": "19 vagas até R$ 4.934,38 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -496,7 +581,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Mar%C3%ADlia%2C+SP%2C+Brasil"
     },
     {
-      "id": 17,
+      "id": 20,
       "title": "Prefeitura de Iaras",
       "headline": "Prefeitura de Iaras - SP abre concurso público e processo seletivo",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-iaras-sp-abre-concurso-publico-e-processo-seletivo",
@@ -508,7 +593,7 @@
       "salary_val": 6142.0,
       "deadline_str": "17/11/2026",
       "deadline_iso": "2026-11-17",
-      "days_remaining": 9,
+      "days_remaining": 8,
       "vacancies": "19 vagas",
       "details": "19 vagas até R$ 6.142,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -524,7 +609,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Iaras%2C+SP%2C+Brasil"
     },
     {
-      "id": 18,
+      "id": 21,
       "title": "FHSL - Fundação Hospital Santa Lydia",
       "headline": "Fundação Hospital Santa Lydia - SP abre seleção com salários de até R$ 7.310,37",
       "link": "https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-selecao-com-salarios-de-ate-7310",
@@ -536,7 +621,7 @@
       "salary_val": 7310.37,
       "deadline_str": "16/11/2026",
       "deadline_iso": "2026-11-16",
-      "days_remaining": 8,
+      "days_remaining": 7,
       "vacancies": "8 vagas",
       "details": "8 vagas até R$ 7.310,37 | Vários Cargos | Médio / Superior",
       "cargo_parts": [
@@ -552,7 +637,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Bras%C3%ADlia%2C+DF%2C+Brasil"
     },
     {
-      "id": 19,
+      "id": 22,
       "title": "Prefeitura de Lençóis Paulista",
       "headline": "Prefeitura de Lençóis Paulista - SP abre concurso público com salários de até R$ 5.044,35",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lencois-paulista-sp-abre-concurso-publico-com-salarios-de-ate-5044",
@@ -564,7 +649,7 @@
       "salary_val": 5044.35,
       "deadline_str": "15/11/2026",
       "deadline_iso": "2026-11-15",
-      "days_remaining": 7,
+      "days_remaining": 6,
       "vacancies": "14 vagas",
       "details": "14 vagas até R$ 5.044,35 | Vários Cargos | Fundamental / Médio / Superior",
       "cargo_parts": [
@@ -580,19 +665,19 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Len%C3%A7%C3%B3is+Paulista%2C+SP%2C+Brasil"
     },
     {
-      "id": 20,
+      "id": 23,
       "title": "Prefeitura de Guaiçara",
       "headline": "Prefeitura de Guaiçara - SP abre concurso público com salários de até R$ 17.716,50",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaicara-sp-abre-concurso-publico-com-salarios-de-ate-17716",
       "city": "Guaiçara",
       "uf": "SP",
-      "status": "Inscrições Abertas",
+      "status": "Últimos Dias",
       "is_open": true,
       "salary_str": "R$ 17.716,50",
       "salary_val": 17716.5,
       "deadline_str": "11/11/2026",
       "deadline_iso": "2026-11-11",
-      "days_remaining": 3,
+      "days_remaining": 2,
       "vacancies": "33 vagas",
       "details": "33 vagas até R$ 17.716,50 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -608,35 +693,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Guai%C3%A7ara%2C+SP%2C+Brasil"
     },
     {
-      "id": 21,
-      "title": "Marinha do Brasil - Comando do 8º Distrito Naval",
-      "headline": "Marinha do Brasil - 8º Distrito Naval abre vagas para Oficiais RM2 em SP",
-      "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-8-distrito-naval-abre-vagas-para-oficiais-rm2-em-sp",
-      "city": "Âmbito Nacional",
-      "uf": "Nacional",
-      "status": "Últimos Dias",
-      "is_open": true,
-      "salary_str": "Consulte o edital",
-      "salary_val": 0.0,
-      "deadline_str": "10/11/2026",
-      "deadline_iso": "2026-11-10",
-      "days_remaining": 2,
-      "vacancies": "36 vagas",
-      "details": "36 vagas | Vários Cargos | Superior",
-      "cargo_parts": [
-        "36 vagas",
-        "Vários Cargos",
-        "Superior"
-      ],
-      "dist_km": null,
-      "dist_road_km": null,
-      "distance_category": "Âmbito Nacional",
-      "lat": null,
-      "lng": null,
-      "maps_url": null
-    },
-    {
-      "id": 22,
+      "id": 24,
       "title": "Prefeitura de Juquiá",
       "headline": "Prefeitura de Juquiá - SP abre concurso público com salários de até R$ 8.653,17",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-juquia-sp-abre-concurso-publico-com-salarios-de-ate-8653",
@@ -648,7 +705,7 @@
       "salary_val": 8653.17,
       "deadline_str": "10/11/2026",
       "deadline_iso": "2026-11-10",
-      "days_remaining": 2,
+      "days_remaining": 1,
       "vacancies": "13 vagas",
       "details": "13 vagas até R$ 8.653,17 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -664,7 +721,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Juqui%C3%A1%2C+SP%2C+Brasil"
     },
     {
-      "id": 23,
+      "id": 25,
       "title": "PRUDENPREV - Sistema de Previdência do Município de Presidente Prudente",
       "headline": "PRUDENPREV - SP abre concurso público com salários de até R$ 11.102,06",
       "link": "https://www.pciconcursos.com.br/noticias/prudenprev-sp-abre-concurso-publico-com-salarios-de-ate-11102",
@@ -676,7 +733,7 @@
       "salary_val": 11102.06,
       "deadline_str": "10/11/2026",
       "deadline_iso": "2026-11-10",
-      "days_remaining": 2,
+      "days_remaining": 1,
       "vacancies": "10 vagas",
       "details": "10 vagas até R$ 11.102,06 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -692,47 +749,47 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Presidente+Prudente%2C+SP%2C+Brasil"
     },
     {
-      "id": 24,
-      "title": "Prefeitura de Piedade",
-      "headline": "Prefeitura de Piedade - SP publica edital de concurso público com salários de até R$ 17.397,46",
-      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piedade-sp-publica-edital-de-concurso-publico-com-salarios-de-ate-17397",
-      "city": "Piedade",
-      "uf": "SP",
+      "id": 26,
+      "title": "Marinha do Brasil - Comando do 8º Distrito Naval",
+      "headline": "Marinha do Brasil - 8º Distrito Naval abre vagas para Oficiais RM2 em SP",
+      "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-8-distrito-naval-abre-vagas-para-oficiais-rm2-em-sp",
+      "city": "Âmbito Nacional",
+      "uf": "Nacional",
       "status": "Últimos Dias",
       "is_open": true,
-      "salary_str": "R$ 17.397,46",
-      "salary_val": 17397.46,
-      "deadline_str": "09/11/2026",
-      "deadline_iso": "2026-11-09",
+      "salary_str": "Consulte o edital",
+      "salary_val": 0.0,
+      "deadline_str": "10/11/2026",
+      "deadline_iso": "2026-11-10",
       "days_remaining": 1,
-      "vacancies": "20 vagas",
-      "details": "20 vagas até R$ 17.397,46 | Vários Cargos | Fundamental / Médio / Superior",
+      "vacancies": "36 vagas",
+      "details": "36 vagas | Vários Cargos | Superior",
       "cargo_parts": [
-        "20 vagas até R$ 17.397,46",
+        "36 vagas",
         "Vários Cargos",
-        "Fundamental / Médio / Superior"
+        "Superior"
       ],
-      "dist_km": 475.2,
-      "dist_road_km": 594.0,
-      "distance_category": "Distante (300 - 600 km)",
-      "lat": -23.7139,
-      "lng": -47.4256,
-      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Piedade%2C+SP%2C+Brasil"
+      "dist_km": null,
+      "dist_road_km": null,
+      "distance_category": "Âmbito Nacional",
+      "lat": null,
+      "lng": null,
+      "maps_url": null
     },
     {
-      "id": 25,
+      "id": 27,
       "title": "CBMERJ - Corpo de Bombeiros Militar do Estado do Rio de Janeiro",
-      "headline": "CBMERJ - RJ retifica edital de processo seletivo para 1º tenente temporário",
-      "link": "https://www.pciconcursos.com.br/noticias/cbmerj-rj-retifica-edital-de-processo-seletivo-para-1-tenente-temporario",
+      "headline": "CBMERJ - RJ prorroga inscrições de processo seletivo para 1º tenente temporário",
+      "link": "https://www.pciconcursos.com.br/noticias/cbmerj-rj-prorroga-inscricoes-de-processo-seletivo-para-1-tenente-temporario",
       "city": "Rio de Janeiro",
       "uf": "RJ",
-      "status": "Últimos Dias",
+      "status": "Inscrições Abertas",
       "is_open": true,
       "salary_str": "R$ 12.279,71",
       "salary_val": 12279.71,
-      "deadline_str": "09/11/2026",
-      "deadline_iso": "2026-11-09",
-      "days_remaining": 1,
+      "deadline_str": "16/11/2026",
+      "deadline_iso": "2026-11-16",
+      "days_remaining": 7,
       "vacancies": "192 vagas",
       "details": "192 vagas até R$ 12.279,71 | Vários Cargos | Superior",
       "cargo_parts": [
@@ -748,7 +805,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Rio+de+Janeiro%2C+RJ%2C+Brasil"
     },
     {
-      "id": 26,
+      "id": 28,
       "title": "Prefeitura de Água Boa",
       "headline": "Prefeitura de Água Boa - MG abre concurso público com salários de até R$ 13.945,21",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-agua-boa-mg-abre-concurso-publico-com-salarios-de-ate-13945",
@@ -760,7 +817,7 @@
       "salary_val": 13945.21,
       "deadline_str": "11/02/2027",
       "deadline_iso": "2027-02-11",
-      "days_remaining": 95,
+      "days_remaining": 94,
       "vacancies": "91 vagas",
       "details": "91 vagas até R$ 13.945,21 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -776,7 +833,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/%C3%81gua+Boa%2C+MG%2C+Brasil"
     },
     {
-      "id": 27,
+      "id": 29,
       "title": "Prefeitura de São José do Divino",
       "headline": "Prefeitura de São José do Divino - MG abre concurso público para diversos cargos",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-divino-mg-abre-concurso-publico-para-diversos-cargos",
@@ -788,7 +845,7 @@
       "salary_val": 3242.0,
       "deadline_str": "10/02/2027",
       "deadline_iso": "2027-02-10",
-      "days_remaining": 94,
+      "days_remaining": 93,
       "vacancies": "64 vagas",
       "details": "64 vagas até R$ 3.242,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -804,7 +861,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/S%C3%A3o+Jos%C3%A9+do+Divino%2C+MG%2C+Brasil"
     },
     {
-      "id": 28,
+      "id": 30,
       "title": "Prefeitura de Santana dos Montes",
       "headline": "Prefeitura de Santana dos Montes - MG abre concurso público com salários de até R$ 20.418,44",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-dos-montes-mg-abre-concurso-publico-com-salarios-de-ate-20418",
@@ -816,7 +873,7 @@
       "salary_val": 20418.44,
       "deadline_str": "21/01/2027",
       "deadline_iso": "2027-01-21",
-      "days_remaining": 74,
+      "days_remaining": 73,
       "vacancies": "43 vagas",
       "details": "43 vagas até R$ 20.418,44 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -832,7 +889,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Santana+dos+Montes%2C+MG%2C+Brasil"
     },
     {
-      "id": 29,
+      "id": 31,
       "title": "Prefeitura de Santa Rita de Jacutinga",
       "headline": "Prefeitura de Santa Rita de Jacutinga - MG abre concurso público com salários de até R$ 10.207,61",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-rita-de-jacutinga-mg-abre-concurso-publico-com-salarios-de-ate-10207",
@@ -844,7 +901,7 @@
       "salary_val": 10207.61,
       "deadline_str": "20/01/2027",
       "deadline_iso": "2027-01-20",
-      "days_remaining": 73,
+      "days_remaining": 72,
       "vacancies": "73 vagas",
       "details": "73 vagas até R$ 10.207,61 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -860,7 +917,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Santa+Rita+de+Jacutinga%2C+MG%2C+Brasil"
     },
     {
-      "id": 30,
+      "id": 32,
       "title": "Prefeitura de Lagoa Santa",
       "headline": "Prefeitura de Lagoa Santa - MG abre concurso público com salários de até R$ 8.860,79",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lagoa-santa-mg-abre-concurso-publico-com-salarios-de-ate-8860",
@@ -872,7 +929,7 @@
       "salary_val": 8860.79,
       "deadline_str": "18/01/2027",
       "deadline_iso": "2027-01-18",
-      "days_remaining": 71,
+      "days_remaining": 70,
       "vacancies": "79 vagas",
       "details": "79 vagas até R$ 8.860,79 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -888,7 +945,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Lagoa+Santa%2C+MG%2C+Brasil"
     },
     {
-      "id": 31,
+      "id": 33,
       "title": "Prefeitura de Luislândia",
       "headline": "Prefeitura de Luislândia - MG abre concurso público com vagas em diversas áreas",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-luislandia-mg-abre-concurso-publico-com-vagas-em-diversas-areas",
@@ -900,7 +957,7 @@
       "salary_val": 10000.0,
       "deadline_str": "06/01/2027",
       "deadline_iso": "2027-01-06",
-      "days_remaining": 59,
+      "days_remaining": 58,
       "vacancies": "88 vagas",
       "details": "88 vagas até R$ 10.000,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -916,7 +973,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Luisl%C3%A2ndia%2C+MG%2C+Brasil"
     },
     {
-      "id": 32,
+      "id": 34,
       "title": "Prefeitura de Patis",
       "headline": "Prefeitura de Patis - MG abre concurso público com salários de até R$ 13.500,00",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-patis-mg-abre-concurso-publico-com-salarios-de-ate-13500",
@@ -928,7 +985,7 @@
       "salary_val": 13500.0,
       "deadline_str": "30/12/2026",
       "deadline_iso": "2026-12-30",
-      "days_remaining": 52,
+      "days_remaining": 51,
       "vacancies": "154 vagas",
       "details": "154 vagas até R$ 13.500,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -944,7 +1001,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Patis%2C+MG%2C+Brasil"
     },
     {
-      "id": 33,
+      "id": 35,
       "title": "Prefeitura de São Pedro da União",
       "headline": "Prefeitura de São Pedro da União - MG abre concurso público com salários de até R$ 17.612,87",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-da-uniao-mg-abre-concurso-publico-com-salarios-de-ate-17612",
@@ -956,7 +1013,7 @@
       "salary_val": 17612.87,
       "deadline_str": "28/12/2026",
       "deadline_iso": "2026-12-28",
-      "days_remaining": 50,
+      "days_remaining": 49,
       "vacancies": "29 vagas",
       "details": "29 vagas até R$ 17.612,87 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -972,7 +1029,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/S%C3%A3o+Pedro+da+Uni%C3%A3o%2C+MG%2C+Brasil"
     },
     {
-      "id": 34,
+      "id": 36,
       "title": "Prefeitura de Alvinópolis",
       "headline": "Prefeitura de Alvinópolis - MG publica retificações de concurso público com salários de até R$ 17.954,23",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alvinopolis-mg-publica-retificacoes-de-concurso-publico-com-salarios-de-ate-17954",
@@ -984,7 +1041,7 @@
       "salary_val": 17954.23,
       "deadline_str": "15/12/2026",
       "deadline_iso": "2026-12-15",
-      "days_remaining": 37,
+      "days_remaining": 36,
       "vacancies": "172 vagas",
       "details": "172 vagas até R$ 17.954,23 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1000,7 +1057,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Alvin%C3%B3polis%2C+MG%2C+Brasil"
     },
     {
-      "id": 35,
+      "id": 37,
       "title": "Prefeitura de São Tomás de Aquino",
       "headline": "Prefeitura de São Tomás de Aquino - MG abre processo seletivo com salários de até R$ 4.978,60",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-tomas-de-aquino-mg-abre-processo-seletivo-com-salarios-de-ate-4978",
@@ -1012,7 +1069,7 @@
       "salary_val": 4978.6,
       "deadline_str": "11/12/2026",
       "deadline_iso": "2026-12-11",
-      "days_remaining": 33,
+      "days_remaining": 32,
       "vacancies": "19 vagas",
       "details": "19 vagas até R$ 4.978,60 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1028,7 +1085,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/S%C3%A3o+Tom%C3%A1s+de+Aquino%2C+MG%2C+Brasil"
     },
     {
-      "id": 36,
+      "id": 38,
       "title": "Prefeitura de Inhapim",
       "headline": "Prefeitura de Inhapim - MG abre concurso público com salários de até R$ 11.232,59",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-inhapim-mg-abre-concurso-publico-com-salarios-de-ate-11232",
@@ -1040,7 +1097,7 @@
       "salary_val": 11232.59,
       "deadline_str": "06/12/2026",
       "deadline_iso": "2026-12-06",
-      "days_remaining": 28,
+      "days_remaining": 27,
       "vacancies": "301 vagas",
       "details": "301 vagas até R$ 11.232,59 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1056,7 +1113,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Inhapim%2C+MG%2C+Brasil"
     },
     {
-      "id": 37,
+      "id": 39,
       "title": "Prefeitura de Antônio Prado de Minas",
       "headline": "Prefeitura de Antônio Prado de Minas - MG abre concurso público para diversos cargos",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-antonio-prado-de-minas-mg-abre-concurso-publico-para-diversos-cargos",
@@ -1068,7 +1125,7 @@
       "salary_val": 3576.46,
       "deadline_str": "02/12/2026",
       "deadline_iso": "2026-12-02",
-      "days_remaining": 24,
+      "days_remaining": 23,
       "vacancies": "33 vagas",
       "details": "33 vagas até R$ 3.576,46 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1084,7 +1141,35 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Ant%C3%B4nio+Prado+de+Minas%2C+MG%2C+Brasil"
     },
     {
-      "id": 38,
+      "id": 40,
+      "title": "Prefeitura de Araújos",
+      "headline": "Prefeitura de Araújos - MG abre processos seletivos com salários de até R$ 13.865,67",
+      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-araujos-mg-abre-processos-seletivos-com-salarios-de-ate-13865",
+      "city": "Araújos",
+      "uf": "MG",
+      "status": "Inscrições Abertas",
+      "is_open": true,
+      "salary_str": "R$ 13.865,67",
+      "salary_val": 13865.67,
+      "deadline_str": "30/11/2026",
+      "deadline_iso": "2026-11-30",
+      "days_remaining": 21,
+      "vacancies": "CR",
+      "details": "Vagas até R$ 13.865,67 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
+      "cargo_parts": [
+        "Vagas até R$ 13.865,67",
+        "Vários Cargos",
+        "Fundamental / Médio / Técnico / Superior"
+      ],
+      "dist_km": 36.7,
+      "dist_road_km": 45.9,
+      "distance_category": "Vizinho (< 70 km)",
+      "lat": -19.9405,
+      "lng": -45.1671,
+      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Ara%C3%BAjos%2C+MG%2C+Brasil"
+    },
+    {
+      "id": 41,
       "title": "CIMAG - Consórcio Público Intermunicipal Multifinalitário da Microrregião do Circuito das Águas",
       "headline": "CIMAG abre concurso público para médicos veterinários com salários de até R$ 8.300,00",
       "link": "https://www.pciconcursos.com.br/noticias/cimag-abre-concurso-publico-para-medicos-veterinarios-com-salarios-de-ate-8300",
@@ -1096,7 +1181,7 @@
       "salary_val": 8300.0,
       "deadline_str": "23/11/2026",
       "deadline_iso": "2026-11-23",
-      "days_remaining": 15,
+      "days_remaining": 14,
       "vacancies": "2 vagas",
       "details": "2 vagas até R$ 8.300,00 | Médico Veterinário Júnior, Médico Veterinário Sênior | Superior",
       "cargo_parts": [
@@ -1112,7 +1197,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/S%C3%A3o+Louren%C3%A7o%2C+MG%2C+Brasil"
     },
     {
-      "id": 39,
+      "id": 42,
       "title": "Prefeitura de Leopoldina",
       "headline": "Prefeitura de Leopoldina - MG abre seleção com salários de até R$ 4.462,11",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-leopoldina-mg-abre-selecao-com-salarios-de-ate-4462",
@@ -1124,7 +1209,7 @@
       "salary_val": 4462.11,
       "deadline_str": "20/11/2026",
       "deadline_iso": "2026-11-20",
-      "days_remaining": 12,
+      "days_remaining": 11,
       "vacancies": "9 vagas",
       "details": "9 vagas até R$ 4.462,11 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1140,7 +1225,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Leopoldina%2C+MG%2C+Brasil"
     },
     {
-      "id": 40,
+      "id": 43,
       "title": "Prefeitura de São Vicente de Minas",
       "headline": "Prefeitura de São Vicente de Minas - MG retifica edital de concurso público",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-vicente-de-minas-mg-retifica-edital-de-concurso-publico",
@@ -1152,7 +1237,7 @@
       "salary_val": 15142.28,
       "deadline_str": "19/11/2026",
       "deadline_iso": "2026-11-19",
-      "days_remaining": 11,
+      "days_remaining": 10,
       "vacancies": "35 vagas",
       "details": "35 vagas até R$ 15.142,28 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1168,35 +1253,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/S%C3%A3o+Vicente+de+Minas%2C+MG%2C+Brasil"
     },
     {
-      "id": 41,
-      "title": "Prefeitura de Paiva",
-      "headline": "Prefeitura de Paiva - MG abre concurso público com salários de até R$ 11.715,84",
-      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paiva-mg-abre-concurso-publico-com-salarios-de-ate-11715",
-      "city": "Paiva",
-      "uf": "MG",
-      "status": "Inscrições Abertas",
-      "is_open": true,
-      "salary_str": "R$ 11.715,84",
-      "salary_val": 11715.84,
-      "deadline_str": "18/11/2026",
-      "deadline_iso": "2026-11-18",
-      "days_remaining": 10,
-      "vacancies": "13 vagas",
-      "details": "13 vagas até R$ 11.715,84 | Vários Cargos | Fundamental / Médio / Superior",
-      "cargo_parts": [
-        "13 vagas até R$ 11.715,84",
-        "Vários Cargos",
-        "Fundamental / Médio / Superior"
-      ],
-      "dist_km": 200.1,
-      "dist_road_km": 250.1,
-      "distance_category": "Médio (150 - 300 km)",
-      "lat": -21.2913,
-      "lng": -43.4088,
-      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Paiva%2C+MG%2C+Brasil"
-    },
-    {
-      "id": 42,
+      "id": 44,
       "title": "Prefeitura de Piracema",
       "headline": "Prefeitura de Piracema - MG abre concurso e processo seletivo com diversas vagas",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piracema-mg-abre-concurso-e-processo-seletivo-com-diversas-vagas",
@@ -1208,7 +1265,7 @@
       "salary_val": 18647.01,
       "deadline_str": "18/11/2026",
       "deadline_iso": "2026-11-18",
-      "days_remaining": 10,
+      "days_remaining": 9,
       "vacancies": "132 vagas",
       "details": "132 vagas até R$ 18.647,01 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1224,7 +1281,35 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Piracema%2C+MG%2C+Brasil"
     },
     {
-      "id": 43,
+      "id": 45,
+      "title": "Prefeitura de Paiva",
+      "headline": "Prefeitura de Paiva - MG abre concurso público com salários de até R$ 11.715,84",
+      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paiva-mg-abre-concurso-publico-com-salarios-de-ate-11715",
+      "city": "Paiva",
+      "uf": "MG",
+      "status": "Inscrições Abertas",
+      "is_open": true,
+      "salary_str": "R$ 11.715,84",
+      "salary_val": 11715.84,
+      "deadline_str": "18/11/2026",
+      "deadline_iso": "2026-11-18",
+      "days_remaining": 9,
+      "vacancies": "13 vagas",
+      "details": "13 vagas até R$ 11.715,84 | Vários Cargos | Fundamental / Médio / Superior",
+      "cargo_parts": [
+        "13 vagas até R$ 11.715,84",
+        "Vários Cargos",
+        "Fundamental / Médio / Superior"
+      ],
+      "dist_km": 200.1,
+      "dist_road_km": 250.1,
+      "distance_category": "Médio (150 - 300 km)",
+      "lat": -21.2913,
+      "lng": -43.4088,
+      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Paiva%2C+MG%2C+Brasil"
+    },
+    {
+      "id": 46,
       "title": "Prefeitura de Confins",
       "headline": "Prefeitura de Confins - MG divulga retificações de processo seletivo",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-confins-mg-divulga-retificacoes-de-processo-seletivo",
@@ -1236,7 +1321,7 @@
       "salary_val": 23298.67,
       "deadline_str": "12/11/2026",
       "deadline_iso": "2026-11-12",
-      "days_remaining": 4,
+      "days_remaining": 3,
       "vacancies": "153 vagas",
       "details": "153 vagas até R$ 23.298,67 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1252,7 +1337,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Confins%2C+MG%2C+Brasil"
     },
     {
-      "id": 44,
+      "id": 47,
       "title": "IPSEMG - Instituto de Previdência dos Servidores do Estado de Minas Gerais",
       "headline": "IPSEMG retifica processo seletivo com vagas para residência médica",
       "link": "https://www.pciconcursos.com.br/noticias/ipsemg-retifica-processo-seletivo-com-vagas-para-residencia-medica",
@@ -1264,7 +1349,7 @@
       "salary_val": 0.0,
       "deadline_str": "12/11/2026",
       "deadline_iso": "2026-11-12",
-      "days_remaining": 4,
+      "days_remaining": 3,
       "vacancies": "99 vagas",
       "details": "99 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -1280,7 +1365,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/%C3%93rg%C3%A3o+Estadual+%28MG%29%2C+MG%2C+Brasil"
     },
     {
-      "id": 45,
+      "id": 48,
       "title": "Prefeitura de São João del-Rei",
       "headline": "Prefeitura de São João del-Rei - MG abre concurso público com salários de até R$ 15.164,56",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-del-rei-mg-abre-concurso-publico-com-salarios-de-ate-15164",
@@ -1292,7 +1377,7 @@
       "salary_val": 15164.56,
       "deadline_str": "12/11/2026",
       "deadline_iso": "2026-11-12",
-      "days_remaining": 4,
+      "days_remaining": 3,
       "vacancies": "74 vagas",
       "details": "74 vagas até R$ 15.164,56 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1308,7 +1393,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/S%C3%A3o+Jo%C3%A3o+del+Rei%2C+MG%2C+Brasil"
     },
     {
-      "id": 46,
+      "id": 49,
       "title": "Prefeitura de Onça de Pitangui",
       "headline": "Prefeitura de Onça de Pitangui - MG abre processo seletivo com salários de até R$ 14.829,31",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-onca-de-pitangui-mg-abre-processo-seletivo-com-salarios-de-ate-14829",
@@ -1320,7 +1405,7 @@
       "salary_val": 14829.31,
       "deadline_str": "10/11/2026",
       "deadline_iso": "2026-11-10",
-      "days_remaining": 2,
+      "days_remaining": 1,
       "vacancies": "11 vagas",
       "details": "11 vagas até R$ 14.829,31 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1336,7 +1421,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/On%C3%A7a+de+Pitangui%2C+MG%2C+Brasil"
     },
     {
-      "id": 47,
+      "id": 50,
       "title": "Prefeitura de Anchieta",
       "headline": "Prefeitura de Anchieta - ES abre concurso público com salários de até R$ 7.362,50",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-anchieta-es-abre-concurso-publico-com-salarios-de-ate-7362",
@@ -1348,7 +1433,7 @@
       "salary_val": 7362.5,
       "deadline_str": "14/12/2026",
       "deadline_iso": "2026-12-14",
-      "days_remaining": 36,
+      "days_remaining": 35,
       "vacancies": "33 vagas",
       "details": "33 vagas até R$ 7.362,50 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1364,7 +1449,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Anchieta%2C+ES%2C+Brasil"
     },
     {
-      "id": 48,
+      "id": 51,
       "title": "Prefeitura de Anchieta",
       "headline": "Prefeitura de Anchieta - ES abre concurso público com salários de até R$ 14.000,00",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-anchieta-es-abre-concurso-publico-com-salarios-de-ate-14000",
@@ -1376,7 +1461,7 @@
       "salary_val": 14000.0,
       "deadline_str": "14/12/2026",
       "deadline_iso": "2026-12-14",
-      "days_remaining": 36,
+      "days_remaining": 35,
       "vacancies": "25 vagas",
       "details": "25 vagas até R$ 14.000,00 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1392,7 +1477,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Anchieta%2C+ES%2C+Brasil"
     },
     {
-      "id": 49,
+      "id": 52,
       "title": "Prefeitura de Dores do Rio Preto",
       "headline": "Prefeitura de Dores do Rio Preto - ES abre seleção com salários de até R$ 17.087,37",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-dores-do-rio-preto-es-abre-selecao-com-salarios-de-ate-17087",
@@ -1404,7 +1489,7 @@
       "salary_val": 17087.37,
       "deadline_str": "10/11/2026",
       "deadline_iso": "2026-11-10",
-      "days_remaining": 2,
+      "days_remaining": 1,
       "vacancies": "176 vagas",
       "details": "176 vagas até R$ 17.087,37 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1420,7 +1505,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Dores+do+Rio+Preto%2C+ES%2C+Brasil"
     },
     {
-      "id": 50,
+      "id": 53,
       "title": "Prefeitura de Quedas do Iguaçu",
       "headline": "Prefeitura de Quedas do Iguaçu - PR abre concurso público com salários de até R$ 11.998,88",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-quedas-do-iguacu-pr-abre-concurso-publico-com-salarios-de-ate-11998",
@@ -1432,7 +1517,7 @@
       "salary_val": 11998.88,
       "deadline_str": "25/11/2026",
       "deadline_iso": "2026-11-25",
-      "days_remaining": 17,
+      "days_remaining": 16,
       "vacancies": "140 vagas",
       "details": "140 vagas até R$ 11.998,88 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1448,7 +1533,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Quedas+do+Igua%C3%A7u%2C+PR%2C+Brasil"
     },
     {
-      "id": 51,
+      "id": 54,
       "title": "Prefeitura de Entre Rios do Oeste",
       "headline": "Prefeitura de Entre Rios do Oeste - PR abre processo seletivo para cargos de nível superior",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-entre-rios-do-oeste-pr-abre-processo-seletivo-para-cargos-de-nivel-superior",
@@ -1460,7 +1545,7 @@
       "salary_val": 14045.9,
       "deadline_str": "17/11/2026",
       "deadline_iso": "2026-11-17",
-      "days_remaining": 9,
+      "days_remaining": 8,
       "vacancies": "4 vagas",
       "details": "4 vagas até R$ 14.045,90 | Vários Cargos | Superior",
       "cargo_parts": [
@@ -1476,63 +1561,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Entre+Rios+do+Oeste%2C+PR%2C+Brasil"
     },
     {
-      "id": 52,
-      "title": "Prefeitura de Francisco Beltrão",
-      "headline": "Prefeitura de Francisco Beltrão - PR abre processo seletivo para diversos cargos",
-      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-francisco-beltrao-pr-abre-processo-seletivo-para-diversos-cargos",
-      "city": "Francisco Beltrão",
-      "uf": "PR",
-      "status": "Últimos Dias",
-      "is_open": true,
-      "salary_str": "R$ 6.749,53",
-      "salary_val": 6749.53,
-      "deadline_str": "09/11/2026",
-      "deadline_iso": "2026-11-09",
-      "days_remaining": 1,
-      "vacancies": "Cadastro de Reserva",
-      "details": "Cadastro de reserva até R$ 6.749,53 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
-      "cargo_parts": [
-        "Cadastro de reserva até R$ 6.749,53",
-        "Vários Cargos",
-        "Fundamental / Médio / Técnico / Superior"
-      ],
-      "dist_km": 1063.7,
-      "dist_road_km": 1329.6,
-      "distance_category": "Muito Distante (> 600 km)",
-      "lat": -26.0817,
-      "lng": -53.0535,
-      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Francisco+Beltr%C3%A3o%2C+PR%2C+Brasil"
-    },
-    {
-      "id": 53,
-      "title": "GHC - Grupo Hospitalar Conceição",
-      "headline": "Grupo Hospitalar Conceição - RS abre concurso para cadastro de reserva em diversas áreas",
-      "link": "https://www.pciconcursos.com.br/noticias/grupo-hospitalar-conceicao-rs-abre-concurso-para-cadastro-de-reserva-em-diversas-areas",
-      "city": "Órgão Estadual (RS)",
-      "uf": "RS",
-      "status": "Inscrições Abertas",
-      "is_open": true,
-      "salary_str": "R$ 12.974,40",
-      "salary_val": 12974.4,
-      "deadline_str": "04/12/2026",
-      "deadline_iso": "2026-12-04",
-      "days_remaining": 26,
-      "vacancies": "Cadastro de Reserva",
-      "details": "Cadastro de reserva até R$ 12.974,40 | Vários Cargos | Fundamental / Técnico / Superior",
-      "cargo_parts": [
-        "Cadastro de reserva até R$ 12.974,40",
-        "Vários Cargos",
-        "Fundamental / Técnico / Superior"
-      ],
-      "dist_km": null,
-      "dist_road_km": null,
-      "distance_category": "Sem localização exata",
-      "lat": null,
-      "lng": null,
-      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/%C3%93rg%C3%A3o+Estadual+%28RS%29%2C+RS%2C+Brasil"
-    },
-    {
-      "id": 54,
+      "id": 55,
       "title": "FHGV - Fundação Hospitalar Getúlio Vargas",
       "headline": "Fundação Hospitalar Getúlio Vargas - RS abre processo seletivo para médicos",
       "link": "https://www.pciconcursos.com.br/noticias/fundacao-hospitalar-getulio-vargas-rs-abre-processo-seletivo-para-medicos",
@@ -1544,7 +1573,7 @@
       "salary_val": 16937.78,
       "deadline_str": "04/12/2026",
       "deadline_iso": "2026-12-04",
-      "days_remaining": 26,
+      "days_remaining": 25,
       "vacancies": "CR",
       "details": "Vagas até R$ 16.937,78 | Médico | Superior",
       "cargo_parts": [
@@ -1560,7 +1589,35 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Get%C3%BAlio+Vargas%2C+RS%2C+Brasil"
     },
     {
-      "id": 55,
+      "id": 56,
+      "title": "GHC - Grupo Hospitalar Conceição",
+      "headline": "Grupo Hospitalar Conceição - RS abre concurso para cadastro de reserva em diversas áreas",
+      "link": "https://www.pciconcursos.com.br/noticias/grupo-hospitalar-conceicao-rs-abre-concurso-para-cadastro-de-reserva-em-diversas-areas",
+      "city": "Órgão Estadual (RS)",
+      "uf": "RS",
+      "status": "Inscrições Abertas",
+      "is_open": true,
+      "salary_str": "R$ 12.974,40",
+      "salary_val": 12974.4,
+      "deadline_str": "04/12/2026",
+      "deadline_iso": "2026-12-04",
+      "days_remaining": 25,
+      "vacancies": "Cadastro de Reserva",
+      "details": "Cadastro de reserva até R$ 12.974,40 | Vários Cargos | Fundamental / Técnico / Superior",
+      "cargo_parts": [
+        "Cadastro de reserva até R$ 12.974,40",
+        "Vários Cargos",
+        "Fundamental / Técnico / Superior"
+      ],
+      "dist_km": null,
+      "dist_road_km": null,
+      "distance_category": "Sem localização exata",
+      "lat": null,
+      "lng": null,
+      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/%C3%93rg%C3%A3o+Estadual+%28RS%29%2C+RS%2C+Brasil"
+    },
+    {
+      "id": 57,
       "title": "Prefeitura de Caxias do Sul",
       "headline": "Prefeitura de Caxias do Sul - RS divulga editais de concurso público",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caxias-do-sul-rs-divulga-editais-de-concurso-publico",
@@ -1572,7 +1629,7 @@
       "salary_val": 19787.77,
       "deadline_str": "29/11/2026",
       "deadline_iso": "2026-11-29",
-      "days_remaining": 21,
+      "days_remaining": 20,
       "vacancies": "24 vagas",
       "details": "24 vagas até R$ 19.787,77 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1588,7 +1645,35 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Caxias+do+Sul%2C+RS%2C+Brasil"
     },
     {
-      "id": 56,
+      "id": 58,
+      "title": "Prefeitura de Piratini",
+      "headline": "Prefeitura de Piratini - RS abre concurso público com salários de até R$ 7.462,95",
+      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piratini-rs-abre-concurso-publico-com-salarios-de-ate-7462",
+      "city": "Piratini",
+      "uf": "RS",
+      "status": "Inscrições Abertas",
+      "is_open": true,
+      "salary_str": "R$ 7.462,95",
+      "salary_val": 7462.95,
+      "deadline_str": "25/11/2026",
+      "deadline_iso": "2026-11-25",
+      "days_remaining": 16,
+      "vacancies": "115 vagas",
+      "details": "115 vagas até R$ 7.462,95 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
+      "cargo_parts": [
+        "115 vagas até R$ 7.462,95",
+        "Vários Cargos",
+        "Fundamental / Médio / Técnico / Superior"
+      ],
+      "dist_km": 1500.2,
+      "dist_road_km": 1875.2,
+      "distance_category": "Muito Distante (> 600 km)",
+      "lat": -31.4473,
+      "lng": -53.0973,
+      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Piratini%2C+RS%2C+Brasil"
+    },
+    {
+      "id": 59,
       "title": "Prefeitura de Ipê",
       "headline": "Prefeitura de Ipê - RS abre concurso público com salários de até R$ 20.745,08",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipe-rs-abre-concurso-publico-com-salarios-de-ate-20745",
@@ -1600,7 +1685,7 @@
       "salary_val": 20745.08,
       "deadline_str": "23/11/2026",
       "deadline_iso": "2026-11-23",
-      "days_remaining": 15,
+      "days_remaining": 14,
       "vacancies": "28 vagas",
       "details": "28 vagas até R$ 20.745,08 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1616,7 +1701,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Ip%C3%AA%2C+RS%2C+Brasil"
     },
     {
-      "id": 57,
+      "id": 60,
       "title": "Prefeitura de Novo Cabrais",
       "headline": "Prefeitura de Novo Cabrais - RS abre concurso público com salários de até R$ 19.089,94",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-cabrais-rs-abre-concurso-publico-com-salarios-de-ate-19089",
@@ -1628,7 +1713,7 @@
       "salary_val": 19089.94,
       "deadline_str": "23/11/2026",
       "deadline_iso": "2026-11-23",
-      "days_remaining": 15,
+      "days_remaining": 14,
       "vacancies": "9 vagas",
       "details": "9 vagas até R$ 19.089,94 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1644,7 +1729,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Novo+Cabrais%2C+RS%2C+Brasil"
     },
     {
-      "id": 58,
+      "id": 61,
       "title": "Prefeitura de Nova Pádua",
       "headline": "Prefeitura de Nova Pádua - RS abre concurso para cadastro de reserva em diversas áreas",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-padua-rs-abre-concurso-para-cadastro-de-reserva-em-diversas-areas",
@@ -1656,7 +1741,7 @@
       "salary_val": 10809.66,
       "deadline_str": "19/11/2026",
       "deadline_iso": "2026-11-19",
-      "days_remaining": 11,
+      "days_remaining": 10,
       "vacancies": "Cadastro de Reserva",
       "details": "Cadastro de Reserva até R$ 10.809,66 | Vários Cargos | Fundamental / Médio / Superior",
       "cargo_parts": [
@@ -1672,7 +1757,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Nova+P%C3%A1dua%2C+RS%2C+Brasil"
     },
     {
-      "id": 59,
+      "id": 62,
       "title": "Prefeitura de Ijuí",
       "headline": "Prefeitura de Ijuí - RS abre concurso público com salários de até R$ 21.312,22",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ijui-rs-abre-concurso-publico-com-salarios-de-ate-21312",
@@ -1684,7 +1769,7 @@
       "salary_val": 21312.22,
       "deadline_str": "19/11/2026",
       "deadline_iso": "2026-11-19",
-      "days_remaining": 11,
+      "days_remaining": 10,
       "vacancies": "157 vagas",
       "details": "157 vagas até R$ 21.312,22 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1700,7 +1785,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Iju%C3%AD%2C+RS%2C+Brasil"
     },
     {
-      "id": 60,
+      "id": 63,
       "title": "Prefeitura de Teutônia",
       "headline": "Município de Teutônia - RS abre concurso público com salários de até R$ 13.844,56",
       "link": "https://www.pciconcursos.com.br/noticias/municipio-de-teutonia-rs-abre-concurso-publico-com-salarios-de-ate-13844",
@@ -1712,7 +1797,7 @@
       "salary_val": 13844.56,
       "deadline_str": "18/11/2026",
       "deadline_iso": "2026-11-18",
-      "days_remaining": 10,
+      "days_remaining": 9,
       "vacancies": "12 vagas",
       "details": "12 vagas até R$ 13.844,56 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1728,7 +1813,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Teut%C3%B4nia%2C+RS%2C+Brasil"
     },
     {
-      "id": 61,
+      "id": 64,
       "title": "Prefeitura de Tio Hugo",
       "headline": "Prefeitura de Tio Hugo - RS abre concurso com vagas imediatas e cadastro de reserva",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tio-hugo-rs-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
@@ -1740,7 +1825,7 @@
       "salary_val": 11943.11,
       "deadline_str": "16/11/2026",
       "deadline_iso": "2026-11-16",
-      "days_remaining": 8,
+      "days_remaining": 7,
       "vacancies": "66 vagas",
       "details": "66 vagas até R$ 11.943,11 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1756,35 +1841,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Tio+Hugo%2C+RS%2C+Brasil"
     },
     {
-      "id": 62,
-      "title": "Prefeitura de Montenegro",
-      "headline": "Prefeitura de Montenegro - RS abre concurso público com salários de até R$ 9.848,34",
-      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-montenegro-rs-abre-concurso-publico-com-salarios-de-ate-9848",
-      "city": "Montenegro",
-      "uf": "RS",
-      "status": "Inscrições Abertas",
-      "is_open": true,
-      "salary_str": "R$ 9.848,34",
-      "salary_val": 9848.34,
-      "deadline_str": "13/11/2026",
-      "deadline_iso": "2026-11-13",
-      "days_remaining": 5,
-      "vacancies": "84 vagas",
-      "details": "84 vagas até R$ 9.848,34 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
-      "cargo_parts": [
-        "84 vagas até R$ 9.848,34",
-        "Vários Cargos",
-        "Fundamental / Médio / Técnico / Superior"
-      ],
-      "dist_km": 1250.2,
-      "dist_road_km": 1562.8,
-      "distance_category": "Muito Distante (> 600 km)",
-      "lat": -29.6824,
-      "lng": -51.4679,
-      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Montenegro%2C+RS%2C+Brasil"
-    },
-    {
-      "id": 63,
+      "id": 65,
       "title": "Prefeitura de Pelotas",
       "headline": "Prefeitura de Pelotas - RS abre processos seletivos para médicos",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pelotas-rs-abre-processos-seletivos-para-medicos",
@@ -1796,7 +1853,7 @@
       "salary_val": 80.0,
       "deadline_str": "13/11/2026",
       "deadline_iso": "2026-11-13",
-      "days_remaining": 5,
+      "days_remaining": 4,
       "vacancies": "2 vagas",
       "details": "2 vagas até R$ 80,00 por hora | Médico | Superior",
       "cargo_parts": [
@@ -1812,7 +1869,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Pelotas%2C+RS%2C+Brasil"
     },
     {
-      "id": 64,
+      "id": 66,
       "title": "Prefeitura de Trindade do Sul",
       "headline": "Prefeitura de Trindade do Sul - RS abre processo seletivo para médicos",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-trindade-do-sul-rs-abre-processo-seletivo-para-medicos",
@@ -1824,7 +1881,7 @@
       "salary_val": 16500.0,
       "deadline_str": "13/11/2026",
       "deadline_iso": "2026-11-13",
-      "days_remaining": 5,
+      "days_remaining": 4,
       "vacancies": "3 vagas",
       "details": "3 vagas até R$ 16.500,00 | Médico | Superior",
       "cargo_parts": [
@@ -1840,7 +1897,35 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Trindade+do+Sul%2C+RS%2C+Brasil"
     },
     {
-      "id": 65,
+      "id": 67,
+      "title": "Prefeitura de Montenegro",
+      "headline": "Prefeitura de Montenegro - RS abre concurso público com salários de até R$ 9.848,34",
+      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-montenegro-rs-abre-concurso-publico-com-salarios-de-ate-9848",
+      "city": "Montenegro",
+      "uf": "RS",
+      "status": "Inscrições Abertas",
+      "is_open": true,
+      "salary_str": "R$ 9.848,34",
+      "salary_val": 9848.34,
+      "deadline_str": "13/11/2026",
+      "deadline_iso": "2026-11-13",
+      "days_remaining": 4,
+      "vacancies": "84 vagas",
+      "details": "84 vagas até R$ 9.848,34 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
+      "cargo_parts": [
+        "84 vagas até R$ 9.848,34",
+        "Vários Cargos",
+        "Fundamental / Médio / Técnico / Superior"
+      ],
+      "dist_km": 1250.2,
+      "dist_road_km": 1562.8,
+      "distance_category": "Muito Distante (> 600 km)",
+      "lat": -29.6824,
+      "lng": -51.4679,
+      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Montenegro%2C+RS%2C+Brasil"
+    },
+    {
+      "id": 68,
       "title": "Prefeitura de Itapuca",
       "headline": "Prefeitura de Itapuca - RS retifica concurso público com salários de até R$ 9.495,82",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapuca-rs-retifica-concurso-publico-com-salarios-de-ate-9495",
@@ -1852,7 +1937,7 @@
       "salary_val": 9495.82,
       "deadline_str": "12/11/2026",
       "deadline_iso": "2026-11-12",
-      "days_remaining": 4,
+      "days_remaining": 3,
       "vacancies": "51 vagas",
       "details": "51 vagas até R$ 9.495,82 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1868,19 +1953,19 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Itapuca%2C+RS%2C+Brasil"
     },
     {
-      "id": 66,
+      "id": 69,
       "title": "HCPA - Hospital de Clínicas de Porto Alegre",
       "headline": "Hospital de Clínicas de Porto Alegre - RS abre seleções para diversos cargos",
       "link": "https://www.pciconcursos.com.br/noticias/hospital-de-clinicas-de-porto-alegre-rs-abre-selecoes-para-diversos-cargos",
       "city": "Porto Alegre",
       "uf": "RS",
-      "status": "Inscrições Abertas",
+      "status": "Últimos Dias",
       "is_open": true,
       "salary_str": "R$ 9.763,80",
       "salary_val": 9763.8,
       "deadline_str": "11/11/2026",
       "deadline_iso": "2026-11-11",
-      "days_remaining": 3,
+      "days_remaining": 2,
       "vacancies": "Cadastro de Reserva",
       "details": "Cadastro de Reserva até R$ 9.763,80 | Vários Cargos | Médio / Superior",
       "cargo_parts": [
@@ -1896,7 +1981,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Porto+Alegre%2C+RS%2C+Brasil"
     },
     {
-      "id": 67,
+      "id": 70,
       "title": "Prefeitura de Nova Boa Vista",
       "headline": "Prefeitura de Nova Boa Vista - RS abre concurso público com salários de até R$ 12.039,12",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-boa-vista-rs-abre-concurso-publico-com-salarios-de-ate-12039",
@@ -1908,7 +1993,7 @@
       "salary_val": 12039.12,
       "deadline_str": "10/11/2026",
       "deadline_iso": "2026-11-10",
-      "days_remaining": 2,
+      "days_remaining": 1,
       "vacancies": "20 vagas",
       "details": "20 vagas até R$ 12.039,12 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1924,7 +2009,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Nova+Boa+Vista%2C+RS%2C+Brasil"
     },
     {
-      "id": 68,
+      "id": 71,
       "title": "IMA - Instituto do Meio Ambiente do Estado de Santa Catarina",
       "headline": "IMA - SC abre concurso público com salários de até R$ 12.300,00",
       "link": "https://www.pciconcursos.com.br/noticias/ima-sc-abre-concurso-publico-com-salarios-de-ate-12300",
@@ -1936,7 +2021,7 @@
       "salary_val": 12300.0,
       "deadline_str": "14/12/2026",
       "deadline_iso": "2026-12-14",
-      "days_remaining": 36,
+      "days_remaining": 35,
       "vacancies": "18 vagas",
       "details": "18 vagas até R$ 12.300,00 | Vários Cargos | Técnico / Superior",
       "cargo_parts": [
@@ -1952,7 +2037,35 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/%C3%93rg%C3%A3o+Estadual+%28SC%29%2C+SC%2C+Brasil"
     },
     {
-      "id": 69,
+      "id": 72,
+      "title": "Prefeitura de Faxinal dos Guedes",
+      "headline": "Prefeitura de Faxinal dos Guedes - SC abre concurso público e processo seletivo com salários de até R$ 7.454,79",
+      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-faxinal-dos-guedes-sc-abre-concurso-publico-e-processo-seletivo-com-salarios-de-ate-7454",
+      "city": "Faxinal dos Guedes",
+      "uf": "SC",
+      "status": "Inscrições Abertas",
+      "is_open": true,
+      "salary_str": "R$ 7.454,79",
+      "salary_val": 7454.79,
+      "deadline_str": "07/12/2026",
+      "deadline_iso": "2026-12-07",
+      "days_remaining": 28,
+      "vacancies": "12 vagas",
+      "details": "12 vagas até R$ 7.454,79 | Vários Cargos | Fundamental / Médio / Superior",
+      "cargo_parts": [
+        "12 vagas até R$ 7.454,79",
+        "Vários Cargos",
+        "Fundamental / Médio / Superior"
+      ],
+      "dist_km": 1057.6,
+      "dist_road_km": 1322.0,
+      "distance_category": "Muito Distante (> 600 km)",
+      "lat": -26.8451,
+      "lng": -52.2596,
+      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Faxinal+dos+Guedes%2C+SC%2C+Brasil"
+    },
+    {
+      "id": 73,
       "title": "Prefeitura de Agronômica",
       "headline": "Prefeitura de Agronômica - SC abre concurso público com salários de até R$ 19.660,06",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-agronomica-sc-abre-concurso-publico-com-salarios-de-ate-19660",
@@ -1964,7 +2077,7 @@
       "salary_val": 19660.06,
       "deadline_str": "04/12/2026",
       "deadline_iso": "2026-12-04",
-      "days_remaining": 26,
+      "days_remaining": 25,
       "vacancies": "17 vagas",
       "details": "17 vagas até R$ 19.660,06 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1980,7 +2093,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Agron%C3%B4mica%2C+SC%2C+Brasil"
     },
     {
-      "id": 70,
+      "id": 74,
       "title": "Prefeitura de Luzerna",
       "headline": "Prefeitura de Luzerna - SC abre concurso público com salários de até R$ 14.004,25",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-luzerna-sc-abre-concurso-publico-com-salarios-de-ate-14004",
@@ -1992,7 +2105,7 @@
       "salary_val": 14004.25,
       "deadline_str": "03/12/2026",
       "deadline_iso": "2026-12-03",
-      "days_remaining": 25,
+      "days_remaining": 24,
       "vacancies": "4 vagas",
       "details": "4 vagas até R$ 14.004,25 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2008,7 +2121,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Luzerna%2C+SC%2C+Brasil"
     },
     {
-      "id": 71,
+      "id": 75,
       "title": "Prefeitura de Fraiburgo",
       "headline": "Prefeitura de Fraiburgo - SC abre processo seletivo para cadastro de reserva",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fraiburgo-sc-abre-processo-seletivo-para-cadastro-de-reserva",
@@ -2020,7 +2133,7 @@
       "salary_val": 25103.42,
       "deadline_str": "02/12/2026",
       "deadline_iso": "2026-12-02",
-      "days_remaining": 24,
+      "days_remaining": 23,
       "vacancies": "Cadastro de Reserva",
       "details": "Cadastro de reserva até R$ 25.103,42 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2036,7 +2149,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Fraiburgo%2C+SC%2C+Brasil"
     },
     {
-      "id": 72,
+      "id": 76,
       "title": "Prefeitura de Guarujá do Sul",
       "headline": "Prefeitura de Guarujá do Sul - SC abre concurso e seleções com salários de até R$ 30,7 mil",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaruja-do-sul-sc-abre-concurso-e-selecoes-com-salarios-de-ate-30-7-mil",
@@ -2048,7 +2161,7 @@
       "salary_val": 30761.75,
       "deadline_str": "02/12/2026",
       "deadline_iso": "2026-12-02",
-      "days_remaining": 24,
+      "days_remaining": 23,
       "vacancies": "5 vagas",
       "details": "5 vagas até R$ 30.761,75 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2064,7 +2177,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Guaruj%C3%A1+do+Sul%2C+SC%2C+Brasil"
     },
     {
-      "id": 73,
+      "id": 77,
       "title": "Prefeitura de Ibirama",
       "headline": "Prefeitura de Ibirama - SC abre concurso público com salários de até R$ 20.364,15",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibirama-sc-abre-concurso-publico-com-salarios-de-ate-20364",
@@ -2076,7 +2189,7 @@
       "salary_val": 20364.15,
       "deadline_str": "29/11/2026",
       "deadline_iso": "2026-11-29",
-      "days_remaining": 21,
+      "days_remaining": 20,
       "vacancies": "10 vagas",
       "details": "10 vagas até R$ 20.364,15 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2092,7 +2205,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Ibirama%2C+SC%2C+Brasil"
     },
     {
-      "id": 74,
+      "id": 78,
       "title": "Prefeitura de Nova Trento",
       "headline": "Município de Nova Trento - SC abre três novos processos seletivos com salários de até R$ 14.189,97",
       "link": "https://www.pciconcursos.com.br/noticias/municipio-de-nova-trento-sc-abre-tres-novos-processos-seletivos-com-salarios-de-ate-14189",
@@ -2104,7 +2217,7 @@
       "salary_val": 14189.97,
       "deadline_str": "28/11/2026",
       "deadline_iso": "2026-11-28",
-      "days_remaining": 20,
+      "days_remaining": 19,
       "vacancies": "Cadastro de Reserva",
       "details": "Cadastro de reserva até R$ 14.189,97 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2120,7 +2233,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Nova+Trento%2C+SC%2C+Brasil"
     },
     {
-      "id": 75,
+      "id": 79,
       "title": "Prefeitura e Fundação Cultural de Navegantes",
       "headline": "Prefeitura e Fundação Cultural de Navegantes - SC abrem seleções com salários de até R$ 19.199,16",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-e-fundacao-cultural-de-navegantes-sc-abrem-selecoes-com-salarios-de-ate-19199",
@@ -2132,7 +2245,7 @@
       "salary_val": 19199.16,
       "deadline_str": "25/11/2026",
       "deadline_iso": "2026-11-25",
-      "days_remaining": 17,
+      "days_remaining": 16,
       "vacancies": "Cadastro de Reserva",
       "details": "Cadastro de Reserva até R$ 19.199,16 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2148,7 +2261,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Navegantes%2C+SC%2C+Brasil"
     },
     {
-      "id": 76,
+      "id": 80,
       "title": "Prefeitura de Santa Terezinha do Progresso",
       "headline": "Prefeitura de Santa Terezinha do Progresso - SC abre concurso com salários de até R$ 10.000,00",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-terezinha-do-progresso-sc-abre-concurso-com-salarios-de-ate-10000",
@@ -2160,7 +2273,7 @@
       "salary_val": 10000.0,
       "deadline_str": "25/11/2026",
       "deadline_iso": "2026-11-25",
-      "days_remaining": 17,
+      "days_remaining": 16,
       "vacancies": "8 vagas",
       "details": "8 vagas até R$ 10.000,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2176,35 +2289,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Santa+Terezinha+do+Progresso%2C+SC%2C+Brasil"
     },
     {
-      "id": 77,
-      "title": "Prefeitura de Luiz Alves",
-      "headline": "Prefeitura de Luiz Alves - SC abre concurso público com salários de até R$ 8.889,30",
-      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-luiz-alves-sc-abre-concurso-publico-com-salarios-de-ate-8889",
-      "city": "Luiz Alves",
-      "uf": "SC",
-      "status": "Inscrições Abertas",
-      "is_open": true,
-      "salary_str": "R$ 8.889,30",
-      "salary_val": 8889.3,
-      "deadline_str": "23/11/2026",
-      "deadline_iso": "2026-11-23",
-      "days_remaining": 15,
-      "vacancies": "63 vagas",
-      "details": "63 vagas até R$ 8.889,30 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
-      "cargo_parts": [
-        "63 vagas até R$ 8.889,30",
-        "Vários Cargos",
-        "Fundamental / Médio / Técnico / Superior"
-      ],
-      "dist_km": 838.7,
-      "dist_road_km": 1048.4,
-      "distance_category": "Muito Distante (> 600 km)",
-      "lat": -26.7151,
-      "lng": -48.9322,
-      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Luiz+Alves%2C+SC%2C+Brasil"
-    },
-    {
-      "id": 78,
+      "id": 81,
       "title": "Prefeitura de Bom Retiro",
       "headline": "Prefeitura de Bom Retiro - SC abre concurso público com salários de até R$ 20.138,46",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-retiro-sc-abre-concurso-publico-com-salarios-de-ate-20138",
@@ -2216,7 +2301,7 @@
       "salary_val": 20138.46,
       "deadline_str": "23/11/2026",
       "deadline_iso": "2026-11-23",
-      "days_remaining": 15,
+      "days_remaining": 14,
       "vacancies": "66 vagas",
       "details": "66 vagas até R$ 20.138,46 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2232,7 +2317,35 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Bom+Retiro%2C+SC%2C+Brasil"
     },
     {
-      "id": 79,
+      "id": 82,
+      "title": "Prefeitura de Luiz Alves",
+      "headline": "Prefeitura de Luiz Alves - SC abre concurso público com salários de até R$ 8.889,30",
+      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-luiz-alves-sc-abre-concurso-publico-com-salarios-de-ate-8889",
+      "city": "Luiz Alves",
+      "uf": "SC",
+      "status": "Inscrições Abertas",
+      "is_open": true,
+      "salary_str": "R$ 8.889,30",
+      "salary_val": 8889.3,
+      "deadline_str": "23/11/2026",
+      "deadline_iso": "2026-11-23",
+      "days_remaining": 14,
+      "vacancies": "63 vagas",
+      "details": "63 vagas até R$ 8.889,30 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
+      "cargo_parts": [
+        "63 vagas até R$ 8.889,30",
+        "Vários Cargos",
+        "Fundamental / Médio / Técnico / Superior"
+      ],
+      "dist_km": 838.7,
+      "dist_road_km": 1048.4,
+      "distance_category": "Muito Distante (> 600 km)",
+      "lat": -26.7151,
+      "lng": -48.9322,
+      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Luiz+Alves%2C+SC%2C+Brasil"
+    },
+    {
+      "id": 83,
       "title": "Prefeitura de Praia Grande e Fundo Municipal de Saúde",
       "headline": "Prefeitura de Praia Grande - SC abre seleções com salários de até R$ 7.921,65",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-praia-grande-sc-abre-selecoes-com-salarios-de-ate-7921",
@@ -2244,7 +2357,7 @@
       "salary_val": 7921.65,
       "deadline_str": "22/11/2026",
       "deadline_iso": "2026-11-22",
-      "days_remaining": 14,
+      "days_remaining": 13,
       "vacancies": "79 vagas",
       "details": "79 vagas até R$ 7.921,65 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2260,7 +2373,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Praia+Grande%2C+SC%2C+Brasil"
     },
     {
-      "id": 80,
+      "id": 84,
       "title": "Prefeitura de Iporã do Oeste",
       "headline": "Prefeitura de Iporã do Oeste - SC abre concurso público e processos seletivos com salários de até R$ 19.265,80",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipora-do-oeste-sc-abre-concurso-publico-e-processos-seletivos-com-salarios-de-ate-19265",
@@ -2272,7 +2385,7 @@
       "salary_val": 19265.8,
       "deadline_str": "16/11/2026",
       "deadline_iso": "2026-11-16",
-      "days_remaining": 8,
+      "days_remaining": 7,
       "vacancies": "5 vagas",
       "details": "5 vagas até R$ 19.265,80 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2288,7 +2401,35 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Ipor%C3%A3+do+Oeste%2C+SC%2C+Brasil"
     },
     {
-      "id": 81,
+      "id": 85,
+      "title": "HEMOSC",
+      "headline": "FAHECE - SC prorroga inscrições de processo seletivo para Médico no HEMOSC de Joinville",
+      "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-prorroga-inscricoes-de-processo-seletivo-para-medico-no-hemosc-de-joinville",
+      "city": "Joinville",
+      "uf": "SC",
+      "status": "Inscrições Abertas",
+      "is_open": true,
+      "salary_str": "R$ 10.153,19",
+      "salary_val": 10153.19,
+      "deadline_str": "16/11/2026",
+      "deadline_iso": "2026-11-16",
+      "days_remaining": 7,
+      "vacancies": "1 vagas",
+      "details": "1 vaga até R$ 10.153,19 | Médico II | Superior",
+      "cargo_parts": [
+        "1 vaga até R$ 10.153,19",
+        "Médico II",
+        "Superior"
+      ],
+      "dist_km": 795.3,
+      "dist_road_km": 994.1,
+      "distance_category": "Muito Distante (> 600 km)",
+      "lat": -26.3045,
+      "lng": -48.8487,
+      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Joinville%2C+SC%2C+Brasil"
+    },
+    {
+      "id": 86,
       "title": "Prefeitura de Rio Negrinho, FMC, IPRERIO e SAMAE",
       "headline": "Prefeitura de Rio Negrinho - SC e órgãos municipais abrem novos concursos públicos",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-negrinho-sc-e-orgaos-municipais-abrem-novos-concursos-publicos",
@@ -2300,7 +2441,7 @@
       "salary_val": 18538.78,
       "deadline_str": "15/11/2026",
       "deadline_iso": "2026-11-15",
-      "days_remaining": 7,
+      "days_remaining": 6,
       "vacancies": "27 vagas",
       "details": "27 vagas até R$ 18.538,78 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2316,7 +2457,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Rio+Negrinho%2C+SC%2C+Brasil"
     },
     {
-      "id": 82,
+      "id": 87,
       "title": "Prefeitura de Ilhota",
       "headline": "Prefeitura de Ilhota - SC publica edital de concurso público com salários de até R$ 21.113,16",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ilhota-sc-publica-edital-de-concurso-publico-com-salarios-de-ate-21113",
@@ -2328,7 +2469,7 @@
       "salary_val": 21113.16,
       "deadline_str": "14/11/2026",
       "deadline_iso": "2026-11-14",
-      "days_remaining": 6,
+      "days_remaining": 5,
       "vacancies": "36 vagas",
       "details": "36 vagas até R$ 21.113,16 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2344,7 +2485,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Ilhota%2C+SC%2C+Brasil"
     },
     {
-      "id": 83,
+      "id": 88,
       "title": "Prefeitura de Jaraguá do Sul",
       "headline": "Prefeitura de Jaraguá do Sul - SC abre processos seletivos com salários de até R$ 15.606,92",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jaragua-do-sul-sc-abre-processos-seletivos-com-salarios-de-ate-15606",
@@ -2356,7 +2497,7 @@
       "salary_val": 15606.92,
       "deadline_str": "12/11/2026",
       "deadline_iso": "2026-11-12",
-      "days_remaining": 4,
+      "days_remaining": 3,
       "vacancies": "10 vagas",
       "details": "10 vagas até R$ 15.606,92 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2372,19 +2513,19 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Jaragu%C3%A1+do+Sul%2C+SC%2C+Brasil"
     },
     {
-      "id": 84,
+      "id": 89,
       "title": "SES - Secretaria de Estado da Saúde de Santa Catarina",
       "headline": "SES - SC abre processo seletivo para a Maternidade Dona Catarina Kuss em Mafra",
       "link": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-processo-seletivo-para-a-maternidade-dona-catarina-kuss-em-mafra",
       "city": "Mafra",
       "uf": "SC",
-      "status": "Inscrições Abertas",
+      "status": "Últimos Dias",
       "is_open": true,
       "salary_str": "R$ 10.581,16",
       "salary_val": 10581.16,
       "deadline_str": "11/11/2026",
       "deadline_iso": "2026-11-11",
-      "days_remaining": 3,
+      "days_remaining": 2,
       "vacancies": "4 vagas",
       "details": "4 vagas até R$ 10.581,16 | Eletricista, Médico especialista em Anestesiologia, Médico especialista em Infectologia | Médio / Superior",
       "cargo_parts": [
@@ -2400,19 +2541,19 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Mafra%2C+SC%2C+Brasil"
     },
     {
-      "id": 85,
+      "id": 90,
       "title": "Prefeitura de Imbituba",
       "headline": "Prefeitura de Imbituba - SC abre concurso público com salários de até R$ 4.807,49",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-imbituba-sc-abre-concurso-publico-com-salarios-de-ate-4807",
       "city": "Imbituba",
       "uf": "SC",
-      "status": "Inscrições Abertas",
+      "status": "Últimos Dias",
       "is_open": true,
       "salary_str": "R$ 4.807,49",
       "salary_val": 4807.49,
       "deadline_str": "11/11/2026",
       "deadline_iso": "2026-11-11",
-      "days_remaining": 3,
+      "days_remaining": 2,
       "vacancies": "8 vagas",
       "details": "8 vagas até R$ 4.807,49 | Vários Cargos | Médio / Superior",
       "cargo_parts": [
@@ -2428,7 +2569,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Imbituba%2C+SC%2C+Brasil"
     },
     {
-      "id": 86,
+      "id": 91,
       "title": "IGESDF - Instituto de Gestão Estratégica de Saúde do Distrito Federal",
       "headline": "IGESDF - DF anuncia seleções para terapeuta ocupacional e médico cirurgião geral",
       "link": "https://www.pciconcursos.com.br/noticias/igesdf-df-anuncia-selecoes-para-terapeuta-ocupacional-e-medico-cirurgiao-geral",
@@ -2440,7 +2581,7 @@
       "salary_val": 13359.56,
       "deadline_str": "13/11/2026",
       "deadline_iso": "2026-11-13",
-      "days_remaining": 5,
+      "days_remaining": 4,
       "vacancies": "CR",
       "details": "Cadastro Reserva até R$ 13.359,56 | Terapeuta Ocupacional, Médico Cirurgião Geral | Superior",
       "cargo_parts": [
@@ -2456,35 +2597,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Bras%C3%ADlia%2C+DF%2C+Brasil"
     },
     {
-      "id": 87,
-      "title": "HSL - Hospital Santa Lúcia",
-      "headline": "Hospital Santa Lúcia abre vagas para residência médica em diversas especialidades",
-      "link": "https://www.pciconcursos.com.br/noticias/hospital-santa-lucia-abre-vagas-para-residencia-medica-em-diversas-especialidades",
-      "city": "Brasília",
-      "uf": "DF",
-      "status": "Últimos Dias",
-      "is_open": true,
-      "salary_str": "R$ 4.106,09",
-      "salary_val": 4106.09,
-      "deadline_str": "09/11/2026",
-      "deadline_iso": "2026-11-09",
-      "days_remaining": 1,
-      "vacancies": "22 vagas",
-      "details": "22 vagas até R$ 4.106,09 | Vários Cargos | Superior",
-      "cargo_parts": [
-        "22 vagas até R$ 4.106,09",
-        "Vários Cargos",
-        "Superior"
-      ],
-      "dist_km": 582.1,
-      "dist_road_km": 727.6,
-      "distance_category": "Distante (300 - 600 km)",
-      "lat": -15.7795,
-      "lng": -47.9297,
-      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Bras%C3%ADlia%2C+DF%2C+Brasil"
-    },
-    {
-      "id": 88,
+      "id": 92,
       "title": "Prefeitura de São Francisco de Goiás",
       "headline": "Prefeitura de São Francisco de Goiás - GO abre concurso público com salários de até R$ 10.500,00",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-francisco-de-goias-go-abre-concurso-publico-com-salarios-de-ate-10500",
@@ -2496,7 +2609,7 @@
       "salary_val": 10500.0,
       "deadline_str": "07/01/2027",
       "deadline_iso": "2027-01-07",
-      "days_remaining": 60,
+      "days_remaining": 59,
       "vacancies": "86 vagas",
       "details": "86 vagas até R$ 10.500,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2512,7 +2625,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/S%C3%A3o+Francisco+de+Goi%C3%A1s%2C+GO%2C+Brasil"
     },
     {
-      "id": 89,
+      "id": 93,
       "title": "Prefeitura e Câmara de Faina",
       "headline": "Prefeitura e Câmara de Faina - GO reabrem concurso público com diversas vagas",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-faina-go-reabrem-concurso-publico-com-diversas-vagas",
@@ -2524,7 +2637,7 @@
       "salary_val": 13530.0,
       "deadline_str": "03/12/2026",
       "deadline_iso": "2026-12-03",
-      "days_remaining": 25,
+      "days_remaining": 24,
       "vacancies": "70 vagas",
       "details": "70 vagas até R$ 13.530,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2540,7 +2653,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Faina%2C+GO%2C+Brasil"
     },
     {
-      "id": 90,
+      "id": 94,
       "title": "UFMS - Fundação Universidade Federal de Mato Grosso do Sul",
       "headline": "UFMS abre concurso público para cargos técnico-administrativos em educação",
       "link": "https://www.pciconcursos.com.br/noticias/ufms-abre-concurso-publico-para-cargos-tecnico-administrativos-em-educacao",
@@ -2552,7 +2665,7 @@
       "salary_val": 5215.39,
       "deadline_str": "04/12/2026",
       "deadline_iso": "2026-12-04",
-      "days_remaining": 26,
+      "days_remaining": 25,
       "vacancies": "154 vagas",
       "details": "154 vagas até R$ 5.215,39 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2568,7 +2681,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Campo+Grande%2C+MS%2C+Brasil"
     },
     {
-      "id": 91,
+      "id": 95,
       "title": "Prefeitura de Novo São Joaquim",
       "headline": "Prefeitura de Novo São Joaquim - MT abre concurso com salários de até R$ 11.979,03",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-sao-joaquim-mt-abre-concurso-com-salarios-de-ate-11979",
@@ -2580,7 +2693,7 @@
       "salary_val": 11979.03,
       "deadline_str": "04/01/2027",
       "deadline_iso": "2027-01-04",
-      "days_remaining": 57,
+      "days_remaining": 56,
       "vacancies": "266 vagas",
       "details": "266 vagas até R$ 11.979,03 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2596,35 +2709,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Novo+S%C3%A3o+Joaquim%2C+MT%2C+Brasil"
     },
     {
-      "id": 92,
-      "title": "Prefeitura de Pontes e Lacerda",
-      "headline": "Prefeitura de Pontes e Lacerda - MT abre processo seletivo com salários de até R$ 11.308,36",
-      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pontes-e-lacerda-mt-abre-processo-seletivo-com-salarios-de-ate-11308",
-      "city": "Pontes e Lacerda",
-      "uf": "MT",
-      "status": "Inscrições Abertas",
-      "is_open": true,
-      "salary_str": "R$ 11.308,36",
-      "salary_val": 11308.36,
-      "deadline_str": "22/11/2026",
-      "deadline_iso": "2026-11-22",
-      "days_remaining": 14,
-      "vacancies": "47 vagas",
-      "details": "47 vagas até R$ 11.308,36 | Vários Cargos | Médio / Técnico / Superior",
-      "cargo_parts": [
-        "47 vagas até R$ 11.308,36",
-        "Vários Cargos",
-        "Médio / Técnico / Superior"
-      ],
-      "dist_km": 1625.1,
-      "dist_road_km": 2031.4,
-      "distance_category": "Muito Distante (> 600 km)",
-      "lat": -15.2219,
-      "lng": -59.3435,
-      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Pontes+e+Lacerda%2C+MT%2C+Brasil"
-    },
-    {
-      "id": 93,
+      "id": 96,
       "title": "Prefeitura de Santa Rita do Trivelato",
       "headline": "Prefeitura de Santa Rita do Trivelato - MT abre seleção com salários de até R$ 21.825,31",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-rita-do-trivelato-mt-abre-selecao-com-salarios-de-ate-21825",
@@ -2636,7 +2721,7 @@
       "salary_val": 21825.31,
       "deadline_str": "22/11/2026",
       "deadline_iso": "2026-11-22",
-      "days_remaining": 14,
+      "days_remaining": 13,
       "vacancies": "CR",
       "details": "Vagas até R$ 21.825,31 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2652,7 +2737,35 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Santa+Rita+do+Trivelato%2C+MT%2C+Brasil"
     },
     {
-      "id": 94,
+      "id": 97,
+      "title": "Prefeitura de Pontes e Lacerda",
+      "headline": "Prefeitura de Pontes e Lacerda - MT abre processo seletivo com salários de até R$ 11.308,36",
+      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pontes-e-lacerda-mt-abre-processo-seletivo-com-salarios-de-ate-11308",
+      "city": "Pontes e Lacerda",
+      "uf": "MT",
+      "status": "Inscrições Abertas",
+      "is_open": true,
+      "salary_str": "R$ 11.308,36",
+      "salary_val": 11308.36,
+      "deadline_str": "22/11/2026",
+      "deadline_iso": "2026-11-22",
+      "days_remaining": 13,
+      "vacancies": "47 vagas",
+      "details": "47 vagas até R$ 11.308,36 | Vários Cargos | Médio / Técnico / Superior",
+      "cargo_parts": [
+        "47 vagas até R$ 11.308,36",
+        "Vários Cargos",
+        "Médio / Técnico / Superior"
+      ],
+      "dist_km": 1625.1,
+      "dist_road_km": 2031.4,
+      "distance_category": "Muito Distante (> 600 km)",
+      "lat": -15.2219,
+      "lng": -59.3435,
+      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Pontes+e+Lacerda%2C+MT%2C+Brasil"
+    },
+    {
+      "id": 98,
       "title": "Prefeitura de Mirassol d'Oeste",
       "headline": "Prefeitura de Mirassol d'Oeste - MT abre processo seletivo com salários de até R$ 27.645,05",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mirassol-doeste-mt-abre-processo-seletivo-com-salarios-de-ate-27645",
@@ -2664,7 +2777,7 @@
       "salary_val": 27645.05,
       "deadline_str": "16/11/2026",
       "deadline_iso": "2026-11-16",
-      "days_remaining": 8,
+      "days_remaining": 7,
       "vacancies": "205 vagas",
       "details": "205 vagas até R$ 27.645,05 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2680,7 +2793,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Mirassol+d%27Oeste%2C+MT%2C+Brasil"
     },
     {
-      "id": 95,
+      "id": 99,
       "title": "PCAC - Polícia Civil do Estado do Acre",
       "headline": "Polícia Civil do Estado do Acre (PCAC) e SEAD - AC abrem concurso público com salários de até R$ 19.505,66",
       "link": "https://www.pciconcursos.com.br/noticias/policia-civil-do-estado-do-acre-pcac-e-sead-ac-abrem-concurso-publico-com-salarios-de-ate-19505",
@@ -2692,7 +2805,7 @@
       "salary_val": 19505.66,
       "deadline_str": "14/12/2026",
       "deadline_iso": "2026-12-14",
-      "days_remaining": 36,
+      "days_remaining": 35,
       "vacancies": "139 vagas",
       "details": "139 vagas até R$ 19.505,66 | Vários Cargos | Superior",
       "cargo_parts": [
@@ -2708,7 +2821,35 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/%C3%93rg%C3%A3o+Estadual+%28AC%29%2C+AC%2C+Brasil"
     },
     {
-      "id": 96,
+      "id": 100,
+      "title": "Prefeitura de Pedra Branca do Amapari",
+      "headline": "Prefeitura de Pedra Branca do Amapari - AP abre concurso público com salários de até R$ 6.000,00",
+      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pedra-branca-do-amapari-ap-abre-concurso-publico-com-salarios-de-ate-6000",
+      "city": "Pedra Branca do Amapari",
+      "uf": "AP",
+      "status": "Inscrições Abertas",
+      "is_open": true,
+      "salary_str": "R$ 6.000,00",
+      "salary_val": 6000.0,
+      "deadline_str": "23/12/2026",
+      "deadline_iso": "2026-12-23",
+      "days_remaining": 44,
+      "vacancies": "171 vagas",
+      "details": "171 vagas até R$ 6.000,00 | Vários Cargos | Médio / Técnico / Superior",
+      "cargo_parts": [
+        "171 vagas até R$ 6.000,00",
+        "Vários Cargos",
+        "Médio / Técnico / Superior"
+      ],
+      "dist_km": 2450.2,
+      "dist_road_km": 3062.8,
+      "distance_category": "Muito Distante (> 600 km)",
+      "lat": 0.777424,
+      "lng": -51.9503,
+      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Pedra+Branca+do+Amapari%2C+AP%2C+Brasil"
+    },
+    {
+      "id": 101,
       "title": "IPAM - Instituto de Previdência e Assistência dos Servidores do Município de Porto Velho",
       "headline": "IPAM de Porto Velho - RO abre concurso público com salários de até R$ 5.000,00",
       "link": "https://www.pciconcursos.com.br/noticias/ipam-de-porto-velho-ro-abre-concurso-publico-com-salarios-de-ate-5000",
@@ -2720,7 +2861,7 @@
       "salary_val": 5000.0,
       "deadline_str": "07/12/2026",
       "deadline_iso": "2026-12-07",
-      "days_remaining": 29,
+      "days_remaining": 28,
       "vacancies": "71 vagas",
       "details": "71 vagas até R$ 5.000,00 | Técnico Autárquico, Analista Autárquico | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2736,7 +2877,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Porto+Velho%2C+RO%2C+Brasil"
     },
     {
-      "id": 97,
+      "id": 102,
       "title": "Prefeitura de Luís Eduardo Magalhães",
       "headline": "Prefeitura de Luís Eduardo Magalhães - BA abre processo seletivo para diversos cargos",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-luis-eduardo-magalhaes-ba-abre-processo-seletivo-para-diversos-cargos",
@@ -2748,7 +2889,7 @@
       "salary_val": 9216.9,
       "deadline_str": "15/11/2026",
       "deadline_iso": "2026-11-15",
-      "days_remaining": 7,
+      "days_remaining": 6,
       "vacancies": "2355 vagas",
       "details": "2355 vagas até R$ 9.216,90 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2764,35 +2905,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Lu%C3%ADs+Eduardo+Magalh%C3%A3es%2C+BA%2C+Brasil"
     },
     {
-      "id": 98,
-      "title": "Prefeitura de Firmino Alves",
-      "headline": "Prefeitura de Firmino Alves - BA abre seleção com salários de até R$ 8.000,00",
-      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-firmino-alves-ba-abre-selecao-com-salarios-de-ate-8000",
-      "city": "Firmino Alves",
-      "uf": "BA",
-      "status": "Últimos Dias",
-      "is_open": true,
-      "salary_str": "R$ 8.000,00",
-      "salary_val": 8000.0,
-      "deadline_str": "09/11/2026",
-      "deadline_iso": "2026-11-09",
-      "days_remaining": 1,
-      "vacancies": "50 vagas",
-      "details": "50 vagas + 25 CR até R$ 8.000,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
-      "cargo_parts": [
-        "50 vagas + 25 CR até R$ 8.000,00",
-        "Vários Cargos",
-        "Fundamental / Médio / Técnico / Superior"
-      ],
-      "dist_km": 778.6,
-      "dist_road_km": 973.2,
-      "distance_category": "Muito Distante (> 600 km)",
-      "lat": -14.9823,
-      "lng": -39.9269,
-      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Firmino+Alves%2C+BA%2C+Brasil"
-    },
-    {
-      "id": 99,
+      "id": 103,
       "title": "Prefeitura de Boa Viagem",
       "headline": "Prefeitura de Boa Viagem - CE abre concurso público com vagas para diversas áreas de atuação",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-viagem-ce-abre-concurso-publico-com-vagas-para-diversas-areas-de-atuacao",
@@ -2804,7 +2917,7 @@
       "salary_val": 14718.92,
       "deadline_str": "07/12/2026",
       "deadline_iso": "2026-12-07",
-      "days_remaining": 29,
+      "days_remaining": 28,
       "vacancies": "1001 vagas",
       "details": "1001 vagas até R$ 14.718,92 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2820,7 +2933,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Boa+Viagem%2C+CE%2C+Brasil"
     },
     {
-      "id": 100,
+      "id": 104,
       "title": "Prefeitura de Orós",
       "headline": "Prefeitura de Orós - CE abre concurso público com vagas para diversas áreas",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-oros-ce-abre-concurso-publico-com-vagas-para-diversas-areas",
@@ -2832,7 +2945,7 @@
       "salary_val": 3606.93,
       "deadline_str": "22/11/2026",
       "deadline_iso": "2026-11-22",
-      "days_remaining": 14,
+      "days_remaining": 13,
       "vacancies": "95 vagas",
       "details": "95 vagas até R$ 3.606,93 | Vários Cargos | Fundamental / Médio / Superior",
       "cargo_parts": [
@@ -2848,7 +2961,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Or%C3%B3s%2C+CE%2C+Brasil"
     },
     {
-      "id": 101,
+      "id": 105,
       "title": "Prefeitura de Groaíras",
       "headline": "Prefeitura de Groaíras - CE reabre inscrições para concursos públicos",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-groairas-ce-reabre-inscricoes-para-concursos-publicos",
@@ -2860,7 +2973,7 @@
       "salary_val": 11000.0,
       "deadline_str": "15/11/2026",
       "deadline_iso": "2026-11-15",
-      "days_remaining": 7,
+      "days_remaining": 6,
       "vacancies": "72 vagas",
       "details": "72 vagas até R$ 11.000,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2876,19 +2989,19 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Groa%C3%ADras%2C+CE%2C+Brasil"
     },
     {
-      "id": 102,
+      "id": 106,
       "title": "Prefeitura de Jaguaribe",
       "headline": "Prefeitura de Jaguaribe - CE reabre inscrições para concursos públicos",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jaguaribe-ce-reabre-inscricoes-para-concursos-publicos",
       "city": "Jaguaribe",
       "uf": "CE",
-      "status": "Inscrições Abertas",
+      "status": "Últimos Dias",
       "is_open": true,
       "salary_str": "R$ 12.948,01",
       "salary_val": 12948.01,
       "deadline_str": "11/11/2026",
       "deadline_iso": "2026-11-11",
-      "days_remaining": 3,
+      "days_remaining": 2,
       "vacancies": "183 vagas",
       "details": "183 vagas até R$ 12.948,01 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2904,7 +3017,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Jaguaribe%2C+CE%2C+Brasil"
     },
     {
-      "id": 103,
+      "id": 107,
       "title": "Prefeitura de Poranga",
       "headline": "Prefeitura de Poranga - CE reabre inscrições para concursos públicos",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-poranga-ce-reabre-inscricoes-para-concursos-publicos",
@@ -2916,7 +3029,7 @@
       "salary_val": 4750.0,
       "deadline_str": "10/11/2026",
       "deadline_iso": "2026-11-10",
-      "days_remaining": 2,
+      "days_remaining": 1,
       "vacancies": "98 vagas",
       "details": "98 vagas até R$ 4.750,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2932,7 +3045,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Poranga%2C+CE%2C+Brasil"
     },
     {
-      "id": 104,
+      "id": 108,
       "title": "Prefeitura de Ribeirãozinho do Maranhão",
       "headline": "Prefeitura de Ribeirãozinho do Maranhão - MA publica editais de concurso e processo seletivo",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ribeiraozinho-do-maranhao-ma-publica-editais-de-concurso-e-processo-seletivo",
@@ -2944,7 +3057,7 @@
       "salary_val": 6500.0,
       "deadline_str": "01/12/2026",
       "deadline_iso": "2026-12-01",
-      "days_remaining": 23,
+      "days_remaining": 22,
       "vacancies": "211 vagas",
       "details": "211 vagas até R$ 6.500,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2960,19 +3073,19 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/%C3%93rg%C3%A3o+Estadual+%28MA%29%2C+MA%2C+Brasil"
     },
     {
-      "id": 105,
+      "id": 109,
       "title": "UEMA - Universidade Estadual do Maranhão",
       "headline": "UEMA abre processos seletivos para professor substituto em São Luís, Coelho Neto e São Bento",
       "link": "https://www.pciconcursos.com.br/noticias/uema-abre-processos-seletivos-para-professor-substituto-em-sao-luis-coelho-neto-e-sao-bento",
       "city": "Coelho Neto",
       "uf": "MA",
-      "status": "Inscrições Abertas",
+      "status": "Últimos Dias",
       "is_open": true,
       "salary_str": "R$ 6.886,82",
       "salary_val": 6886.82,
       "deadline_str": "11/11/2026",
       "deadline_iso": "2026-11-11",
-      "days_remaining": 3,
+      "days_remaining": 2,
       "vacancies": "9 vagas",
       "details": "9 vagas até R$ 6.886,82 | Professor substituto | Superior",
       "cargo_parts": [
@@ -2988,7 +3101,63 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Coelho+Neto%2C+MA%2C+Brasil"
     },
     {
-      "id": 106,
+      "id": 110,
+      "title": "Prefeitura de Baía da Traição",
+      "headline": "Prefeitura de Baía da Traição - PB abre concurso público com vagas em diversos cargos",
+      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-baia-da-traicao-pb-abre-concurso-publico-com-vagas-em-diversos-cargos",
+      "city": "Baía da Traição",
+      "uf": "PB",
+      "status": "Inscrições Abertas",
+      "is_open": true,
+      "salary_str": "R$ 10.000,00",
+      "salary_val": 10000.0,
+      "deadline_str": "16/12/2026",
+      "deadline_iso": "2026-12-16",
+      "days_remaining": 37,
+      "vacancies": "117 vagas",
+      "details": "117 vagas até R$ 10.000,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
+      "cargo_parts": [
+        "117 vagas até R$ 10.000,00",
+        "Vários Cargos",
+        "Fundamental / Médio / Técnico / Superior"
+      ],
+      "dist_km": 1841.2,
+      "dist_road_km": 2301.5,
+      "distance_category": "Muito Distante (> 600 km)",
+      "lat": -6.69209,
+      "lng": -34.9381,
+      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Ba%C3%ADa+da+Trai%C3%A7%C3%A3o%2C+PB%2C+Brasil"
+    },
+    {
+      "id": 111,
+      "title": "Prefeitura de Parari",
+      "headline": "Prefeitura de Parari - PB abre concurso público com salários de até R$ 10.000,00",
+      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-parari-pb-abre-concurso-publico-com-salarios-de-ate-10000",
+      "city": "Parari",
+      "uf": "PB",
+      "status": "Inscrições Abertas",
+      "is_open": true,
+      "salary_str": "R$ 10.000,00",
+      "salary_val": 10000.0,
+      "deadline_str": "09/12/2026",
+      "deadline_iso": "2026-12-09",
+      "days_remaining": 30,
+      "vacancies": "29 vagas",
+      "details": "29 vagas até R$ 10.000,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
+      "cargo_parts": [
+        "29 vagas até R$ 10.000,00",
+        "Vários Cargos",
+        "Fundamental / Médio / Técnico / Superior"
+      ],
+      "dist_km": 1680.7,
+      "dist_road_km": 2100.9,
+      "distance_category": "Muito Distante (> 600 km)",
+      "lat": -7.30975,
+      "lng": -36.6522,
+      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Parari%2C+PB%2C+Brasil"
+    },
+    {
+      "id": 112,
       "title": "Prefeitura de Itapororoca",
       "headline": "Prefeitura de Itapororoca - PB abre concurso com salários de até R$ 10.000,00",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapororoca-pb-abre-concurso-com-salarios-de-ate-10000",
@@ -3000,7 +3169,7 @@
       "salary_val": 10000.0,
       "deadline_str": "20/11/2026",
       "deadline_iso": "2026-11-20",
-      "days_remaining": 12,
+      "days_remaining": 11,
       "vacancies": "175 vagas",
       "details": "175 vagas até R$ 10.000,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3016,7 +3185,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Itapororoca%2C+PB%2C+Brasil"
     },
     {
-      "id": 107,
+      "id": 113,
       "title": "Prefeitura de Moreilândia",
       "headline": "Prefeitura de Moreilândia - PE retifica dois concursos públicos",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-moreilandia-pe-retifica-dois-concursos-publicos",
@@ -3028,7 +3197,7 @@
       "salary_val": 10000.0,
       "deadline_str": "03/12/2026",
       "deadline_iso": "2026-12-03",
-      "days_remaining": 25,
+      "days_remaining": 24,
       "vacancies": "381 vagas",
       "details": "381 vagas até R$ 10.000,00 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3044,7 +3213,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Moreil%C3%A2ndia%2C+PE%2C+Brasil"
     },
     {
-      "id": 108,
+      "id": 114,
       "title": "Prefeitura de Ferreiros",
       "headline": "Prefeitura de Ferreiros - PE abre concurso público com vagas para diversas áreas",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ferreiros-pe-abre-concurso-publico-com-vagas-para-diversas-areas",
@@ -3056,7 +3225,7 @@
       "salary_val": 4179.47,
       "deadline_str": "19/11/2026",
       "deadline_iso": "2026-11-19",
-      "days_remaining": 11,
+      "days_remaining": 10,
       "vacancies": "57 vagas",
       "details": "57 vagas até R$ 4.179,47 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3072,7 +3241,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Ferreiros%2C+PE%2C+Brasil"
     },
     {
-      "id": 109,
+      "id": 115,
       "title": "Prefeitura de Goiana",
       "headline": "Prefeitura de Goiana - PE retifica edital de seleção pública",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-goiana-pe-retifica-edital-de-selecao-publica",
@@ -3084,7 +3253,7 @@
       "salary_val": 8926.43,
       "deadline_str": "17/11/2026",
       "deadline_iso": "2026-11-17",
-      "days_remaining": 9,
+      "days_remaining": 8,
       "vacancies": "166 vagas",
       "details": "166 vagas até R$ 8.926,43 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3100,7 +3269,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Goiana%2C+PE%2C+Brasil"
     },
     {
-      "id": 110,
+      "id": 116,
       "title": "Prefeitura de Floresta",
       "headline": "Prefeitura de Floresta - PE publica retificação de concurso público",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-floresta-pe-publica-retificacao-de-concurso-publico",
@@ -3112,7 +3281,7 @@
       "salary_val": 8000.0,
       "deadline_str": "12/11/2026",
       "deadline_iso": "2026-11-12",
-      "days_remaining": 4,
+      "days_remaining": 3,
       "vacancies": "431 vagas",
       "details": "431 vagas até R$ 8.000,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3128,35 +3297,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Floresta%2C+PE%2C+Brasil"
     },
     {
-      "id": 111,
-      "title": "Prefeitura de Campo Grande do Piauí",
-      "headline": "Prefeitura de Campo Grande do Piauí - PI abre concurso público para diversos cargos e cadastro de reserva",
-      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campo-grande-do-piaui-pi-abre-concurso-publico-para-diversos-cargos-e-cadastro-de-reserva",
-      "city": "Campo Grande do Piauí",
-      "uf": "PI",
-      "status": "Inscrições Abertas",
-      "is_open": true,
-      "salary_str": "R$ 8.257,00",
-      "salary_val": 8257.0,
-      "deadline_str": "25/11/2026",
-      "deadline_iso": "2026-11-25",
-      "days_remaining": 17,
-      "vacancies": "90 vagas",
-      "details": "90 vagas até R$ 8.257,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
-      "cargo_parts": [
-        "90 vagas até R$ 8.257,00",
-        "Vários Cargos",
-        "Fundamental / Médio / Técnico / Superior"
-      ],
-      "dist_km": 1506.0,
-      "dist_road_km": 1882.5,
-      "distance_category": "Muito Distante (> 600 km)",
-      "lat": -7.12827,
-      "lng": -41.0315,
-      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Campo+Grande+do+Piau%C3%AD%2C+PI%2C+Brasil"
-    },
-    {
-      "id": 112,
+      "id": 117,
       "title": "Prefeitura de Belém do Piauí",
       "headline": "Prefeitura de Belém do Piauí - PI abre concurso com remunerações de até R$ 12.000,00",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-belem-do-piaui-pi-abre-concurso-com-remuneracoes-de-ate-12000",
@@ -3168,7 +3309,7 @@
       "salary_val": 12000.0,
       "deadline_str": "25/11/2026",
       "deadline_iso": "2026-11-25",
-      "days_remaining": 17,
+      "days_remaining": 16,
       "vacancies": "49 vagas",
       "details": "49 vagas até R$ 12.000,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3184,7 +3325,35 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Bel%C3%A9m+do+Piau%C3%AD%2C+PI%2C+Brasil"
     },
     {
-      "id": 113,
+      "id": 118,
+      "title": "Prefeitura de Campo Grande do Piauí",
+      "headline": "Prefeitura de Campo Grande do Piauí - PI abre concurso público para diversos cargos e cadastro de reserva",
+      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campo-grande-do-piaui-pi-abre-concurso-publico-para-diversos-cargos-e-cadastro-de-reserva",
+      "city": "Campo Grande do Piauí",
+      "uf": "PI",
+      "status": "Inscrições Abertas",
+      "is_open": true,
+      "salary_str": "R$ 8.257,00",
+      "salary_val": 8257.0,
+      "deadline_str": "25/11/2026",
+      "deadline_iso": "2026-11-25",
+      "days_remaining": 16,
+      "vacancies": "90 vagas",
+      "details": "90 vagas até R$ 8.257,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
+      "cargo_parts": [
+        "90 vagas até R$ 8.257,00",
+        "Vários Cargos",
+        "Fundamental / Médio / Técnico / Superior"
+      ],
+      "dist_km": 1506.0,
+      "dist_road_km": 1882.5,
+      "distance_category": "Muito Distante (> 600 km)",
+      "lat": -7.12827,
+      "lng": -41.0315,
+      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Campo+Grande+do+Piau%C3%AD%2C+PI%2C+Brasil"
+    },
+    {
+      "id": 119,
       "title": "Prefeitura de Monsenhor Gil",
       "headline": "Prefeitura de Monsenhor Gil - PI abre concurso público com salários de até R$ 8.000,00",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-monsenhor-gil-pi-abre-concurso-publico-com-salarios-de-ate-8000",
@@ -3196,7 +3365,7 @@
       "salary_val": 8000.0,
       "deadline_str": "23/11/2026",
       "deadline_iso": "2026-11-23",
-      "days_remaining": 15,
+      "days_remaining": 14,
       "vacancies": "101 vagas",
       "details": "101 vagas até R$ 8.000,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3212,35 +3381,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Monsenhor+Gil%2C+PI%2C+Brasil"
     },
     {
-      "id": 114,
-      "title": "Prefeitura de São João do Piauí",
-      "headline": "Prefeitura de São João do Piauí - PI abre processos seletivos com salários de até R$ 16.800,00",
-      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-do-piaui-pi-abre-processos-seletivos-com-salarios-de-ate-16800",
-      "city": "São João do Piauí",
-      "uf": "PI",
-      "status": "Últimos Dias",
-      "is_open": true,
-      "salary_str": "R$ 16.800,00",
-      "salary_val": 16800.0,
-      "deadline_str": "09/11/2026",
-      "deadline_iso": "2026-11-09",
-      "days_remaining": 1,
-      "vacancies": "590 vagas",
-      "details": "590 vagas até R$ 16.800,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
-      "cargo_parts": [
-        "590 vagas até R$ 16.800,00",
-        "Vários Cargos",
-        "Fundamental / Médio / Técnico / Superior"
-      ],
-      "dist_km": 1341.3,
-      "dist_road_km": 1676.6,
-      "distance_category": "Muito Distante (> 600 km)",
-      "lat": -8.35466,
-      "lng": -42.2559,
-      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/S%C3%A3o+Jo%C3%A3o+do+Piau%C3%AD%2C+PI%2C+Brasil"
-    },
-    {
-      "id": 115,
+      "id": 120,
       "title": "Exército Brasileiro - Comando da 11ª Região Militar",
       "headline": "Comando da 11ª Região Militar: processo seletivo reabre as inscrições para médicos em Brasília",
       "link": "https://www.pciconcursos.com.br/noticias/comando-da-11-regiao-militar-processo-seletivo-reabre-as-inscricoes-para-medicos-em-brasilia",
@@ -3252,7 +3393,7 @@
       "salary_val": 0.0,
       "deadline_str": "07/10/2026",
       "deadline_iso": "2026-10-07",
-      "days_remaining": -32,
+      "days_remaining": -33,
       "vacancies": "31 vagas",
       "details": "31 vagas | Médico | Superior",
       "cargo_parts": [
@@ -3268,7 +3409,7 @@
       "maps_url": null
     },
     {
-      "id": 116,
+      "id": 121,
       "title": "AgSUS - Agência Brasileira de Apoio à Gestão do SUS",
       "headline": "AgSUS retifica processo seletivo para formação de cadastro de reserva no projeto SESMT",
       "link": "https://www.pciconcursos.com.br/noticias/agsus-retifica-processo-seletivo-para-formacao-de-cadastro-de-reserva-no-projeto-sesmt",
@@ -3280,7 +3421,7 @@
       "salary_val": 10302.0,
       "deadline_str": "22/09/2026",
       "deadline_iso": "2026-09-22",
-      "days_remaining": -47,
+      "days_remaining": -48,
       "vacancies": "Cadastro de Reserva",
       "details": "Cadastro de reserva até R$ 10.302,00 | Vários Cargos | Técnico / Superior",
       "cargo_parts": [
@@ -3296,7 +3437,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Bras%C3%ADlia%2C+DF%2C+Brasil"
     },
     {
-      "id": 117,
+      "id": 122,
       "title": "Transpetro - Petrobras Transporte S.A.",
       "headline": "Transpetro publica retificações de processos seletivos para diversos cargos",
       "link": "https://www.pciconcursos.com.br/noticias/transpetro-publica-retificacoes-de-processos-seletivos-para-diversos-cargos",
@@ -3308,7 +3449,7 @@
       "salary_val": 15034.81,
       "deadline_str": "21/09/2026",
       "deadline_iso": "2026-09-21",
-      "days_remaining": -48,
+      "days_remaining": -49,
       "vacancies": "CR",
       "details": "Vagas até R$ 15.034,81 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3324,7 +3465,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Rio+de+Janeiro%2C+RJ%2C+Brasil"
     },
     {
-      "id": 118,
+      "id": 123,
       "title": "EBSERH - Empresa Brasileira de Serviços Hospitalares",
       "headline": "EBSERH disponibiliza vagas para médicos e físicos em Brasília, Piauí e Minas Gerais",
       "link": "https://www.pciconcursos.com.br/noticias/ebserh-disponibiliza-vagas-para-medicos-e-fisicos-em-brasilia-piaui-e-minas-gerais",
@@ -3336,7 +3477,7 @@
       "salary_val": 11464.58,
       "deadline_str": "17/06/2026",
       "deadline_iso": "2026-06-17",
-      "days_remaining": -144,
+      "days_remaining": -145,
       "vacancies": "3 vagas",
       "details": "3 vagas até R$ 11.464,58 | Físico, Médico | Superior",
       "cargo_parts": [
@@ -3352,7 +3493,7 @@
       "maps_url": null
     },
     {
-      "id": 119,
+      "id": 124,
       "title": "ESFCex - Escola de Saúde e Formação Complementar do Exército",
       "headline": "ESFCEx abre concurso para admissão ao Curso de Formação de Oficiais do Serviço de Saúde 2027",
       "link": "https://www.pciconcursos.com.br/noticias/esfcex-abre-concurso-para-admissao-ao-curso-de-formacao-de-oficiais-do-servico-de-saude-2027",
@@ -3364,7 +3505,7 @@
       "salary_val": 0.0,
       "deadline_str": "12/06/2026",
       "deadline_iso": "2026-06-12",
-      "days_remaining": -149,
+      "days_remaining": -150,
       "vacancies": "168 vagas",
       "details": "168 vagas | Médico, Farmacêutico, Dentista | Superior",
       "cargo_parts": [
@@ -3380,7 +3521,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Salvador%2C+BA%2C+Brasil"
     },
     {
-      "id": 120,
+      "id": 125,
       "title": "ESFCEx - Escola de Saúde e Formação Complementar do Exército",
       "headline": "ESFCEx - BA: Seleção para Oficiais oferece vagas em diversas especialidades de nível superior",
       "link": "https://www.pciconcursos.com.br/noticias/esfcex-ba-selecao-para-oficiais-oferece-vagas-em-diversas-especialidades-de-nivel-superior",
@@ -3392,7 +3533,7 @@
       "salary_val": 0.0,
       "deadline_str": "12/06/2026",
       "deadline_iso": "2026-06-12",
-      "days_remaining": -149,
+      "days_remaining": -150,
       "vacancies": "180 vagas",
       "details": "180 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -3408,7 +3549,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Salvador%2C+BA%2C+Brasil"
     },
     {
-      "id": 121,
+      "id": 126,
       "title": "EBSERH - Empresa Brasileira de Serviços Hospitalares",
       "headline": "EBSERH abre processo seletivo para médicos em hospitais da Rede HU Brasil",
       "link": "https://www.pciconcursos.com.br/noticias/ebserh-abre-processo-seletivo-para-medicos-em-hospitais-da-rede-hu-brasil",
@@ -3420,7 +3561,7 @@
       "salary_val": 11464.58,
       "deadline_str": "11/06/2026",
       "deadline_iso": "2026-06-11",
-      "days_remaining": -150,
+      "days_remaining": -151,
       "vacancies": "110 vagas",
       "details": "110 vagas até R$ 11.464,58 | Médico | Superior",
       "cargo_parts": [
@@ -3436,7 +3577,7 @@
       "maps_url": null
     },
     {
-      "id": 122,
+      "id": 127,
       "title": "Marinha do Brasil",
       "headline": "Marinha do Brasil abre Concurso Nacional para cargos de nível superior em diversas áreas",
       "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-concurso-nacional-para-cargos-de-nivel-superior-em-diversas-areas",
@@ -3448,7 +3589,7 @@
       "salary_val": 9663.6,
       "deadline_str": "08/04/2026",
       "deadline_iso": "2026-04-08",
-      "days_remaining": -214,
+      "days_remaining": -215,
       "vacancies": "CR",
       "details": "Vagas até R$ 9.663,60 | Vários Cargos | Superior",
       "cargo_parts": [
@@ -3464,7 +3605,7 @@
       "maps_url": null
     },
     {
-      "id": 123,
+      "id": 128,
       "title": "Aeronáutica - Comando da Aeronáutica",
       "headline": "Comando da Aeronáutica abre exame de admissão com 272 vagas para oficiais",
       "link": "https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-abre-exame-de-admissao-com-272-vagas-para-oficiais",
@@ -3476,7 +3617,7 @@
       "salary_val": 0.0,
       "deadline_str": "13/03/2026",
       "deadline_iso": "2026-03-13",
-      "days_remaining": -240,
+      "days_remaining": -241,
       "vacancies": "272 vagas",
       "details": "272 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -3492,7 +3633,7 @@
       "maps_url": null
     },
     {
-      "id": 124,
+      "id": 129,
       "title": "EMGEPRON - Empresa Gerencial de Projetos Navais",
       "headline": "EMGEPRON anuncia a abertura de Concurso Público com diversos cargos",
       "link": "https://www.pciconcursos.com.br/noticias/emgepron-anuncia-a-abertura-de-concurso-publico-com-diversos-cargos",
@@ -3504,7 +3645,7 @@
       "salary_val": 12302.0,
       "deadline_str": "23/02/2026",
       "deadline_iso": "2026-02-23",
-      "days_remaining": -258,
+      "days_remaining": -259,
       "vacancies": "12 vagas",
       "details": "12 vagas até R$ 12.302,00 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3520,7 +3661,7 @@
       "maps_url": null
     },
     {
-      "id": 125,
+      "id": 130,
       "title": "EBSERH - Empresa Brasileira de Serviços Hospitalares",
       "headline": "EBSERH - Abre um novo Concurso Público com 152 vagas para Médicos",
       "link": "https://www.pciconcursos.com.br/noticias/ebserh-abre-um-novo-concurso-publico-com-152-vagas-para-medicos",
@@ -3532,7 +3673,7 @@
       "salary_val": 19107.31,
       "deadline_str": "30/01/2026",
       "deadline_iso": "2026-01-30",
-      "days_remaining": -282,
+      "days_remaining": -283,
       "vacancies": "152 vagas",
       "details": "152 vagas até R$ 19.107,31 | Médico | Superior",
       "cargo_parts": [
@@ -3548,7 +3689,7 @@
       "maps_url": null
     },
     {
-      "id": 126,
+      "id": 131,
       "title": "AgSUS - Agência Brasileira de Apoio à Gestão do SUS",
       "headline": "AgSUS reabre Processo Seletivo com diversas oportunidades",
       "link": "https://www.pciconcursos.com.br/noticias/agsus-reabre-processo-seletivo-com-diversas-oportunidades",
@@ -3560,7 +3701,7 @@
       "salary_val": 12497.63,
       "deadline_str": "22/01/2026",
       "deadline_iso": "2026-01-22",
-      "days_remaining": -290,
+      "days_remaining": -291,
       "vacancies": "59 vagas",
       "details": "59 vagas até R$ 12.497,63 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3576,7 +3717,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Bras%C3%ADlia%2C+DF%2C+Brasil"
     },
     {
-      "id": 127,
+      "id": 132,
       "title": "CRIS - Consórcio Regional Intermunicipal de Saúde",
       "headline": "CRIS divulgou Concurso Público para cargo de Médico PSF",
       "link": "https://www.pciconcursos.com.br/noticias/cris-divulgou-concurso-publico-para-cargo-de-medico-psf",
@@ -3588,7 +3729,7 @@
       "salary_val": 16544.65,
       "deadline_str": "18/01/2026",
       "deadline_iso": "2026-01-18",
-      "days_remaining": -294,
+      "days_remaining": -295,
       "vacancies": "1 vagas",
       "details": "1 vaga até R$ 16.544,65 | Médico PSF | Superior",
       "cargo_parts": [
@@ -3604,7 +3745,7 @@
       "maps_url": null
     },
     {
-      "id": 128,
+      "id": 133,
       "title": "Com 2ºDN - Comando do 2º Distrito Naval",
       "headline": "Comando do 2º Distrito Naval da Marinha do Brasil abre inscrições para dois editais de Processo Seletivo",
       "link": "https://www.pciconcursos.com.br/noticias/comando-do-2-distrito-naval-da-marinha-do-brasil-abre-inscricoes-para-dois-editais-de-processo-seletivo",
@@ -3616,7 +3757,7 @@
       "salary_val": 0.0,
       "deadline_str": "08/01/2026",
       "deadline_iso": "2026-01-08",
-      "days_remaining": -304,
+      "days_remaining": -305,
       "vacancies": "18 vagas",
       "details": "18 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -3632,7 +3773,7 @@
       "maps_url": null
     },
     {
-      "id": 129,
+      "id": 134,
       "title": "Com 7ºDN - Comando do 7º Distrito Naval",
       "headline": "Comando do 7º Distrito Naval da Marinha do Brasil abre inscrições para dois editais de Processo Seletivo",
       "link": "https://www.pciconcursos.com.br/noticias/comando-do-7-distrito-naval-da-marinha-do-brasil-abre-inscricoes-para-dois-editais-de-processo-seletivo",
@@ -3644,7 +3785,7 @@
       "salary_val": 0.0,
       "deadline_str": "08/01/2026",
       "deadline_iso": "2026-01-08",
-      "days_remaining": -304,
+      "days_remaining": -305,
       "vacancies": "32 vagas",
       "details": "32 vagas | Vários Cargos | Técnico / Superior",
       "cargo_parts": [
@@ -3660,7 +3801,7 @@
       "maps_url": null
     },
     {
-      "id": 130,
+      "id": 135,
       "title": "FESF-SUS - Fundação Estadual de Saúde da Família",
       "headline": "FESF-SUS abre edital de Processo Seletivo para cargo de Médico",
       "link": "https://www.pciconcursos.com.br/noticias/fesf-sus-abre-edital-de-processo-seletivo-para-cargo-de-medico",
@@ -3672,7 +3813,7 @@
       "salary_val": 2122.95,
       "deadline_str": "12/12/2025",
       "deadline_iso": "2025-12-12",
-      "days_remaining": -331,
+      "days_remaining": -332,
       "vacancies": "3 vagas",
       "details": "3 vagas até R$ 2122,95 | Médico | Superior",
       "cargo_parts": [
@@ -3688,7 +3829,7 @@
       "maps_url": null
     },
     {
-      "id": 131,
+      "id": 136,
       "title": "CAIXA - Caixa Econômica Federal",
       "headline": "Caixa Econômica Federal retifica Concurso Público nacional com 184 vagas",
       "link": "https://www.pciconcursos.com.br/noticias/caixa-economica-federal-retifica-concurso-publico-nacional-com-184-vagas",
@@ -3700,7 +3841,7 @@
       "salary_val": 16495.0,
       "deadline_str": "08/12/2025",
       "deadline_iso": "2025-12-08",
-      "days_remaining": -335,
+      "days_remaining": -336,
       "vacancies": "184 vagas",
       "details": "184 vagas até R$ 16.495,00 | Vários Cargos | Superior",
       "cargo_parts": [
@@ -3716,7 +3857,7 @@
       "maps_url": null
     },
     {
-      "id": 132,
+      "id": 137,
       "title": "Amazul - Amazônia Azul Tecnologias de Defesa S.A.",
       "headline": "Amazul publica retificação de Concurso Público",
       "link": "https://www.pciconcursos.com.br/noticias/amazul-publica-retificacao-de-concurso-publico",
@@ -3728,7 +3869,7 @@
       "salary_val": 9739.1,
       "deadline_str": "17/11/2025",
       "deadline_iso": "2025-11-17",
-      "days_remaining": -356,
+      "days_remaining": -357,
       "vacancies": "59 vagas",
       "details": "59 vagas até R$ 9739,10 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3744,35 +3885,7 @@
       "maps_url": null
     },
     {
-      "id": 133,
-      "title": "4ª RM - 4ª Região Militar (Exército Brasileiro)",
-      "headline": "Exército Brasileiro abre Processo Seletivo para cargo de Médico Dermatologista e Psiquiatra",
-      "link": "https://www.pciconcursos.com.br/noticias/exercito-brasileiro-abre-processo-seletivo-para-cargo-de-medico-dermatologista-e-psiquiatra",
-      "city": "Âmbito Nacional",
-      "uf": "Nacional",
-      "status": "Encerrado",
-      "is_open": false,
-      "salary_str": "Consulte o edital",
-      "salary_val": 0.0,
-      "deadline_str": "06/11/2025",
-      "deadline_iso": "2025-11-06",
-      "days_remaining": -367,
-      "vacancies": "CR",
-      "details": "Vagas | Médico Dermatologista, Psiquiatra | Superior",
-      "cargo_parts": [
-        "Vagas",
-        "Médico Dermatologista, Psiquiatra",
-        "Superior"
-      ],
-      "dist_km": null,
-      "dist_road_km": null,
-      "distance_category": "Âmbito Nacional",
-      "lat": null,
-      "lng": null,
-      "maps_url": null
-    },
-    {
-      "id": 134,
+      "id": 138,
       "title": "IDTECH - Instituto de Desenvolvimento Tecnológico e Humano",
       "headline": "IDTECH abre edital de Processo Seletivo para cargos de nível superior",
       "link": "https://www.pciconcursos.com.br/noticias/idtech-abre-edital-de-processo-seletivo-para-cargos-de-nivel-superior",
@@ -3784,7 +3897,7 @@
       "salary_val": 11511.22,
       "deadline_str": "06/11/2025",
       "deadline_iso": "2025-11-06",
-      "days_remaining": -367,
+      "days_remaining": -368,
       "vacancies": "2 vagas",
       "details": "2 vagas até R$ 11.511,22 | Analista em Saúde | Superior",
       "cargo_parts": [
@@ -3800,7 +3913,35 @@
       "maps_url": null
     },
     {
-      "id": 135,
+      "id": 139,
+      "title": "4ª RM - 4ª Região Militar (Exército Brasileiro)",
+      "headline": "Exército Brasileiro abre Processo Seletivo para cargo de Médico Dermatologista e Psiquiatra",
+      "link": "https://www.pciconcursos.com.br/noticias/exercito-brasileiro-abre-processo-seletivo-para-cargo-de-medico-dermatologista-e-psiquiatra",
+      "city": "Âmbito Nacional",
+      "uf": "Nacional",
+      "status": "Encerrado",
+      "is_open": false,
+      "salary_str": "Consulte o edital",
+      "salary_val": 0.0,
+      "deadline_str": "06/11/2025",
+      "deadline_iso": "2025-11-06",
+      "days_remaining": -368,
+      "vacancies": "CR",
+      "details": "Vagas | Médico Dermatologista, Psiquiatra | Superior",
+      "cargo_parts": [
+        "Vagas",
+        "Médico Dermatologista, Psiquiatra",
+        "Superior"
+      ],
+      "dist_km": null,
+      "dist_road_km": null,
+      "distance_category": "Âmbito Nacional",
+      "lat": null,
+      "lng": null,
+      "maps_url": null
+    },
+    {
+      "id": 140,
       "title": "Marinha do Brasil - Comando do 1º Distrito Naval",
       "headline": "Marinha do Brasil informa abertura de Processo Seletivo com diversas vagas",
       "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-informa-abertura-de-processo-seletivo-com-diversas-vagas",
@@ -3812,7 +3953,7 @@
       "salary_val": 0.0,
       "deadline_str": "20/10/2025",
       "deadline_iso": "2025-10-20",
-      "days_remaining": -384,
+      "days_remaining": -385,
       "vacancies": "24 vagas",
       "details": "24 vagas | Oficial de 3º Classe da Reserva da Marinha (RM3) | Superior",
       "cargo_parts": [
@@ -3828,7 +3969,7 @@
       "maps_url": null
     },
     {
-      "id": 136,
+      "id": 141,
       "title": "Concurso Nacional Unificado - CNU",
       "headline": "Governo Federal abre inscrições para nova edição do Concurso Público Nacional Unificado",
       "link": "https://www.pciconcursos.com.br/noticias/governo-federal-abre-inscricoes-para-nova-edicao-do-concurso-publico-nacional-unificado",
@@ -3840,7 +3981,7 @@
       "salary_val": 17726.42,
       "deadline_str": "20/07/2025",
       "deadline_iso": "2025-07-20",
-      "days_remaining": -476,
+      "days_remaining": -477,
       "vacancies": "652 vagas",
       "details": "3.652 vagas até R$ 17.726,42 | Vários Cargos | Médio / Superior",
       "cargo_parts": [
@@ -3856,7 +3997,7 @@
       "maps_url": null
     },
     {
-      "id": 137,
+      "id": 142,
       "title": "Exército Brasileiro",
       "headline": "Exército Brasileiro retifica edital com 168 vagas para Curso de Formação de Oficiais do Serviço de Saúde",
       "link": "https://www.pciconcursos.com.br/noticias/exercito-brasileiro-retifica-edital-com-168-vagas-para-curso-de-formacao-de-oficiais-do-servico-de-saude",
@@ -3868,7 +4009,7 @@
       "salary_val": 0.0,
       "deadline_str": "20/06/2025",
       "deadline_iso": "2025-06-20",
-      "days_remaining": -506,
+      "days_remaining": -507,
       "vacancies": "165 vagas",
       "details": "165 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -3884,7 +4025,7 @@
       "maps_url": null
     },
     {
-      "id": 138,
+      "id": 143,
       "title": "GHC - Grupo Hospitalar Conceição",
       "headline": "Grupo Hospitalar Conceição - RS divulga retificações de Concursos Públicos",
       "link": "https://www.pciconcursos.com.br/noticias/grupo-hospitalar-conceicao-rs-divulga-retificacoes-de-concursos-publicos",
@@ -3896,7 +4037,7 @@
       "salary_val": 28406.4,
       "deadline_str": "17/06/2025",
       "deadline_iso": "2025-06-17",
-      "days_remaining": -509,
+      "days_remaining": -510,
       "vacancies": "CR",
       "details": "Vagas até R$ 28.406,40 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3912,7 +4053,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/%C3%93rg%C3%A3o+Estadual+%28RS%29%2C+RS%2C+Brasil"
     },
     {
-      "id": 139,
+      "id": 144,
       "title": "IMIP - Instituto de Medicina Integral Professor Fernando Figueira",
       "headline": "IMIP lança edital de Processo Seletivo com duas vagas",
       "link": "https://www.pciconcursos.com.br/noticias/imip-lanca-edital-de-processo-seletivo-com-duas-vagas",
@@ -3924,7 +4065,7 @@
       "salary_val": 17700.0,
       "deadline_str": "10/06/2025",
       "deadline_iso": "2025-06-10",
-      "days_remaining": -516,
+      "days_remaining": -517,
       "vacancies": "2 vagas",
       "details": "2 vagas até R$ 17.700,00 | Médico, Psicólogo | Superior",
       "cargo_parts": [
@@ -3940,7 +4081,7 @@
       "maps_url": null
     },
     {
-      "id": 140,
+      "id": 145,
       "title": "Polícia Federal",
       "headline": "Polícia Federal reabre edital de Concurso Público com 192 vagas",
       "link": "https://www.pciconcursos.com.br/noticias/policia-federal-reabre-edital-de-concurso-publico-com-192-vagas",
@@ -3952,7 +4093,7 @@
       "salary_val": 11070.93,
       "deadline_str": "23/05/2025",
       "deadline_iso": "2025-05-23",
-      "days_remaining": -534,
+      "days_remaining": -535,
       "vacancies": "192 vagas",
       "details": "192 vagas até R$ 11.070,93 | Vários Cargos | Médio / Superior",
       "cargo_parts": [
@@ -3968,7 +4109,7 @@
       "maps_url": null
     },
     {
-      "id": 141,
+      "id": 146,
       "title": "Marinha do Brasil",
       "headline": "Marinha do Brasil abre seis novos Concursos Públicos",
       "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-seis-novos-concursos-publicos",
@@ -3980,7 +4121,7 @@
       "salary_val": 9070.6,
       "deadline_str": "14/05/2025",
       "deadline_iso": "2025-05-14",
-      "days_remaining": -543,
+      "days_remaining": -544,
       "vacancies": "174 vagas",
       "details": "174 vagas até R$ 9070,60 | Cirurgião-Dentista, Capelães Navais, Engenheiros | Superior",
       "cargo_parts": [
@@ -3996,7 +4137,7 @@
       "maps_url": null
     },
     {
-      "id": 142,
+      "id": 147,
       "title": "NAV BRASIL - Serviços de Navegação Aérea S.A.",
       "headline": "NAV Brasil divulga edital de Processo Seletivo",
       "link": "https://www.pciconcursos.com.br/noticias/nav-brasil-divulga-edital-de-processo-seletivo",
@@ -4008,7 +4149,7 @@
       "salary_val": 10302.0,
       "deadline_str": "03/04/2025",
       "deadline_iso": "2025-04-03",
-      "days_remaining": -584,
+      "days_remaining": -585,
       "vacancies": "93 vagas",
       "details": "93 vagas até R$ 10.302,00 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -4024,7 +4165,7 @@
       "maps_url": null
     },
     {
-      "id": 143,
+      "id": 148,
       "title": "Ebserh - (HU-UFGD)",
       "headline": "EBSERH abre inscrições para Processo Seletivo com cargo de Médico",
       "link": "https://www.pciconcursos.com.br/noticias/ebserh-abre-inscricoes-para-processo-seletivo-com-cargo-de-medico",
@@ -4036,7 +4177,7 @@
       "salary_val": 10787.12,
       "deadline_str": "02/04/2025",
       "deadline_iso": "2025-04-02",
-      "days_remaining": -585,
+      "days_remaining": -586,
       "vacancies": "1 vagas",
       "details": "1 vaga até R$ 10.787,12 | Médico Oftalmologia | Superior",
       "cargo_parts": [
@@ -4052,7 +4193,7 @@
       "maps_url": null
     },
     {
-      "id": 144,
+      "id": 149,
       "title": "Aeronáutica (EA CADAR/ CAFAR / CAMAR / EAOAP/ EAOEAR e EIAC)",
       "headline": "Aeronáutica divulga novo Processo Seletivo com 345 vagas",
       "link": "https://www.pciconcursos.com.br/noticias/aeronautica-divulga-novo-processo-seletivo-com-345-vagas",
@@ -4064,7 +4205,7 @@
       "salary_val": 0.0,
       "deadline_str": "17/03/2025",
       "deadline_iso": "2025-03-17",
-      "days_remaining": -601,
+      "days_remaining": -602,
       "vacancies": "345 vagas",
       "details": "345 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -4080,7 +4221,7 @@
       "maps_url": null
     },
     {
-      "id": 145,
+      "id": 150,
       "title": "EBSERH - Empresa Brasileira de Serviços Hospitalares",
       "headline": "EBSERH retifica Certame para contratação de 198 médicos",
       "link": "https://www.pciconcursos.com.br/noticias/ebserh-retifica-certame-para-contratacao-de-198-medicos",
@@ -4092,7 +4233,7 @@
       "salary_val": 17978.62,
       "deadline_str": "20/01/2025",
       "deadline_iso": "2025-01-20",
-      "days_remaining": -657,
+      "days_remaining": -658,
       "vacancies": "198 vagas",
       "details": "198 vagas até R$ 17.978,62 | Médicos | Superior",
       "cargo_parts": [
@@ -4108,7 +4249,7 @@
       "maps_url": null
     },
     {
-      "id": 146,
+      "id": 151,
       "title": "Marinha do Brasil - 1º Distrito Naval",
       "headline": "Marinha do Brasil: Com1ºDN retifica dois Processos Seletivos para Oficiais Temporários",
       "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-com1-dn-retifica-dois-processos-seletivos-para-oficiais-temporarios",
@@ -4120,7 +4261,7 @@
       "salary_val": 0.0,
       "deadline_str": "10/01/2025",
       "deadline_iso": "2025-01-10",
-      "days_remaining": -667,
+      "days_remaining": -668,
       "vacancies": "276 vagas",
       "details": "276 vagas | Oficiais Temporários | Superior",
       "cargo_parts": [
@@ -4136,7 +4277,7 @@
       "maps_url": null
     },
     {
-      "id": 147,
+      "id": 152,
       "title": "MPS - Ministério da Previdência Social",
       "headline": "MPS retifica Concurso Público para Perito Médico Federal",
       "link": "https://www.pciconcursos.com.br/noticias/mps-retifica-concurso-publico-para-perito-medico-federal",
@@ -4148,7 +4289,7 @@
       "salary_val": 14166.99,
       "deadline_str": "09/01/2025",
       "deadline_iso": "2025-01-09",
-      "days_remaining": -668,
+      "days_remaining": -669,
       "vacancies": "250 vagas",
       "details": "250 vagas até R$ 14.166,99 | Perito Médico Federal | Superior",
       "cargo_parts": [
@@ -4164,7 +4305,7 @@
       "maps_url": null
     },
     {
-      "id": 148,
+      "id": 153,
       "title": "Marinha do Brasil - 2º Distrito Naval",
       "headline": "Marinha do Brasil: Com2ºDN divulga dois Processos Seletivos para Oficiais Temporários",
       "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-com2-dn-divulga-dois-processos-seletivos-para-oficiais-temporarios",
@@ -4176,7 +4317,7 @@
       "salary_val": 0.0,
       "deadline_str": "06/01/2025",
       "deadline_iso": "2025-01-06",
-      "days_remaining": -671,
+      "days_remaining": -672,
       "vacancies": "43 vagas",
       "details": "43 vagas | Oficiais Temporários | Superior",
       "cargo_parts": [
@@ -4192,7 +4333,7 @@
       "maps_url": null
     },
     {
-      "id": 149,
+      "id": 154,
       "title": "GHC - Grupo Hospitalar Conceição",
       "headline": "GHC retifica Concurso Público para profissionais de níveis técnico e superior",
       "link": "https://www.pciconcursos.com.br/noticias/ghc-retifica-concurso-publico-para-profissionais-de-niveis-tecnico-e-superior",
@@ -4204,7 +4345,7 @@
       "salary_val": 28903.6,
       "deadline_str": "24/10/2024",
       "deadline_iso": "2024-10-24",
-      "days_remaining": -745,
+      "days_remaining": -746,
       "vacancies": "CR",
       "details": "Vagas até R$ 28.903,60 | Vários Cargos | Técnico / Superior",
       "cargo_parts": [
@@ -4220,7 +4361,7 @@
       "maps_url": null
     },
     {
-      "id": 150,
+      "id": 155,
       "title": "CONSAD - Consórcio Interestadual e Intermunicipal de Municípios",
       "headline": "CONSAD divulga Processo Seletivo para profissionais de níveis médio e superior",
       "link": "https://www.pciconcursos.com.br/noticias/consad-divulga-processo-seletivo-para-profissionais-de-niveis-medio-e-superior",
@@ -4232,7 +4373,7 @@
       "salary_val": 6326.31,
       "deadline_str": "17/10/2024",
       "deadline_iso": "2024-10-17",
-      "days_remaining": -752,
+      "days_remaining": -753,
       "vacancies": "1 vagas",
       "details": "1 vaga até R$ 6326,31 | Médico Veterinário, Agente Administrativo | Médio / Superior",
       "cargo_parts": [
@@ -4248,7 +4389,7 @@
       "maps_url": null
     },
     {
-      "id": 151,
+      "id": 156,
       "title": "DATAPREV - Emp. de Tecnologia e Inf. da Previdência Social",
       "headline": "Dataprev realiza Concurso Público com 2.145 vagas de níveis médio e superior",
       "link": "https://www.pciconcursos.com.br/noticias/dataprev-realiza-concurso-publico-com-2145-vagas-de-niveis-medio-e-superior",
@@ -4260,7 +4401,7 @@
       "salary_val": 9173.62,
       "deadline_str": "03/10/2024",
       "deadline_iso": "2024-10-03",
-      "days_remaining": -766,
+      "days_remaining": -767,
       "vacancies": "236 vagas",
       "details": "236 vagas até R$ 9173,62 | Vários Cargos | Médio / Superior",
       "cargo_parts": [
@@ -4276,7 +4417,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Bras%C3%ADlia%2C+DF%2C+Brasil"
     },
     {
-      "id": 152,
+      "id": 157,
       "title": "Correios - Empresa Brasileira de Correios e Telégrafos",
       "headline": "Correios: Concurso Público com 33 vagas para diversos estados é retificado",
       "link": "https://www.pciconcursos.com.br/noticias/correios-concurso-publico-com-33-vagas-para-diversos-estados-e-retificado",
@@ -4288,7 +4429,7 @@
       "salary_val": 6872.48,
       "deadline_str": "08/09/2024",
       "deadline_iso": "2024-09-08",
-      "days_remaining": -791,
+      "days_remaining": -792,
       "vacancies": "33 vagas",
       "details": "33 vagas até R$ 6872,48 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -4304,7 +4445,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Bras%C3%ADlia%2C+DF%2C+Brasil"
     },
     {
-      "id": 153,
+      "id": 158,
       "title": "GHC - Grupo Hospitalar Conceição",
       "headline": "GHC informa abertura de novo edital de Concurso Público",
       "link": "https://www.pciconcursos.com.br/noticias/ghc-informa-abertura-de-novo-edital-de-concurso-publico",
@@ -4316,7 +4457,7 @@
       "salary_val": 27874.0,
       "deadline_str": "19/08/2024",
       "deadline_iso": "2024-08-19",
-      "days_remaining": -811,
+      "days_remaining": -812,
       "vacancies": "CR",
       "details": "Vagas até R$ 27.874,00 | Vários Cargos | Fundamental / Superior",
       "cargo_parts": [
@@ -4332,7 +4473,7 @@
       "maps_url": null
     },
     {
-      "id": 154,
+      "id": 159,
       "title": "Exército Brasileiro - 11ª Região Militar",
       "headline": "Exército Brasileiro: 11ª Região Militar retifica 10 editais de Processos Seletivos",
       "link": "https://www.pciconcursos.com.br/noticias/exercito-brasileiro-11-regiao-militar-retifica-10-editais-de-processos-seletivos",
@@ -4344,7 +4485,7 @@
       "salary_val": 0.0,
       "deadline_str": "29/07/2024",
       "deadline_iso": "2024-07-29",
-      "days_remaining": -832,
+      "days_remaining": -833,
       "vacancies": "187 vagas",
       "details": "187 vagas | Serviço Militar Temporário | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -4360,7 +4501,7 @@
       "maps_url": null
     },
     {
-      "id": 155,
+      "id": 160,
       "title": "Exército Brasileiro",
       "headline": "Exército Brasileiro retifica dois editais de Concursos Públicos com 210 vagas",
       "link": "https://www.pciconcursos.com.br/noticias/exercito-brasileiro-retifica-dois-editais-de-concursos-publicos-com-210-vagas",
@@ -4372,7 +4513,7 @@
       "salary_val": 0.0,
       "deadline_str": "14/06/2024",
       "deadline_iso": "2024-06-14",
-      "days_remaining": -877,
+      "days_remaining": -878,
       "vacancies": "210 vagas",
       "details": "210 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -4388,7 +4529,7 @@
       "maps_url": null
     },
     {
-      "id": 156,
+      "id": 161,
       "title": "GHC - Grupo Hospitalar Conceição",
       "headline": "GHC publica uma retificação do novo edital de Processo Seletivo",
       "link": "https://www.pciconcursos.com.br/noticias/ghc-publica-uma-retificacao-do-novo-edital-de-processo-seletivo",
@@ -4400,7 +4541,7 @@
       "salary_val": 19385.1,
       "deadline_str": "31/05/2024",
       "deadline_iso": "2024-05-31",
-      "days_remaining": -891,
+      "days_remaining": -892,
       "vacancies": "CR",
       "details": "Vagas até R$ 19.385,10 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -4416,7 +4557,7 @@
       "maps_url": null
     },
     {
-      "id": 157,
+      "id": 162,
       "title": "Exército Brasileiro - 12ª Região Militar",
       "headline": "Exército Brasileiro: 12ª RM anuncia abertura de um novo Processo Seletivo",
       "link": "https://www.pciconcursos.com.br/noticias/exercito-brasileiro-12-rm-anuncia-abertura-de-um-novo-processo-seletivo",
@@ -4428,7 +4569,7 @@
       "salary_val": 0.0,
       "deadline_str": "29/05/2024",
       "deadline_iso": "2024-05-29",
-      "days_remaining": -893,
+      "days_remaining": -894,
       "vacancies": "CR",
       "details": "Vagas | Médicos | Superior",
       "cargo_parts": [
@@ -4444,7 +4585,7 @@
       "maps_url": null
     },
     {
-      "id": 158,
+      "id": 163,
       "title": "Marinha do Brasil",
       "headline": "Marinha do Brasil retifica um dos editais de quatro Concursos Públicos com 60 vagas",
       "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-retifica-um-dos-editais-de-quatro-concursos-publicos-com-60-vagas",
@@ -4456,7 +4597,7 @@
       "salary_val": 9070.6,
       "deadline_str": "08/05/2024",
       "deadline_iso": "2024-05-08",
-      "days_remaining": -914,
+      "days_remaining": -915,
       "vacancies": "60 vagas",
       "details": "60 vagas até R$ 9070,60 | Vários Cargos | Superior",
       "cargo_parts": [
@@ -4472,7 +4613,7 @@
       "maps_url": null
     },
     {
-      "id": 159,
+      "id": 164,
       "title": "Comando da Aeronáutica",
       "headline": "Comando da Aeronáutica divulga cinco novos Processos Seletivos",
       "link": "https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-divulga-cinco-novos-processos-seletivos",
@@ -4484,7 +4625,7 @@
       "salary_val": 0.0,
       "deadline_str": "25/04/2024",
       "deadline_iso": "2024-04-25",
-      "days_remaining": -927,
+      "days_remaining": -928,
       "vacancies": "CR",
       "details": "Vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -4500,7 +4641,7 @@
       "maps_url": null
     },
     {
-      "id": 160,
+      "id": 165,
       "title": "Caixa Econômica Federal",
       "headline": "Caixa retifica dois editais do novo Concursos Públicos com 4050 oportunidades",
       "link": "https://www.pciconcursos.com.br/noticias/caixa-retifica-dois-editais-do-novo-concursos-publicos-com-4050-oportunidades",
@@ -4512,7 +4653,7 @@
       "salary_val": 14915.0,
       "deadline_str": "25/03/2024",
       "deadline_iso": "2024-03-25",
-      "days_remaining": -958,
+      "days_remaining": -959,
       "vacancies": "4050 vagas",
       "details": "4050 vagas até R$ 14.915,00 | Vários Cargos | Médio / Superior",
       "cargo_parts": [
@@ -4528,7 +4669,7 @@
       "maps_url": null
     },
     {
-      "id": 161,
+      "id": 166,
       "title": "NAV Brasil Serviços de Navegação Aérea S/A",
       "headline": "NAV Brasil retifica edital de Processo Seletivo com 68 vagas",
       "link": "https://www.pciconcursos.com.br/noticias/nav-brasil-retifica-edital-de-processo-seletivo-com-68-vagas",
@@ -4540,7 +4681,7 @@
       "salary_val": 10302.0,
       "deadline_str": "18/03/2024",
       "deadline_iso": "2024-03-18",
-      "days_remaining": -965,
+      "days_remaining": -966,
       "vacancies": "68 vagas",
       "details": "68 vagas até R$ 10.302,00 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -4556,7 +4697,7 @@
       "maps_url": null
     },
     {
-      "id": 162,
+      "id": 167,
       "title": "Comando da Aeronáutica",
       "headline": "Comando da Aeronáutica anuncia cinco novos editais de exames de admissão com 207 vagas",
       "link": "https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-anuncia-cinco-novos-editais-de-exames-de-admissao-com-207-vagas",
@@ -4568,7 +4709,7 @@
       "salary_val": 0.0,
       "deadline_str": "11/03/2024",
       "deadline_iso": "2024-03-11",
-      "days_remaining": -972,
+      "days_remaining": -973,
       "vacancies": "207 vagas",
       "details": "207 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -4584,7 +4725,7 @@
       "maps_url": null
     },
     {
-      "id": 163,
+      "id": 168,
       "title": "FIOCRUZ - Fundação Oswaldo Cruz",
       "headline": "Fiocruz retifica um dos três Concursos Público publicados",
       "link": "https://www.pciconcursos.com.br/noticias/fiocruz-retifica-um-dos-tres-concursos-publico-publicados",
@@ -4596,7 +4737,7 @@
       "salary_val": 12233.7,
       "deadline_str": "05/03/2024",
       "deadline_iso": "2024-03-05",
-      "days_remaining": -978,
+      "days_remaining": -979,
       "vacancies": "300 vagas",
       "details": "300 vagas até R$ 12.233,70 | Vários Cargos | Superior",
       "cargo_parts": [
@@ -4612,7 +4753,7 @@
       "maps_url": null
     },
     {
-      "id": 164,
+      "id": 169,
       "title": "IMBEL - Indústria de Material Bélico do Brasil",
       "headline": "IMBEL retifica Concurso Público com remunerações de até R$ 10,8 mil",
       "link": "https://www.pciconcursos.com.br/noticias/imbel-retifica-concurso-publico-com-remuneracoes-de-ate-10-8-mil",
@@ -4624,7 +4765,7 @@
       "salary_val": 10838.67,
       "deadline_str": "19/02/2024",
       "deadline_iso": "2024-02-19",
-      "days_remaining": -993,
+      "days_remaining": -994,
       "vacancies": "CR",
       "details": "Vagas até R$ 10.838,67 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -4640,7 +4781,7 @@
       "maps_url": null
     },
     {
-      "id": 165,
+      "id": 170,
       "title": "Concurso Público Nacional Unificado",
       "headline": "Concurso Público Nacional Unificado com 6.640 vagas é retificado",
       "link": "https://www.pciconcursos.com.br/noticias/concurso-publico-nacional-unificado-com-6640-vagas-e-retificado",
@@ -4652,7 +4793,7 @@
       "salary_val": 22921.71,
       "deadline_str": "09/02/2024",
       "deadline_iso": "2024-02-09",
-      "days_remaining": -1003,
+      "days_remaining": -1004,
       "vacancies": "640 vagas",
       "details": "6.640 vagas até R$ 22.921,71 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -4668,7 +4809,7 @@
       "maps_url": null
     },
     {
-      "id": 166,
+      "id": 171,
       "title": "Rede SARAH de Hospitais de Reabilitação",
       "headline": "Rede Sarah e APS divulgam cinco Processos Seletivos para Médicos",
       "link": "https://www.pciconcursos.com.br/noticias/rede-sarah-e-aps-divulgam-cinco-processos-seletivos-para-medicos",
@@ -4680,7 +4821,7 @@
       "salary_val": 36914.91,
       "deadline_str": "21/12/2023",
       "deadline_iso": "2023-12-21",
-      "days_remaining": -1053,
+      "days_remaining": -1054,
       "vacancies": "23 vagas",
       "details": "23 vagas até R$ 36.914,91 | Médicos | Superior",
       "cargo_parts": [
@@ -4696,7 +4837,7 @@
       "maps_url": null
     },
     {
-      "id": 167,
+      "id": 172,
       "title": "EBSERH - Empresa Brasileira de Serviços Hospitalares",
       "headline": "EBSERH anuncia nova retificação de um dos editais de Concursos Públicos com mais de 690 vagas",
       "link": "https://www.pciconcursos.com.br/noticias/ebserh-anuncia-nova-retificacao-de-um-dos-editais-de-concursos-publicos-com-mais-de-690-vagas",
@@ -4708,7 +4849,7 @@
       "salary_val": 12524.35,
       "deadline_str": "31/10/2023",
       "deadline_iso": "2023-10-31",
-      "days_remaining": -1104,
+      "days_remaining": -1105,
       "vacancies": "693 vagas",
       "details": "693 vagas até R$ 12.524,35 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -4724,7 +4865,7 @@
       "maps_url": null
     },
     {
-      "id": 168,
+      "id": 173,
       "title": "Câmara dos Deputados",
       "headline": "Câmara dos Deputados retifica um dos quatro Concursos Públicos com 749 vagas",
       "link": "https://www.pciconcursos.com.br/noticias/camara-dos-deputados-retifica-um-dos-quatro-concursos-publicos-com-749-vagas",
@@ -4736,7 +4877,7 @@
       "salary_val": 34812.19,
       "deadline_str": "04/10/2023",
       "deadline_iso": "2023-10-04",
-      "days_remaining": -1131,
+      "days_remaining": -1132,
       "vacancies": "140 vagas",
       "details": "140 vagas até R$ 34.812,19 | Vários Cargos | Superior",
       "cargo_parts": [
@@ -4752,7 +4893,7 @@
       "maps_url": null
     },
     {
-      "id": 169,
+      "id": 174,
       "title": "DATAPREV - Emp. de Tecnologia e Inf. da Previdência Social",
       "headline": "DATAPREV retifica edital do Concurso Público com mais de 204 vagas",
       "link": "https://www.pciconcursos.com.br/noticias/dataprev-retifica-edital-do-concurso-publico-com-mais-de-204-vagas",
@@ -4764,7 +4905,7 @@
       "salary_val": 8747.61,
       "deadline_str": "18/08/2023",
       "deadline_iso": "2023-08-18",
-      "days_remaining": -1178,
+      "days_remaining": -1179,
       "vacancies": "222 vagas",
       "details": "222 vagas até R$ 8747,61 | Vários Cargos | Médio / Superior",
       "cargo_parts": [
@@ -4780,7 +4921,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Bras%C3%ADlia%2C+DF%2C+Brasil"
     },
     {
-      "id": 170,
+      "id": 175,
       "title": "Exército Brasileiro - 3ª Região Militar",
       "headline": "Exercito Brasileiro: 3ª Região Militar publica edital de Processo Seletivo",
       "link": "https://www.pciconcursos.com.br/noticias/exercito-brasileiro-3-regiao-militar-publica-edital-de-processo-seletivo",
@@ -4792,7 +4933,7 @@
       "salary_val": 0.0,
       "deadline_str": "11/08/2023",
       "deadline_iso": "2023-08-11",
-      "days_remaining": -1185,
+      "days_remaining": -1186,
       "vacancies": "CR",
       "details": "Vagas | Médico, Dentista, Farmacêutico e Veterinário | Superior",
       "cargo_parts": [
@@ -4808,7 +4949,7 @@
       "maps_url": null
     },
     {
-      "id": 171,
+      "id": 176,
       "title": "Exército Brasileiro (EsFCEx)",
       "headline": "Exército divulga Concurso de Admissão para a ESFCEx",
       "link": "https://www.pciconcursos.com.br/noticias/exercito-divulga-concurso-de-admissao-para-a-esfcex",
@@ -4820,7 +4961,7 @@
       "salary_val": 0.0,
       "deadline_str": "02/08/2023",
       "deadline_iso": "2023-08-02",
-      "days_remaining": -1194,
+      "days_remaining": -1195,
       "vacancies": "162 vagas",
       "details": "162 vagas | Curso de Formação de Oficiais do Serviço de Saúde | Superior",
       "cargo_parts": [
@@ -4836,7 +4977,7 @@
       "maps_url": null
     },
     {
-      "id": 172,
+      "id": 177,
       "title": "Exército Brasileiro - 12ª Região Militar",
       "headline": "Exército Brasileiro abre cinco Processos Seletivos para a 12ª região",
       "link": "https://www.pciconcursos.com.br/noticias/exercito-brasileiro-abre-cinco-processos-seletivos-para-a-12-regiao",
@@ -4848,7 +4989,7 @@
       "salary_val": 0.0,
       "deadline_str": "31/07/2023",
       "deadline_iso": "2023-07-31",
-      "days_remaining": -1196,
+      "days_remaining": -1197,
       "vacancies": "CR",
       "details": "Vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -4864,7 +5005,7 @@
       "maps_url": null
     },
     {
-      "id": 173,
+      "id": 178,
       "title": "Exército Brasileiro - 11ª Região Militar",
       "headline": "Exército Brasileiro: 11º RM anuncia abertura de 9 novos Processos Seletivos",
       "link": "https://www.pciconcursos.com.br/noticias/exercito-brasileiro-11-rm-anuncia-abertura-de-9-novos-processos-seletivos",
@@ -4876,7 +5017,7 @@
       "salary_val": 0.0,
       "deadline_str": "25/07/2023",
       "deadline_iso": "2023-07-25",
-      "days_remaining": -1202,
+      "days_remaining": -1203,
       "vacancies": "203 vagas",
       "details": "203 vagas | Vários Cargos | Fundamental / Médio / Superior",
       "cargo_parts": [
@@ -4892,7 +5033,7 @@
       "maps_url": null
     },
     {
-      "id": 174,
+      "id": 179,
       "title": "Aeronáutica do Brasil",
       "headline": "Comando da Aeronáutica anuncia novo Processo Seletivo de nível superior na área da Saúde",
       "link": "https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-anuncia-novo-processo-seletivo-de-nivel-superior-na-area-da-saude",
@@ -4904,7 +5045,7 @@
       "salary_val": 0.0,
       "deadline_str": "13/07/2023",
       "deadline_iso": "2023-07-13",
-      "days_remaining": -1214,
+      "days_remaining": -1215,
       "vacancies": "CR",
       "details": "Vagas | Serviço Militar Voluntário - Médico | Superior",
       "cargo_parts": [
@@ -4920,7 +5061,7 @@
       "maps_url": null
     },
     {
-      "id": 175,
+      "id": 180,
       "title": "Marinha do Brasil",
       "headline": "Marinha do Brasil retifica um dos novos Concursos Públicos com 44 vagas",
       "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-retifica-um-dos-novos-concursos-publicos-com-44-vagas",
@@ -4932,7 +5073,7 @@
       "salary_val": 9070.6,
       "deadline_str": "25/06/2023",
       "deadline_iso": "2023-06-25",
-      "days_remaining": -1232,
+      "days_remaining": -1233,
       "vacancies": "44 vagas",
       "details": "44 vagas até R$ 9070,60 | Vários Cargos | Superior",
       "cargo_parts": [
@@ -4948,7 +5089,7 @@
       "maps_url": null
     },
     {
-      "id": 176,
+      "id": 181,
       "title": "Programa Mais Médicos",
       "headline": "Programa Mais Médicos divulga edital com mais de 5,9 mil vagas e bolsa de R$ 12 mil",
       "link": "https://www.pciconcursos.com.br/noticias/programa-mais-medicos-divulga-edital-com-mais-de-5-9-mil-vagas-e-bolsa-de-12-mil",
@@ -4960,7 +5101,7 @@
       "salary_val": 12386.5,
       "deadline_str": "31/05/2023",
       "deadline_iso": "2023-05-31",
-      "days_remaining": -1257,
+      "days_remaining": -1258,
       "vacancies": "5970 vagas",
       "details": "5970 vagas até R$ 12.386,50 | Médicos | Superior",
       "cargo_parts": [
@@ -4976,7 +5117,7 @@
       "maps_url": null
     },
     {
-      "id": 177,
+      "id": 182,
       "title": "Aeronáutica",
       "headline": "Aeronáutica divulga editais de seis novos exames de admissão com 208 vagas",
       "link": "https://www.pciconcursos.com.br/noticias/aeronautica-divulga-editais-de-seis-novos-exames-de-admissao-com-208-vagas",
@@ -4988,7 +5129,7 @@
       "salary_val": 0.0,
       "deadline_str": "13/03/2023",
       "deadline_iso": "2023-03-13",
-      "days_remaining": -1336,
+      "days_remaining": -1337,
       "vacancies": "208 vagas",
       "details": "208 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -5004,7 +5145,7 @@
       "maps_url": null
     },
     {
-      "id": 178,
+      "id": 183,
       "title": "Marinha do Brasil - 4º Distrito Naval",
       "headline": "Dois Processos Seletivos são anunciados pela Marinha do Brasil",
       "link": "https://www.pciconcursos.com.br/noticias/dois-processos-seletivos-sao-anunciados-pela-marinha-do-brasil",
@@ -5016,7 +5157,7 @@
       "salary_val": 0.0,
       "deadline_str": "08/11/2022",
       "deadline_iso": "2022-11-08",
-      "days_remaining": -1461,
+      "days_remaining": -1462,
       "vacancies": "16 vagas",
       "details": "16 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -5032,7 +5173,7 @@
       "maps_url": null
     },
     {
-      "id": 179,
+      "id": 184,
       "title": "Marinha do Brasil - 7º Distrito Naval",
       "headline": "Marinha do Brasil divulga dois Processos Seletivos com 42 vagas",
       "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-divulga-dois-processos-seletivos-com-42-vagas",
@@ -5044,7 +5185,7 @@
       "salary_val": 0.0,
       "deadline_str": "08/11/2022",
       "deadline_iso": "2022-11-08",
-      "days_remaining": -1461,
+      "days_remaining": -1462,
       "vacancies": "42 vagas",
       "details": "42 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -5060,7 +5201,7 @@
       "maps_url": null
     },
     {
-      "id": 180,
+      "id": 185,
       "title": "Exército Brasileiro (EsFCEx)",
       "headline": "EsFCEx do Exército abre novo Concurso de Admissão com 122 vagas",
       "link": "https://www.pciconcursos.com.br/noticias/esfcex-do-exercito-abre-novo-concurso-de-admissao-com-122-vagas",
@@ -5072,7 +5213,7 @@
       "salary_val": 0.0,
       "deadline_str": "05/08/2022",
       "deadline_iso": "2022-08-05",
-      "days_remaining": -1556,
+      "days_remaining": -1557,
       "vacancies": "122 vagas",
       "details": "122 vagas | Curso de Formação de Oficiais | Superior",
       "cargo_parts": [
@@ -5088,7 +5229,7 @@
       "maps_url": null
     },
     {
-      "id": 181,
+      "id": 186,
       "title": "Exército Brasileiro - 9ª Região Militar",
       "headline": "Exército Brasileiro: 9ª Região Militar divulga novo Processo Seletivo",
       "link": "https://www.pciconcursos.com.br/noticias/exercito-brasileiro-9-regiao-militar-divulga-novo-processo-seletivo",
@@ -5100,7 +5241,7 @@
       "salary_val": 0.0,
       "deadline_str": "03/08/2022",
       "deadline_iso": "2022-08-03",
-      "days_remaining": -1558,
+      "days_remaining": -1559,
       "vacancies": "CR",
       "details": "Vagas | Médicos Voluntários | Superior",
       "cargo_parts": [
@@ -5116,7 +5257,7 @@
       "maps_url": null
     },
     {
-      "id": 182,
+      "id": 187,
       "title": "Marinha do Brasil (CSM)",
       "headline": "Concurso Público para médicos é anunciado pela Marinha do Brasil",
       "link": "https://www.pciconcursos.com.br/noticias/concurso-publico-para-medicos-e-anunciado-pela-marinha-do-brasil",
@@ -5128,7 +5269,7 @@
       "salary_val": 9070.6,
       "deadline_str": "24/07/2022",
       "deadline_iso": "2022-07-24",
-      "days_remaining": -1568,
+      "days_remaining": -1569,
       "vacancies": "25 vagas",
       "details": "25 vagas até R$ 9070,60 | Médicos | Superior",
       "cargo_parts": [
@@ -5144,7 +5285,7 @@
       "maps_url": null
     },
     {
-      "id": 183,
+      "id": 188,
       "title": "Aeronáutica",
       "headline": "Comando da Aeronáutica promove quatro Processos Seletivos para oficiais temporários",
       "link": "https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-promove-quatro-processos-seletivos-para-oficiais-temporarios",
@@ -5156,7 +5297,7 @@
       "salary_val": 0.0,
       "deadline_str": "08/07/2022",
       "deadline_iso": "2022-07-08",
-      "days_remaining": -1584,
+      "days_remaining": -1585,
       "vacancies": "CR",
       "details": "Vagas | Oficiais Temporários | Superior",
       "cargo_parts": [
@@ -5172,7 +5313,7 @@
       "maps_url": null
     },
     {
-      "id": 184,
+      "id": 189,
       "title": "EBSERH - Empresa Brasileira de Serviços Hospitalares - HU UFSCAR",
       "headline": "EBSERH abre dois Processos Seletivos com 12 vagas",
       "link": "https://www.pciconcursos.com.br/noticias/ebserh-abre-dois-processos-seletivos-com-12-vagas",
@@ -5184,7 +5325,7 @@
       "salary_val": 8984.81,
       "deadline_str": "25/06/2022",
       "deadline_iso": "2022-06-25",
-      "days_remaining": -1597,
+      "days_remaining": -1598,
       "vacancies": "12 vagas",
       "details": "12 vagas até R$ 8984,81 | Médicos | Superior",
       "cargo_parts": [
@@ -5200,7 +5341,7 @@
       "maps_url": null
     },
     {
-      "id": 185,
+      "id": 190,
       "title": "EBSERH - Empresa Brasileira de Serviços Hospitalares",
       "headline": "EBSERH realiza novo Processo Seletivo para médicos",
       "link": "https://www.pciconcursos.com.br/noticias/ebserh-realiza-novo-processo-seletivo-para-medicos",
@@ -5212,7 +5353,7 @@
       "salary_val": 8984.81,
       "deadline_str": "21/06/2022",
       "deadline_iso": "2022-06-21",
-      "days_remaining": -1601,
+      "days_remaining": -1602,
       "vacancies": "4 vagas",
       "details": "4 vagas até R$ 8984,81 | Médico | Superior",
       "cargo_parts": [
@@ -5228,7 +5369,7 @@
       "maps_url": null
     },
     {
-      "id": 186,
+      "id": 191,
       "title": "EBSERH - Empresa Brasileira de Serviços Hospitalares",
       "headline": "EBSERH anuncia dois novos Processos Seletivos",
       "link": "https://www.pciconcursos.com.br/noticias/ebserh-anuncia-dois-novos-processos-seletivos",
@@ -5240,7 +5381,7 @@
       "salary_val": 8984.81,
       "deadline_str": "21/06/2022",
       "deadline_iso": "2022-06-21",
-      "days_remaining": -1601,
+      "days_remaining": -1602,
       "vacancies": "18 vagas",
       "details": "18 vagas até R$ 8984,81 | Médico | Superior",
       "cargo_parts": [
@@ -5256,7 +5397,7 @@
       "maps_url": null
     },
     {
-      "id": 187,
+      "id": 192,
       "title": "FAB - Força Aérea Brasileira",
       "headline": "Aeronáutica divulga Exames de Admissão com 159 vagas",
       "link": "https://www.pciconcursos.com.br/noticias/aeronautica-divulga-exames-de-admissao-com-159-vagas",
@@ -5268,153 +5409,13 @@
       "salary_val": 0.0,
       "deadline_str": "13/03/2022",
       "deadline_iso": "2022-03-13",
-      "days_remaining": -1701,
+      "days_remaining": -1702,
       "vacancies": "159 vagas",
       "details": "159 vagas | Vários Cargos | Superior",
       "cargo_parts": [
         "159 vagas",
         "Vários Cargos",
         "Superior"
-      ],
-      "dist_km": null,
-      "dist_road_km": null,
-      "distance_category": "Âmbito Nacional",
-      "lat": null,
-      "lng": null,
-      "maps_url": null
-    },
-    {
-      "id": 188,
-      "title": "ADAPS - Agência para o Desenvolvimento da Atenção Primária à Saúde",
-      "headline": "ADAPS retifica Processo Seletivo com 4.652 vagas",
-      "link": "https://www.pciconcursos.com.br/noticias/adaps-retifica-processo-seletivo-com-4652-vagas",
-      "city": "Âmbito Nacional",
-      "uf": "Nacional",
-      "status": "Encerrado",
-      "is_open": false,
-      "salary_str": "R$ 12.600,00",
-      "salary_val": 12600.0,
-      "deadline_str": "06/02/2022",
-      "deadline_iso": "2022-02-06",
-      "days_remaining": -1736,
-      "vacancies": "4652 vagas",
-      "details": "4652 vagas até R$ 12.600,00 | Tutor Médico e Médico de Família e Comunidade | Superior",
-      "cargo_parts": [
-        "4652 vagas até R$ 12.600,00",
-        "Tutor Médico e Médico de Família e Comunidade",
-        "Superior"
-      ],
-      "dist_km": null,
-      "dist_road_km": null,
-      "distance_category": "Âmbito Nacional",
-      "lat": null,
-      "lng": null,
-      "maps_url": null
-    },
-    {
-      "id": 189,
-      "title": "Rede SARAH de Hospitais de Reabilitação",
-      "headline": "Rede Sarah disponibiliza um novo Processo Seletivo com salário de até 29,8 mil",
-      "link": "https://www.pciconcursos.com.br/noticias/rede-sarah-disponibiliza-um-novo-processo-seletivo-com-salario-de-ate-29-8-mil",
-      "city": "Âmbito Nacional",
-      "uf": "Nacional",
-      "status": "Encerrado",
-      "is_open": false,
-      "salary_str": "R$ 29.879,79",
-      "salary_val": 29879.79,
-      "deadline_str": "29/09/2021",
-      "deadline_iso": "2021-09-29",
-      "days_remaining": -1866,
-      "vacancies": "4 vagas",
-      "details": "4 vagas até R$ 29.879,79 | Médico - Fisiatria | Superior",
-      "cargo_parts": [
-        "4 vagas até R$ 29.879,79",
-        "Médico - Fisiatria",
-        "Superior"
-      ],
-      "dist_km": null,
-      "dist_road_km": null,
-      "distance_category": "Âmbito Nacional",
-      "lat": null,
-      "lng": null,
-      "maps_url": null
-    },
-    {
-      "id": 190,
-      "title": "Rede SARAH de Hospitais de Reabilitação",
-      "headline": "Rede Sarah anuncia retificações de dois Processos Seletivos com 8 vagas para médicos",
-      "link": "https://www.pciconcursos.com.br/noticias/rede-sarah-anuncia-retificacoes-de-dois-processos-seletivos-com-8-vagas-para-medicos",
-      "city": "Âmbito Nacional",
-      "uf": "Nacional",
-      "status": "Encerrado",
-      "is_open": false,
-      "salary_str": "R$ 32.781,77",
-      "salary_val": 32781.77,
-      "deadline_str": "29/09/2021",
-      "deadline_iso": "2021-09-29",
-      "days_remaining": -1866,
-      "vacancies": "8 vagas",
-      "details": "8 vagas até R$ 32.781,77 | Médicos | Superior",
-      "cargo_parts": [
-        "8 vagas até R$ 32.781,77",
-        "Médicos",
-        "Superior"
-      ],
-      "dist_km": null,
-      "dist_road_km": null,
-      "distance_category": "Âmbito Nacional",
-      "lat": null,
-      "lng": null,
-      "maps_url": null
-    },
-    {
-      "id": 191,
-      "title": "FAJ - Fundação Adib Jatene",
-      "headline": "Fundação Adib Jatene - SP divulga seis novos Processos Seletivos com 75 vagas",
-      "link": "https://www.pciconcursos.com.br/noticias/fundacao-adib-jatene-sp-divulga-seis-novos-processos-seletivos-com-75-vagas",
-      "city": "Órgão Estadual (SP)",
-      "uf": "SP",
-      "status": "Encerrado",
-      "is_open": false,
-      "salary_str": "Consulte o edital",
-      "salary_val": 0.0,
-      "deadline_str": "21/09/2021",
-      "deadline_iso": "2021-09-21",
-      "days_remaining": -1874,
-      "vacancies": "75 vagas",
-      "details": "75 vagas | Vários Cargos | Técnico / Superior",
-      "cargo_parts": [
-        "75 vagas",
-        "Vários Cargos",
-        "Técnico / Superior"
-      ],
-      "dist_km": null,
-      "dist_road_km": null,
-      "distance_category": "Sem localização exata",
-      "lat": null,
-      "lng": null,
-      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/%C3%93rg%C3%A3o+Estadual+%28SP%29%2C+SP%2C+Brasil"
-    },
-    {
-      "id": 192,
-      "title": "INCS - Instituto Nacional de Ciências da Saúde",
-      "headline": "INCS retifica novamente editais de dois Processos Seletivos com 467 vagas",
-      "link": "https://www.pciconcursos.com.br/noticias/incs-retifica-novamente-editais-de-dois-processos-seletivos-com-467-vagas",
-      "city": "Âmbito Nacional",
-      "uf": "Nacional",
-      "status": "Encerrado",
-      "is_open": false,
-      "salary_str": "R$ 5200,00",
-      "salary_val": 5200.0,
-      "deadline_str": "08/09/2021",
-      "deadline_iso": "2021-09-08",
-      "days_remaining": -1887,
-      "vacancies": "CR",
-      "details": "467 até R$ 5200,00 | Vários Cargos | Médio / Técnico / Superior",
-      "cargo_parts": [
-        "467 até R$ 5200,00",
-        "Vários Cargos",
-        "Médio / Técnico / Superior"
       ],
       "dist_km": null,
       "dist_road_km": null,
