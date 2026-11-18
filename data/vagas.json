@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T18:22:28.257338",
+  "updated_at": "2026-11-18T17:55:22.660815",
   "origin": {
     "name": "Divinópolis",
     "uf": "MG",
@@ -7,9 +7,9 @@
     "lng": -44.8912
   },
   "stats": {
-    "total": 191,
+    "total": 188,
     "total_open": 116,
-    "total_mg": 27,
+    "total_mg": 28,
     "closest": {
       "title": "Prefeitura de Cláudio",
       "city": "Cláudio",
@@ -24,20 +24,20 @@
       "salary_str": "R$ 36.914,91"
     },
     "state_counts": {
-      "Nacional": 66,
+      "Nacional": 63,
       "SP": 21,
       "RJ": 3,
-      "MG": 27,
+      "MG": 28,
       "ES": 3,
-      "PR": 2,
+      "PR": 1,
       "RS": 13,
       "SC": 22,
       "DF": 7,
       "GO": 3,
-      "MS": 1,
-      "MT": 3,
-      "AC": 2,
+      "MT": 4,
+      "AC": 1,
       "AP": 1,
+      "PA": 1,
       "RO": 1,
       "CE": 2,
       "MA": 2,
@@ -61,7 +61,7 @@
       "salary_val": 11971.07,
       "deadline_str": "18/11/2026",
       "deadline_iso": "2026-11-18",
-      "days_remaining": 2,
+      "days_remaining": 1,
       "vacancies": "80 vagas",
       "details": "80 vagas até R$ 11.971,07 | Médico | Superior",
       "cargo_parts": [
@@ -89,7 +89,7 @@
       "salary_val": 11778.84,
       "deadline_str": "07/01/2027",
       "deadline_iso": "2027-01-07",
-      "days_remaining": 52,
+      "days_remaining": 51,
       "vacancies": "10 vagas",
       "details": "10 vagas até R$ 11.778,84 | Vários Cargos | Médio / Superior",
       "cargo_parts": [
@@ -117,7 +117,7 @@
       "salary_val": 12213.03,
       "deadline_str": "04/01/2027",
       "deadline_iso": "2027-01-04",
-      "days_remaining": 49,
+      "days_remaining": 48,
       "vacancies": "1072 vagas",
       "details": "1072 vagas até R$ 12.213,03 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -134,6 +134,34 @@
     },
     {
       "id": 4,
+      "title": "Prefeitura de Pilar do Sul",
+      "headline": "Prefeitura de Pilar do Sul - SP abre concurso público com salários de até R$ 6.593,75",
+      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pilar-do-sul-sp-abre-concurso-publico-com-salarios-de-ate-6593",
+      "city": "Pilar do Sul",
+      "uf": "SP",
+      "status": "Inscrições Abertas",
+      "is_open": true,
+      "salary_str": "R$ 6.593,75",
+      "salary_val": 6593.75,
+      "deadline_str": "28/12/2026",
+      "deadline_iso": "2026-12-28",
+      "days_remaining": 41,
+      "vacancies": "5 vagas",
+      "details": "5 vagas até R$ 6.593,75 | Vários Cargos | Fundamental / Superior",
+      "cargo_parts": [
+        "5 vagas até R$ 6.593,75",
+        "Vários Cargos",
+        "Fundamental / Superior"
+      ],
+      "dist_km": 501.1,
+      "dist_road_km": 626.4,
+      "distance_category": "Distante (300 - 600 km)",
+      "lat": -23.8077,
+      "lng": -47.7222,
+      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Pilar+do+Sul%2C+SP%2C+Brasil"
+    },
+    {
+      "id": 5,
       "title": "Prefeitura de Catiguá",
       "headline": "Prefeitura de Catiguá - SP abre concurso público com salários de até R$ 14.750,00",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-catigua-sp-abre-concurso-publico-com-salarios-de-ate-14750",
@@ -145,7 +173,7 @@
       "salary_val": 14750.0,
       "deadline_str": "21/12/2026",
       "deadline_iso": "2026-12-21",
-      "days_remaining": 35,
+      "days_remaining": 34,
       "vacancies": "36 vagas",
       "details": "36 vagas até R$ 14.750,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -161,7 +189,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Catigu%C3%A1%2C+SP%2C+Brasil"
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "Prefeitura de Inúbia Paulista",
       "headline": "Prefeitura de Inúbia Paulista - SP abre concurso público e processo seletivo para diversos cargos",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-inubia-paulista-sp-abre-concurso-publico-e-processo-seletivo-para-diversos-cargos",
@@ -173,7 +201,7 @@
       "salary_val": 14980.0,
       "deadline_str": "16/12/2026",
       "deadline_iso": "2026-12-16",
-      "days_remaining": 30,
+      "days_remaining": 29,
       "vacancies": "CR",
       "details": "Vagas até R$ 14.980,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -189,34 +217,6 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/In%C3%BAbia+Paulista%2C+SP%2C+Brasil"
     },
     {
-      "id": 6,
-      "title": "Prefeitura da Estância Turística de Guaratinguetá",
-      "headline": "Prefeitura de Guaratinguetá - SP abre concurso público com salários de até R$ 18.540,71",
-      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaratingueta-sp-abre-concurso-publico-com-salarios-de-ate-18540",
-      "city": "Guaratinguetá",
-      "uf": "SP",
-      "status": "Inscrições Abertas",
-      "is_open": true,
-      "salary_str": "R$ 18.540,71",
-      "salary_val": 18540.71,
-      "deadline_str": "15/12/2026",
-      "deadline_iso": "2026-12-15",
-      "days_remaining": 29,
-      "vacancies": "107 vagas",
-      "details": "107 vagas até R$ 18.540,71 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
-      "cargo_parts": [
-        "107 vagas até R$ 18.540,71",
-        "Vários Cargos",
-        "Fundamental / Médio / Técnico / Superior"
-      ],
-      "dist_km": 297.8,
-      "dist_road_km": 372.2,
-      "distance_category": "Médio (150 - 300 km)",
-      "lat": -22.8075,
-      "lng": -45.1938,
-      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Guaratinguet%C3%A1%2C+SP%2C+Brasil"
-    },
-    {
       "id": 7,
       "title": "Prefeitura de Tapiraí",
       "headline": "Prefeitura de Tapiraí - SP abre concurso público com salários de até R$ 7.991,27",
@@ -229,7 +229,7 @@
       "salary_val": 7991.27,
       "deadline_str": "14/12/2026",
       "deadline_iso": "2026-12-14",
-      "days_remaining": 28,
+      "days_remaining": 27,
       "vacancies": "24 vagas",
       "details": "24 vagas até R$ 7.991,27 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -257,7 +257,7 @@
       "salary_val": 21296.07,
       "deadline_str": "09/12/2026",
       "deadline_iso": "2026-12-09",
-      "days_remaining": 23,
+      "days_remaining": 22,
       "vacancies": "2 vagas",
       "details": "2 vagas até R$ 21.296,07 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -285,7 +285,7 @@
       "salary_val": 0.0,
       "deadline_str": "06/12/2026",
       "deadline_iso": "2026-12-06",
-      "days_remaining": 20,
+      "days_remaining": 19,
       "vacancies": "58 vagas",
       "details": "58 vagas | Médico Residente | Superior",
       "cargo_parts": [
@@ -313,7 +313,7 @@
       "salary_val": 5565.0,
       "deadline_str": "03/12/2026",
       "deadline_iso": "2026-12-03",
-      "days_remaining": 17,
+      "days_remaining": 16,
       "vacancies": "19 vagas",
       "details": "19 vagas até R$ 5.565,00 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -341,7 +341,7 @@
       "salary_val": 7078.72,
       "deadline_str": "03/12/2026",
       "deadline_iso": "2026-12-03",
-      "days_remaining": 17,
+      "days_remaining": 16,
       "vacancies": "CR",
       "details": "Cadastro reserva até R$ 7.078,72 | Vários Cargos | Médio / Superior",
       "cargo_parts": [
@@ -358,6 +358,34 @@
     },
     {
       "id": 12,
+      "title": "Prefeitura de Alvinlândia",
+      "headline": "Prefeitura de Alvinlândia - SP abre processo seletivo com salários de até R$ 9.742,35",
+      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alvinlandia-sp-abre-processo-seletivo-com-salarios-de-ate-9742",
+      "city": "Alvinlândia",
+      "uf": "SP",
+      "status": "Inscrições Abertas",
+      "is_open": true,
+      "salary_str": "R$ 9.742,35",
+      "salary_val": 9742.35,
+      "deadline_str": "29/11/2026",
+      "deadline_iso": "2026-11-29",
+      "days_remaining": 12,
+      "vacancies": "CR",
+      "details": "Vagas até R$ 9.742,35 | Vários Cargos | Médio / Superior",
+      "cargo_parts": [
+        "Vagas até R$ 9.742,35",
+        "Vários Cargos",
+        "Médio / Superior"
+      ],
+      "dist_km": 565.6,
+      "dist_road_km": 707.0,
+      "distance_category": "Distante (300 - 600 km)",
+      "lat": -22.4435,
+      "lng": -49.7623,
+      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Alvinl%C3%A2ndia%2C+SP%2C+Brasil"
+    },
+    {
+      "id": 13,
       "title": "Prefeitura de Pinhalzinho",
       "headline": "Prefeitura de Pinhalzinho - SP abre concurso público com salários de até R$ 7.723,14",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinhalzinho-sp-abre-concurso-publico-com-salarios-de-ate-7723",
@@ -369,7 +397,7 @@
       "salary_val": 7723.14,
       "deadline_str": "29/11/2026",
       "deadline_iso": "2026-11-29",
-      "days_remaining": 13,
+      "days_remaining": 12,
       "vacancies": "19 vagas",
       "details": "19 vagas até R$ 7.723,14 | Vários Cargos | Fundamental / Médio / Superior",
       "cargo_parts": [
@@ -385,7 +413,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Pinhalzinho%2C+SP%2C+Brasil"
     },
     {
-      "id": 13,
+      "id": 14,
       "title": "Prefeitura de Mogi Guaçu",
       "headline": "Prefeitura de Mogi Guaçu - SP abre três novos concursos para cadastro de reserva em diversas áreas",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mogi-guacu-sp-abre-tres-novos-concursos-para-cadastro-de-reserva-em-diversas-areas",
@@ -397,7 +425,7 @@
       "salary_val": 6316.43,
       "deadline_str": "27/11/2026",
       "deadline_iso": "2026-11-27",
-      "days_remaining": 11,
+      "days_remaining": 10,
       "vacancies": "CR",
       "details": "Vagas até R$ 6.316,43 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -413,7 +441,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Mogi+Gua%C3%A7u%2C+SP%2C+Brasil"
     },
     {
-      "id": 14,
+      "id": 15,
       "title": "HCFMRP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
       "headline": "HCFMRP - USP abre concurso público para médico na área de alergia e imunologia",
       "link": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-abre-concurso-publico-para-medico-na-area-de-alergia-e-imunologia",
@@ -425,7 +453,7 @@
       "salary_val": 5979.93,
       "deadline_str": "27/11/2026",
       "deadline_iso": "2026-11-27",
-      "days_remaining": 11,
+      "days_remaining": 10,
       "vacancies": "1 vagas",
       "details": "1 vaga até R$ 5.979,93 | Médico I | Superior",
       "cargo_parts": [
@@ -441,7 +469,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/S%C3%A3o+Paulo%2C+SP%2C+Brasil"
     },
     {
-      "id": 15,
+      "id": 16,
       "title": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
       "headline": "HCFMRP-USP abre três concursos públicos para médicos",
       "link": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-abre-tres-concursos-publicos-para-medicos",
@@ -453,7 +481,7 @@
       "salary_val": 5979.93,
       "deadline_str": "27/11/2026",
       "deadline_iso": "2026-11-27",
-      "days_remaining": 11,
+      "days_remaining": 10,
       "vacancies": "3 vagas",
       "details": "3 vagas até R$ 5.979,93 | Médico I | Superior",
       "cargo_parts": [
@@ -469,7 +497,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/S%C3%A3o+Paulo%2C+SP%2C+Brasil"
     },
     {
-      "id": 16,
+      "id": 17,
       "title": "Prefeitura de Corumbataí",
       "headline": "Prefeitura de Corumbataí - SP abre concurso público com vagas imediatas e cadastro de reserva",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-corumbatai-sp-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
@@ -481,7 +509,7 @@
       "salary_val": 14955.58,
       "deadline_str": "26/11/2026",
       "deadline_iso": "2026-11-26",
-      "days_remaining": 10,
+      "days_remaining": 9,
       "vacancies": "13 vagas",
       "details": "13 vagas até R$ 14.955,58 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -497,7 +525,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Corumbata%C3%AD%2C+SP%2C+Brasil"
     },
     {
-      "id": 17,
+      "id": 18,
       "title": "Prefeitura de Santana de Parnaíba",
       "headline": "Prefeitura de Santana de Parnaíba - SP abre seleção para médicos",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-parnaiba-sp-abre-selecao-para-medicos",
@@ -509,7 +537,7 @@
       "salary_val": 13087.86,
       "deadline_str": "23/11/2026",
       "deadline_iso": "2026-11-23",
-      "days_remaining": 7,
+      "days_remaining": 6,
       "vacancies": "CR",
       "details": "Vagas até R$ 13.087,86 | Médico | Superior",
       "cargo_parts": [
@@ -525,7 +553,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Santana+de+Parna%C3%ADba%2C+SP%2C+Brasil"
     },
     {
-      "id": 18,
+      "id": 19,
       "title": "Prefeitura de Monteiro Lobato",
       "headline": "Prefeitura de Monteiro Lobato - SP abre concurso público com vagas imediatas e cadastro de reserva",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-monteiro-lobato-sp-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
@@ -537,7 +565,7 @@
       "salary_val": 7408.75,
       "deadline_str": "23/11/2026",
       "deadline_iso": "2026-11-23",
-      "days_remaining": 7,
+      "days_remaining": 6,
       "vacancies": "64 vagas",
       "details": "64 vagas até R$ 7.408,75 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -553,7 +581,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Monteiro+Lobato%2C+SP%2C+Brasil"
     },
     {
-      "id": 19,
+      "id": 20,
       "title": "Prefeitura de Cunha",
       "headline": "Prefeitura de Cunha - SP abre concurso público com salários de até R$ 9.147,62",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cunha-sp-abre-concurso-publico-com-salarios-de-ate-9147",
@@ -565,7 +593,7 @@
       "salary_val": 9147.62,
       "deadline_str": "21/11/2026",
       "deadline_iso": "2026-11-21",
-      "days_remaining": 5,
+      "days_remaining": 4,
       "vacancies": "Cadastro de Reserva",
       "details": "Cadastro de reserva até R$ 9.147,62 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -581,19 +609,19 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Cunha%2C+SP%2C+Brasil"
     },
     {
-      "id": 20,
+      "id": 21,
       "title": "Prefeitura de Iperó",
       "headline": "Prefeitura de Iperó - SP abre concursos públicos e processo seletivo",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipero-sp-abre-concursos-publicos-e-processo-seletivo",
       "city": "Iperó",
       "uf": "SP",
-      "status": "Inscrições Abertas",
+      "status": "Últimos Dias",
       "is_open": true,
       "salary_str": "R$ 5.350,53",
       "salary_val": 5350.53,
       "deadline_str": "19/11/2026",
       "deadline_iso": "2026-11-19",
-      "days_remaining": 3,
+      "days_remaining": 2,
       "vacancies": "55 vagas",
       "details": "55 vagas até R$ 5.350,53 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -609,7 +637,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Iper%C3%B3%2C+SP%2C+Brasil"
     },
     {
-      "id": 21,
+      "id": 22,
       "title": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
       "headline": "FAMESP - SP abre processos seletivos para diversas áreas em Bauru",
       "link": "https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-para-diversas-areas-em-bauru",
@@ -621,7 +649,7 @@
       "salary_val": 4934.38,
       "deadline_str": "18/11/2026",
       "deadline_iso": "2026-11-18",
-      "days_remaining": 2,
+      "days_remaining": 1,
       "vacancies": "19 vagas",
       "details": "19 vagas até R$ 4.934,38 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -637,34 +665,6 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Mar%C3%ADlia%2C+SP%2C+Brasil"
     },
     {
-      "id": 22,
-      "title": "Prefeitura de Iaras",
-      "headline": "Prefeitura de Iaras - SP abre concurso público e processo seletivo",
-      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-iaras-sp-abre-concurso-publico-e-processo-seletivo",
-      "city": "Iaras",
-      "uf": "SP",
-      "status": "Últimos Dias",
-      "is_open": true,
-      "salary_str": "R$ 6.142,00",
-      "salary_val": 6142.0,
-      "deadline_str": "17/11/2026",
-      "deadline_iso": "2026-11-17",
-      "days_remaining": 1,
-      "vacancies": "19 vagas",
-      "details": "19 vagas até R$ 6.142,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
-      "cargo_parts": [
-        "19 vagas até R$ 6.142,00",
-        "Vários Cargos",
-        "Fundamental / Médio / Técnico / Superior"
-      ],
-      "dist_km": 535.7,
-      "dist_road_km": 669.6,
-      "distance_category": "Distante (300 - 600 km)",
-      "lat": -22.8682,
-      "lng": -49.1634,
-      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Iaras%2C+SP%2C+Brasil"
-    },
-    {
       "id": 23,
       "title": "Prefeitura de Italva",
       "headline": "Prefeitura de Italva - RJ abre concurso público com salários de até R$ 12.132,37",
@@ -677,7 +677,7 @@
       "salary_val": 12132.37,
       "deadline_str": "16/12/2026",
       "deadline_iso": "2026-12-16",
-      "days_remaining": 30,
+      "days_remaining": 29,
       "vacancies": "137 vagas",
       "details": "137 vagas até R$ 12.132,37 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -705,7 +705,7 @@
       "salary_val": 13945.21,
       "deadline_str": "11/02/2027",
       "deadline_iso": "2027-02-11",
-      "days_remaining": 87,
+      "days_remaining": 86,
       "vacancies": "91 vagas",
       "details": "91 vagas até R$ 13.945,21 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -733,7 +733,7 @@
       "salary_val": 3242.0,
       "deadline_str": "10/02/2027",
       "deadline_iso": "2027-02-10",
-      "days_remaining": 86,
+      "days_remaining": 85,
       "vacancies": "64 vagas",
       "details": "64 vagas até R$ 3.242,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -761,7 +761,7 @@
       "salary_val": 20418.44,
       "deadline_str": "21/01/2027",
       "deadline_iso": "2027-01-21",
-      "days_remaining": 66,
+      "days_remaining": 65,
       "vacancies": "43 vagas",
       "details": "43 vagas até R$ 20.418,44 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -789,7 +789,7 @@
       "salary_val": 10207.61,
       "deadline_str": "20/01/2027",
       "deadline_iso": "2027-01-20",
-      "days_remaining": 65,
+      "days_remaining": 64,
       "vacancies": "73 vagas",
       "details": "73 vagas até R$ 10.207,61 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -817,7 +817,7 @@
       "salary_val": 8860.79,
       "deadline_str": "18/01/2027",
       "deadline_iso": "2027-01-18",
-      "days_remaining": 63,
+      "days_remaining": 62,
       "vacancies": "79 vagas",
       "details": "79 vagas até R$ 8.860,79 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -845,7 +845,7 @@
       "salary_val": 10000.0,
       "deadline_str": "06/01/2027",
       "deadline_iso": "2027-01-06",
-      "days_remaining": 51,
+      "days_remaining": 50,
       "vacancies": "88 vagas",
       "details": "88 vagas até R$ 10.000,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -873,7 +873,7 @@
       "salary_val": 13500.0,
       "deadline_str": "30/12/2026",
       "deadline_iso": "2026-12-30",
-      "days_remaining": 44,
+      "days_remaining": 43,
       "vacancies": "154 vagas",
       "details": "154 vagas até R$ 13.500,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -901,7 +901,7 @@
       "salary_val": 17612.87,
       "deadline_str": "28/12/2026",
       "deadline_iso": "2026-12-28",
-      "days_remaining": 42,
+      "days_remaining": 41,
       "vacancies": "29 vagas",
       "details": "29 vagas até R$ 17.612,87 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -929,7 +929,7 @@
       "salary_val": 4786.59,
       "deadline_str": "17/12/2026",
       "deadline_iso": "2026-12-17",
-      "days_remaining": 31,
+      "days_remaining": 30,
       "vacancies": "11 vagas",
       "details": "11 vagas até R$ 4.786,59 | Analista Superior, Médico Veterinário | Superior",
       "cargo_parts": [
@@ -957,7 +957,7 @@
       "salary_val": 17954.23,
       "deadline_str": "15/12/2026",
       "deadline_iso": "2026-12-15",
-      "days_remaining": 29,
+      "days_remaining": 28,
       "vacancies": "172 vagas",
       "details": "172 vagas até R$ 17.954,23 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -985,7 +985,7 @@
       "salary_val": 4978.6,
       "deadline_str": "11/12/2026",
       "deadline_iso": "2026-12-11",
-      "days_remaining": 25,
+      "days_remaining": 24,
       "vacancies": "19 vagas",
       "details": "19 vagas até R$ 4.978,60 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1013,7 +1013,7 @@
       "salary_val": 11232.59,
       "deadline_str": "06/12/2026",
       "deadline_iso": "2026-12-06",
-      "days_remaining": 20,
+      "days_remaining": 19,
       "vacancies": "301 vagas",
       "details": "301 vagas até R$ 11.232,59 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1041,7 +1041,7 @@
       "salary_val": 3422.89,
       "deadline_str": "04/12/2026",
       "deadline_iso": "2026-12-04",
-      "days_remaining": 18,
+      "days_remaining": 17,
       "vacancies": "1 vagas",
       "details": "1 vaga até R$ 3.422,89 | Médico Veterinário | Superior",
       "cargo_parts": [
@@ -1069,7 +1069,7 @@
       "salary_val": 3576.46,
       "deadline_str": "02/12/2026",
       "deadline_iso": "2026-12-02",
-      "days_remaining": 16,
+      "days_remaining": 15,
       "vacancies": "33 vagas",
       "details": "33 vagas até R$ 3.576,46 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1097,7 +1097,7 @@
       "salary_val": 13865.67,
       "deadline_str": "30/11/2026",
       "deadline_iso": "2026-11-30",
-      "days_remaining": 14,
+      "days_remaining": 13,
       "vacancies": "CR",
       "details": "Vagas até R$ 13.865,67 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1114,6 +1114,34 @@
     },
     {
       "id": 39,
+      "title": "Fhemig - Fundação Hospitalar do Estado de Minas Gerais",
+      "headline": "Fhemig - MG abre seleção para médicos em Belo Horizonte",
+      "link": "https://www.pciconcursos.com.br/noticias/fhemig-mg-abre-selecao-para-medicos-em-belo-horizonte",
+      "city": "Belo Horizonte",
+      "uf": "MG",
+      "status": "Inscrições Abertas",
+      "is_open": true,
+      "salary_str": "R$ 13.212,64",
+      "salary_val": 13212.64,
+      "deadline_str": "27/11/2026",
+      "deadline_iso": "2026-11-27",
+      "days_remaining": 10,
+      "vacancies": "36 vagas",
+      "details": "36 vagas até R$ 13.212,64 | Médico | Superior",
+      "cargo_parts": [
+        "36 vagas até R$ 13.212,64",
+        "Médico",
+        "Superior"
+      ],
+      "dist_km": 104.1,
+      "dist_road_km": 130.1,
+      "distance_category": "Próximo (70 - 150 km)",
+      "lat": -19.9102,
+      "lng": -43.9266,
+      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Belo+Horizonte%2C+MG%2C+Brasil"
+    },
+    {
+      "id": 40,
       "title": "Prefeitura de Cláudio",
       "headline": "Prefeitura de Cláudio - MG abre processo seletivo com vaga para Médico de ESF",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-claudio-mg-abre-processo-seletivo-com-vaga-para-medico-de-esf",
@@ -1125,7 +1153,7 @@
       "salary_val": 20743.06,
       "deadline_str": "26/11/2026",
       "deadline_iso": "2026-11-26",
-      "days_remaining": 10,
+      "days_remaining": 9,
       "vacancies": "1 vagas",
       "details": "1 vaga até R$ 20.743,06 | Médico | Superior",
       "cargo_parts": [
@@ -1141,7 +1169,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Cl%C3%A1udio%2C+MG%2C+Brasil"
     },
     {
-      "id": 40,
+      "id": 41,
       "title": "Fhemig - Fundação Hospitalar do Estado de Minas Gerais",
       "headline": "Fhemig - MG abre seleção para médico no Instituto Raul Soares",
       "link": "https://www.pciconcursos.com.br/noticias/fhemig-mg-abre-selecao-para-medico-no-instituto-raul-soares",
@@ -1153,7 +1181,7 @@
       "salary_val": 7040.85,
       "deadline_str": "24/11/2026",
       "deadline_iso": "2026-11-24",
-      "days_remaining": 8,
+      "days_remaining": 7,
       "vacancies": "1 vagas",
       "details": "1 vaga até R$ 7.040,85 | Médico | Superior",
       "cargo_parts": [
@@ -1169,7 +1197,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Raul+Soares%2C+MG%2C+Brasil"
     },
     {
-      "id": 41,
+      "id": 42,
       "title": "FHEMIG - Fundação Hospitalar do Estado de Minas Gerais",
       "headline": "Fhemig - MG abre processos seletivos em Betim e Belo Horizonte",
       "link": "https://www.pciconcursos.com.br/noticias/fhemig-mg-abre-processos-seletivos-em-betim-e-belo-horizonte",
@@ -1181,7 +1209,7 @@
       "salary_val": 7040.85,
       "deadline_str": "23/11/2026",
       "deadline_iso": "2026-11-23",
-      "days_remaining": 7,
+      "days_remaining": 6,
       "vacancies": "10 vagas",
       "details": "10 vagas até R$ 7.040,85 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1197,7 +1225,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Belo+Horizonte%2C+MG%2C+Brasil"
     },
     {
-      "id": 42,
+      "id": 43,
       "title": "CIMAG - Consórcio Público Intermunicipal Multifinalitário da Microrregião do Circuito das Águas",
       "headline": "CIMAG abre concurso público para médicos veterinários com salários de até R$ 8.300,00",
       "link": "https://www.pciconcursos.com.br/noticias/cimag-abre-concurso-publico-para-medicos-veterinarios-com-salarios-de-ate-8300",
@@ -1209,7 +1237,7 @@
       "salary_val": 8300.0,
       "deadline_str": "23/11/2026",
       "deadline_iso": "2026-11-23",
-      "days_remaining": 7,
+      "days_remaining": 6,
       "vacancies": "2 vagas",
       "details": "2 vagas até R$ 8.300,00 | Médico Veterinário Júnior, Médico Veterinário Sênior | Superior",
       "cargo_parts": [
@@ -1225,7 +1253,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/S%C3%A3o+Louren%C3%A7o%2C+MG%2C+Brasil"
     },
     {
-      "id": 43,
+      "id": 44,
       "title": "Prefeitura de Ibertioga",
       "headline": "Prefeitura de Ibertioga - MG abre processo seletivo com salários de até R$ 15.479,20",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibertioga-mg-abre-processo-seletivo-com-salarios-de-ate-15479",
@@ -1237,7 +1265,7 @@
       "salary_val": 15479.2,
       "deadline_str": "20/11/2026",
       "deadline_iso": "2026-11-20",
-      "days_remaining": 4,
+      "days_remaining": 3,
       "vacancies": "47 vagas",
       "details": "47 vagas até R$ 15.479,20 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1253,7 +1281,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Ibertioga%2C+MG%2C+Brasil"
     },
     {
-      "id": 44,
+      "id": 45,
       "title": "Prefeitura de Leopoldina",
       "headline": "Prefeitura de Leopoldina - MG abre seleção com salários de até R$ 4.462,11",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-leopoldina-mg-abre-selecao-com-salarios-de-ate-4462",
@@ -1265,7 +1293,7 @@
       "salary_val": 4462.11,
       "deadline_str": "20/11/2026",
       "deadline_iso": "2026-11-20",
-      "days_remaining": 4,
+      "days_remaining": 3,
       "vacancies": "9 vagas",
       "details": "9 vagas até R$ 4.462,11 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1281,19 +1309,19 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Leopoldina%2C+MG%2C+Brasil"
     },
     {
-      "id": 45,
+      "id": 46,
       "title": "HOB - Hospital Metropolitano Odilon Behrens",
       "headline": "Hospital Metropolitano Odilon Behrens - MG abre seleção para médicos",
       "link": "https://www.pciconcursos.com.br/noticias/hospital-metropolitano-odilon-behrens-mg-abre-selecao-para-medicos",
       "city": "Órgão Estadual (MG)",
       "uf": "MG",
-      "status": "Inscrições Abertas",
+      "status": "Últimos Dias",
       "is_open": true,
       "salary_str": "R$ 18.067,43",
       "salary_val": 18067.43,
       "deadline_str": "19/11/2026",
       "deadline_iso": "2026-11-19",
-      "days_remaining": 3,
+      "days_remaining": 2,
       "vacancies": "CR",
       "details": "Vagas até R$ 18.067,43 | Médico | Superior",
       "cargo_parts": [
@@ -1309,19 +1337,19 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/%C3%93rg%C3%A3o+Estadual+%28MG%29%2C+MG%2C+Brasil"
     },
     {
-      "id": 46,
+      "id": 47,
       "title": "Prefeitura de São Vicente de Minas",
       "headline": "Prefeitura de São Vicente de Minas - MG retifica edital de concurso público",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-vicente-de-minas-mg-retifica-edital-de-concurso-publico",
       "city": "São Vicente de Minas",
       "uf": "MG",
-      "status": "Inscrições Abertas",
+      "status": "Últimos Dias",
       "is_open": true,
       "salary_str": "R$ 15.142,28",
       "salary_val": 15142.28,
       "deadline_str": "19/11/2026",
       "deadline_iso": "2026-11-19",
-      "days_remaining": 3,
+      "days_remaining": 2,
       "vacancies": "35 vagas",
       "details": "35 vagas até R$ 15.142,28 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1337,7 +1365,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/S%C3%A3o+Vicente+de+Minas%2C+MG%2C+Brasil"
     },
     {
-      "id": 47,
+      "id": 48,
       "title": "Prefeitura de Varginha",
       "headline": "Secretaria de Saúde de Varginha - MG abre processo seletivo para médicos",
       "link": "https://www.pciconcursos.com.br/noticias/secretaria-de-saude-de-varginha-mg-abre-processo-seletivo-para-medicos",
@@ -1349,7 +1377,7 @@
       "salary_val": 9237.12,
       "deadline_str": "18/11/2026",
       "deadline_iso": "2026-11-18",
-      "days_remaining": 2,
+      "days_remaining": 1,
       "vacancies": "2 vagas",
       "details": "2 vagas até R$ 9.237,12 | TNS/ES/Médico | Superior",
       "cargo_parts": [
@@ -1365,7 +1393,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Varginha%2C+MG%2C+Brasil"
     },
     {
-      "id": 48,
+      "id": 49,
       "title": "Prefeitura de Dom Silvério",
       "headline": "Prefeitura de Dom Silvério - MG abre processo seletivo com salários de até R$ 4.824,42",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-dom-silverio-mg-abre-processo-seletivo-com-salarios-de-ate-4824",
@@ -1377,7 +1405,7 @@
       "salary_val": 4824.42,
       "deadline_str": "18/11/2026",
       "deadline_iso": "2026-11-18",
-      "days_remaining": 2,
+      "days_remaining": 1,
       "vacancies": "6 vagas",
       "details": "6 vagas até R$ 4.824,42 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1393,7 +1421,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Dom+Silv%C3%A9rio%2C+MG%2C+Brasil"
     },
     {
-      "id": 49,
+      "id": 50,
       "title": "Prefeitura de Piracema",
       "headline": "Prefeitura de Piracema - MG abre concurso e processo seletivo com diversas vagas",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piracema-mg-abre-concurso-e-processo-seletivo-com-diversas-vagas",
@@ -1405,7 +1433,7 @@
       "salary_val": 18647.01,
       "deadline_str": "18/11/2026",
       "deadline_iso": "2026-11-18",
-      "days_remaining": 2,
+      "days_remaining": 1,
       "vacancies": "132 vagas",
       "details": "132 vagas até R$ 18.647,01 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1421,7 +1449,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Piracema%2C+MG%2C+Brasil"
     },
     {
-      "id": 50,
+      "id": 51,
       "title": "Prefeitura de Paiva",
       "headline": "Prefeitura de Paiva - MG abre concurso público com salários de até R$ 11.715,84",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paiva-mg-abre-concurso-publico-com-salarios-de-ate-11715",
@@ -1433,7 +1461,7 @@
       "salary_val": 11715.84,
       "deadline_str": "18/11/2026",
       "deadline_iso": "2026-11-18",
-      "days_remaining": 2,
+      "days_remaining": 1,
       "vacancies": "13 vagas",
       "details": "13 vagas até R$ 11.715,84 | Vários Cargos | Fundamental / Médio / Superior",
       "cargo_parts": [
@@ -1449,7 +1477,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Paiva%2C+MG%2C+Brasil"
     },
     {
-      "id": 51,
+      "id": 52,
       "title": "Prefeitura de Anchieta",
       "headline": "Prefeitura de Anchieta - ES abre concurso público com salários de até R$ 7.362,50",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-anchieta-es-abre-concurso-publico-com-salarios-de-ate-7362",
@@ -1461,7 +1489,7 @@
       "salary_val": 7362.5,
       "deadline_str": "14/12/2026",
       "deadline_iso": "2026-12-14",
-      "days_remaining": 28,
+      "days_remaining": 27,
       "vacancies": "33 vagas",
       "details": "33 vagas até R$ 7.362,50 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1477,7 +1505,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Anchieta%2C+ES%2C+Brasil"
     },
     {
-      "id": 52,
+      "id": 53,
       "title": "Prefeitura de Anchieta",
       "headline": "Prefeitura de Anchieta - ES abre concurso público com salários de até R$ 14.000,00",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-anchieta-es-abre-concurso-publico-com-salarios-de-ate-14000",
@@ -1489,7 +1517,7 @@
       "salary_val": 14000.0,
       "deadline_str": "14/12/2026",
       "deadline_iso": "2026-12-14",
-      "days_remaining": 28,
+      "days_remaining": 27,
       "vacancies": "25 vagas",
       "details": "25 vagas até R$ 14.000,00 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1505,7 +1533,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Anchieta%2C+ES%2C+Brasil"
     },
     {
-      "id": 53,
+      "id": 54,
       "title": "Prefeitura de Muqui",
       "headline": "Prefeitura de Muqui - ES abre concurso público com diversas vagas",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-muqui-es-abre-concurso-publico-com-diversas-vagas",
@@ -1517,7 +1545,7 @@
       "salary_val": 4554.0,
       "deadline_str": "08/12/2026",
       "deadline_iso": "2026-12-08",
-      "days_remaining": 22,
+      "days_remaining": 21,
       "vacancies": "157 vagas",
       "details": "157 vagas até R$ 4.554,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1533,7 +1561,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Muqui%2C+ES%2C+Brasil"
     },
     {
-      "id": 54,
+      "id": 55,
       "title": "Prefeitura de Umuarama",
       "headline": "Prefeitura de Umuarama - PR abre concurso público para médicos generalistas",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-umuarama-pr-abre-concurso-publico-para-medicos-generalistas",
@@ -1545,7 +1573,7 @@
       "salary_val": 14994.61,
       "deadline_str": "02/12/2026",
       "deadline_iso": "2026-12-02",
-      "days_remaining": 16,
+      "days_remaining": 15,
       "vacancies": "4 vagas",
       "details": "4 vagas até R$ 14.994,61 | Médico Generalista | Superior",
       "cargo_parts": [
@@ -1561,34 +1589,6 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Umuarama%2C+PR%2C+Brasil"
     },
     {
-      "id": 55,
-      "title": "Prefeitura de Entre Rios do Oeste",
-      "headline": "Prefeitura de Entre Rios do Oeste - PR abre processo seletivo para cargos de nível superior",
-      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-entre-rios-do-oeste-pr-abre-processo-seletivo-para-cargos-de-nivel-superior",
-      "city": "Entre Rios do Oeste",
-      "uf": "PR",
-      "status": "Últimos Dias",
-      "is_open": true,
-      "salary_str": "R$ 14.045,90",
-      "salary_val": 14045.9,
-      "deadline_str": "17/11/2026",
-      "deadline_iso": "2026-11-17",
-      "days_remaining": 1,
-      "vacancies": "4 vagas",
-      "details": "4 vagas até R$ 14.045,90 | Vários Cargos | Superior",
-      "cargo_parts": [
-        "4 vagas até R$ 14.045,90",
-        "Vários Cargos",
-        "Superior"
-      ],
-      "dist_km": 1085.9,
-      "dist_road_km": 1357.4,
-      "distance_category": "Muito Distante (> 600 km)",
-      "lat": -24.7042,
-      "lng": -54.2385,
-      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Entre+Rios+do+Oeste%2C+PR%2C+Brasil"
-    },
-    {
       "id": 56,
       "title": "IFFar - Instituto Federal de Educação, Ciência e Tecnologia Farroupilha",
       "headline": "IFFar - RS abre concurso público com vagas para diversas áreas",
@@ -1601,7 +1601,7 @@
       "salary_val": 4976.27,
       "deadline_str": "21/12/2026",
       "deadline_iso": "2026-12-21",
-      "days_remaining": 35,
+      "days_remaining": 34,
       "vacancies": "30 vagas",
       "details": "30 vagas até R$ 4.976,27 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1629,7 +1629,7 @@
       "salary_val": 10352.3,
       "deadline_str": "09/12/2026",
       "deadline_iso": "2026-12-09",
-      "days_remaining": 23,
+      "days_remaining": 22,
       "vacancies": "21 vagas",
       "details": "21 vagas até R$ 10.352,30 | Vários Cargos | Fundamental / Médio / Superior",
       "cargo_parts": [
@@ -1657,7 +1657,7 @@
       "salary_val": 16937.78,
       "deadline_str": "04/12/2026",
       "deadline_iso": "2026-12-04",
-      "days_remaining": 18,
+      "days_remaining": 17,
       "vacancies": "CR",
       "details": "Vagas até R$ 16.937,78 | Médico | Superior",
       "cargo_parts": [
@@ -1685,7 +1685,7 @@
       "salary_val": 12974.4,
       "deadline_str": "04/12/2026",
       "deadline_iso": "2026-12-04",
-      "days_remaining": 18,
+      "days_remaining": 17,
       "vacancies": "Cadastro de Reserva",
       "details": "Cadastro de reserva até R$ 12.974,40 | Vários Cargos | Fundamental / Técnico / Superior",
       "cargo_parts": [
@@ -1713,7 +1713,7 @@
       "salary_val": 19787.77,
       "deadline_str": "29/11/2026",
       "deadline_iso": "2026-11-29",
-      "days_remaining": 13,
+      "days_remaining": 12,
       "vacancies": "24 vagas",
       "details": "24 vagas até R$ 19.787,77 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1741,7 +1741,7 @@
       "salary_val": 7462.95,
       "deadline_str": "25/11/2026",
       "deadline_iso": "2026-11-25",
-      "days_remaining": 9,
+      "days_remaining": 8,
       "vacancies": "115 vagas",
       "details": "115 vagas até R$ 7.462,95 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1769,7 +1769,7 @@
       "salary_val": 21312.22,
       "deadline_str": "24/11/2026",
       "deadline_iso": "2026-11-24",
-      "days_remaining": 8,
+      "days_remaining": 7,
       "vacancies": "157 vagas",
       "details": "157 vagas até R$ 21.312,22 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1797,7 +1797,7 @@
       "salary_val": 20745.08,
       "deadline_str": "23/11/2026",
       "deadline_iso": "2026-11-23",
-      "days_remaining": 7,
+      "days_remaining": 6,
       "vacancies": "28 vagas",
       "details": "28 vagas até R$ 20.745,08 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1825,7 +1825,7 @@
       "salary_val": 19089.94,
       "deadline_str": "23/11/2026",
       "deadline_iso": "2026-11-23",
-      "days_remaining": 7,
+      "days_remaining": 6,
       "vacancies": "9 vagas",
       "details": "9 vagas até R$ 19.089,94 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1847,13 +1847,13 @@
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jari-rs-abre-processo-seletivo-para-professores-e-medicos",
       "city": "Jari",
       "uf": "RS",
-      "status": "Inscrições Abertas",
+      "status": "Últimos Dias",
       "is_open": true,
       "salary_str": "R$ 13.385,32",
       "salary_val": 13385.32,
       "deadline_str": "19/11/2026",
       "deadline_iso": "2026-11-19",
-      "days_remaining": 3,
+      "days_remaining": 2,
       "vacancies": "CR",
       "details": "Vagas até R$ 13.385,32 | Professor, Médico | Superior",
       "cargo_parts": [
@@ -1875,13 +1875,13 @@
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-padua-rs-abre-concurso-para-cadastro-de-reserva-em-diversas-areas",
       "city": "Nova Pádua",
       "uf": "RS",
-      "status": "Inscrições Abertas",
+      "status": "Últimos Dias",
       "is_open": true,
       "salary_str": "R$ 10.809,66",
       "salary_val": 10809.66,
       "deadline_str": "19/11/2026",
       "deadline_iso": "2026-11-19",
-      "days_remaining": 3,
+      "days_remaining": 2,
       "vacancies": "Cadastro de Reserva",
       "details": "Cadastro de Reserva até R$ 10.809,66 | Vários Cargos | Fundamental / Médio / Superior",
       "cargo_parts": [
@@ -1909,7 +1909,7 @@
       "salary_val": 13844.56,
       "deadline_str": "18/11/2026",
       "deadline_iso": "2026-11-18",
-      "days_remaining": 2,
+      "days_remaining": 1,
       "vacancies": "12 vagas",
       "details": "12 vagas até R$ 13.844,56 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -1937,7 +1937,7 @@
       "salary_val": 11569.13,
       "deadline_str": "18/12/2026",
       "deadline_iso": "2026-12-18",
-      "days_remaining": 32,
+      "days_remaining": 31,
       "vacancies": "CR",
       "details": "Vagas até R$ 11.569,13 | Analista Ambiental, Contador, Médico(a) Veterinário(a) | Superior",
       "cargo_parts": [
@@ -1965,7 +1965,7 @@
       "salary_val": 13096.78,
       "deadline_str": "16/12/2026",
       "deadline_iso": "2026-12-16",
-      "days_remaining": 30,
+      "days_remaining": 29,
       "vacancies": "14 vagas",
       "details": "14 vagas até R$ 13.096,78 | Vários Cargos | Fundamental / Médio / Superior",
       "cargo_parts": [
@@ -1993,7 +1993,7 @@
       "salary_val": 12300.0,
       "deadline_str": "14/12/2026",
       "deadline_iso": "2026-12-14",
-      "days_remaining": 28,
+      "days_remaining": 27,
       "vacancies": "18 vagas",
       "details": "18 vagas até R$ 12.300,00 | Vários Cargos | Técnico / Superior",
       "cargo_parts": [
@@ -2021,7 +2021,7 @@
       "salary_val": 26375.18,
       "deadline_str": "07/12/2026",
       "deadline_iso": "2026-12-07",
-      "days_remaining": 21,
+      "days_remaining": 20,
       "vacancies": "Cadastro de Reserva",
       "details": "Cadastro de reserva até R$ 26.375,18 | Vários Cargos | Médio / Superior",
       "cargo_parts": [
@@ -2049,7 +2049,7 @@
       "salary_val": 7454.79,
       "deadline_str": "07/12/2026",
       "deadline_iso": "2026-12-07",
-      "days_remaining": 21,
+      "days_remaining": 20,
       "vacancies": "12 vagas",
       "details": "12 vagas até R$ 7.454,79 | Vários Cargos | Fundamental / Médio / Superior",
       "cargo_parts": [
@@ -2077,7 +2077,7 @@
       "salary_val": 11219.13,
       "deadline_str": "06/12/2026",
       "deadline_iso": "2026-12-06",
-      "days_remaining": 20,
+      "days_remaining": 19,
       "vacancies": "CR",
       "details": "Vagas até R$ 11.219,13 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2105,7 +2105,7 @@
       "salary_val": 19660.06,
       "deadline_str": "04/12/2026",
       "deadline_iso": "2026-12-04",
-      "days_remaining": 18,
+      "days_remaining": 17,
       "vacancies": "17 vagas",
       "details": "17 vagas até R$ 19.660,06 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2133,7 +2133,7 @@
       "salary_val": 14004.25,
       "deadline_str": "03/12/2026",
       "deadline_iso": "2026-12-03",
-      "days_remaining": 17,
+      "days_remaining": 16,
       "vacancies": "4 vagas",
       "details": "4 vagas até R$ 14.004,25 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2161,7 +2161,7 @@
       "salary_val": 25103.42,
       "deadline_str": "02/12/2026",
       "deadline_iso": "2026-12-02",
-      "days_remaining": 16,
+      "days_remaining": 15,
       "vacancies": "Cadastro de Reserva",
       "details": "Cadastro de reserva até R$ 25.103,42 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2189,7 +2189,7 @@
       "salary_val": 30761.75,
       "deadline_str": "02/12/2026",
       "deadline_iso": "2026-12-02",
-      "days_remaining": 16,
+      "days_remaining": 15,
       "vacancies": "5 vagas",
       "details": "5 vagas até R$ 30.761,75 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2217,7 +2217,7 @@
       "salary_val": 22623.36,
       "deadline_str": "30/11/2026",
       "deadline_iso": "2026-11-30",
-      "days_remaining": 14,
+      "days_remaining": 13,
       "vacancies": "Cadastro de Reserva",
       "details": "Cadastro de reserva até R$ 22.623,36 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2245,7 +2245,7 @@
       "salary_val": 20364.15,
       "deadline_str": "29/11/2026",
       "deadline_iso": "2026-11-29",
-      "days_remaining": 13,
+      "days_remaining": 12,
       "vacancies": "10 vagas",
       "details": "10 vagas até R$ 20.364,15 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2273,7 +2273,7 @@
       "salary_val": 14189.97,
       "deadline_str": "28/11/2026",
       "deadline_iso": "2026-11-28",
-      "days_remaining": 12,
+      "days_remaining": 11,
       "vacancies": "Cadastro de Reserva",
       "details": "Cadastro de reserva até R$ 14.189,97 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2301,7 +2301,7 @@
       "salary_val": 21091.49,
       "deadline_str": "26/11/2026",
       "deadline_iso": "2026-11-26",
-      "days_remaining": 10,
+      "days_remaining": 9,
       "vacancies": "CR",
       "details": "Vagas até R$ 21.091,49 | Vários Cargos | Fundamental / Médio / Superior",
       "cargo_parts": [
@@ -2329,7 +2329,7 @@
       "salary_val": 10581.16,
       "deadline_str": "26/11/2026",
       "deadline_iso": "2026-11-26",
-      "days_remaining": 10,
+      "days_remaining": 9,
       "vacancies": "12 vagas",
       "details": "12 vagas até R$ 10.581,16 | Vários Cargos | Superior",
       "cargo_parts": [
@@ -2357,7 +2357,7 @@
       "salary_val": 26193.56,
       "deadline_str": "25/11/2026",
       "deadline_iso": "2026-11-25",
-      "days_remaining": 9,
+      "days_remaining": 8,
       "vacancies": "CR",
       "details": "Vagas até R$ 26.193,56 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2385,7 +2385,7 @@
       "salary_val": 19199.16,
       "deadline_str": "25/11/2026",
       "deadline_iso": "2026-11-25",
-      "days_remaining": 9,
+      "days_remaining": 8,
       "vacancies": "Cadastro de Reserva",
       "details": "Cadastro de Reserva até R$ 19.199,16 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2413,7 +2413,7 @@
       "salary_val": 10000.0,
       "deadline_str": "25/11/2026",
       "deadline_iso": "2026-11-25",
-      "days_remaining": 9,
+      "days_remaining": 8,
       "vacancies": "8 vagas",
       "details": "8 vagas até R$ 10.000,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2441,7 +2441,7 @@
       "salary_val": 15337.9,
       "deadline_str": "23/11/2026",
       "deadline_iso": "2026-11-23",
-      "days_remaining": 7,
+      "days_remaining": 6,
       "vacancies": "CR",
       "details": "Vagas até R$ 15.337,90 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2469,7 +2469,7 @@
       "salary_val": 20138.46,
       "deadline_str": "23/11/2026",
       "deadline_iso": "2026-11-23",
-      "days_remaining": 7,
+      "days_remaining": 6,
       "vacancies": "66 vagas",
       "details": "66 vagas até R$ 20.138,46 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2497,7 +2497,7 @@
       "salary_val": 8889.3,
       "deadline_str": "23/11/2026",
       "deadline_iso": "2026-11-23",
-      "days_remaining": 7,
+      "days_remaining": 6,
       "vacancies": "63 vagas",
       "details": "63 vagas até R$ 8.889,30 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2525,7 +2525,7 @@
       "salary_val": 7921.65,
       "deadline_str": "22/11/2026",
       "deadline_iso": "2026-11-22",
-      "days_remaining": 6,
+      "days_remaining": 5,
       "vacancies": "79 vagas",
       "details": "79 vagas até R$ 7.921,65 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2547,13 +2547,13 @@
       "link": "https://www.pciconcursos.com.br/noticias/iges-df-abre-quatro-selecoes-para-medicos-tecnicos-e-analistas",
       "city": "Brasília",
       "uf": "DF",
-      "status": "Inscrições Abertas",
+      "status": "Últimos Dias",
       "is_open": true,
       "salary_str": "R$ 13.359,56",
       "salary_val": 13359.56,
       "deadline_str": "19/11/2026",
       "deadline_iso": "2026-11-19",
-      "days_remaining": 3,
+      "days_remaining": 2,
       "vacancies": "Cadastro de Reserva",
       "details": "Cadastro de reserva até R$ 13.359,56 | Vários Cargos | Técnico / Superior",
       "cargo_parts": [
@@ -2581,7 +2581,7 @@
       "salary_val": 13359.56,
       "deadline_str": "18/11/2026",
       "deadline_iso": "2026-11-18",
-      "days_remaining": 2,
+      "days_remaining": 1,
       "vacancies": "CR",
       "details": "Vagas até R$ 13.359,56 | Enfermeiro, Médico | Superior",
       "cargo_parts": [
@@ -2609,7 +2609,7 @@
       "salary_val": 10500.0,
       "deadline_str": "07/01/2027",
       "deadline_iso": "2027-01-07",
-      "days_remaining": 52,
+      "days_remaining": 51,
       "vacancies": "86 vagas",
       "details": "86 vagas até R$ 10.500,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2637,7 +2637,7 @@
       "salary_val": 5215.39,
       "deadline_str": "23/12/2026",
       "deadline_iso": "2026-12-23",
-      "days_remaining": 37,
+      "days_remaining": 36,
       "vacancies": "36 vagas",
       "details": "36 vagas até R$ 5.215,39 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2665,7 +2665,7 @@
       "salary_val": 13530.0,
       "deadline_str": "03/12/2026",
       "deadline_iso": "2026-12-03",
-      "days_remaining": 17,
+      "days_remaining": 16,
       "vacancies": "70 vagas",
       "details": "70 vagas até R$ 13.530,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2682,34 +2682,6 @@
     },
     {
       "id": 95,
-      "title": "UFMS - Fundação Universidade Federal de Mato Grosso do Sul",
-      "headline": "UFMS abre concurso público para cargos técnico-administrativos em educação",
-      "link": "https://www.pciconcursos.com.br/noticias/ufms-abre-concurso-publico-para-cargos-tecnico-administrativos-em-educacao",
-      "city": "Campo Grande",
-      "uf": "MS",
-      "status": "Inscrições Abertas",
-      "is_open": true,
-      "salary_str": "R$ 5.215,39",
-      "salary_val": 5215.39,
-      "deadline_str": "04/12/2026",
-      "deadline_iso": "2026-12-04",
-      "days_remaining": 18,
-      "vacancies": "154 vagas",
-      "details": "154 vagas até R$ 5.215,39 | Vários Cargos | Médio / Técnico / Superior",
-      "cargo_parts": [
-        "154 vagas até R$ 5.215,39",
-        "Vários Cargos",
-        "Médio / Técnico / Superior"
-      ],
-      "dist_km": 1016.0,
-      "dist_road_km": 1270.0,
-      "distance_category": "Muito Distante (> 600 km)",
-      "lat": -20.4486,
-      "lng": -54.6295,
-      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Campo+Grande%2C+MS%2C+Brasil"
-    },
-    {
-      "id": 96,
       "title": "Prefeitura de Novo São Joaquim",
       "headline": "Prefeitura de Novo São Joaquim - MT abre concurso com salários de até R$ 11.979,03",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-sao-joaquim-mt-abre-concurso-com-salarios-de-ate-11979",
@@ -2721,7 +2693,7 @@
       "salary_val": 11979.03,
       "deadline_str": "04/01/2027",
       "deadline_iso": "2027-01-04",
-      "days_remaining": 49,
+      "days_remaining": 48,
       "vacancies": "266 vagas",
       "details": "266 vagas até R$ 11.979,03 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2737,6 +2709,34 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Novo+S%C3%A3o+Joaquim%2C+MT%2C+Brasil"
     },
     {
+      "id": 96,
+      "title": "Prefeitura de Tabaporã",
+      "headline": "Prefeitura de Tabaporã - MT abre seleção com salários de até R$ 9.677,25",
+      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tabapora-mt-abre-selecao-com-salarios-de-ate-9677",
+      "city": "Tabaporã",
+      "uf": "MT",
+      "status": "Inscrições Abertas",
+      "is_open": true,
+      "salary_str": "R$ 9.677,25",
+      "salary_val": 9677.25,
+      "deadline_str": "01/12/2026",
+      "deadline_iso": "2026-12-01",
+      "days_remaining": 14,
+      "vacancies": "165 vagas",
+      "details": "165 vagas até R$ 9.677,25 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
+      "cargo_parts": [
+        "165 vagas até R$ 9.677,25",
+        "Vários Cargos",
+        "Fundamental / Médio / Técnico / Superior"
+      ],
+      "dist_km": 1611.2,
+      "dist_road_km": 2014.0,
+      "distance_category": "Muito Distante (> 600 km)",
+      "lat": -11.3007,
+      "lng": -56.8312,
+      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Tabapor%C3%A3%2C+MT%2C+Brasil"
+    },
+    {
       "id": 97,
       "title": "Prefeitura de Santa Rita do Trivelato",
       "headline": "Prefeitura de Santa Rita do Trivelato - MT abre seleção com salários de até R$ 21.825,31",
@@ -2749,7 +2749,7 @@
       "salary_val": 21825.31,
       "deadline_str": "22/11/2026",
       "deadline_iso": "2026-11-22",
-      "days_remaining": 6,
+      "days_remaining": 5,
       "vacancies": "CR",
       "details": "Vagas até R$ 21.825,31 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2777,7 +2777,7 @@
       "salary_val": 11308.36,
       "deadline_str": "22/11/2026",
       "deadline_iso": "2026-11-22",
-      "days_remaining": 6,
+      "days_remaining": 5,
       "vacancies": "47 vagas",
       "details": "47 vagas até R$ 11.308,36 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2794,46 +2794,18 @@
     },
     {
       "id": 99,
-      "title": "PCAC - Polícia Civil do Estado do Acre",
-      "headline": "Polícia Civil do Estado do Acre (PCAC) e SEAD - AC abrem concurso público com salários de até R$ 19.505,66",
-      "link": "https://www.pciconcursos.com.br/noticias/policia-civil-do-estado-do-acre-pcac-e-sead-ac-abrem-concurso-publico-com-salarios-de-ate-19505",
-      "city": "Órgão Estadual (AC)",
-      "uf": "AC",
-      "status": "Inscrições Abertas",
-      "is_open": true,
-      "salary_str": "R$ 19.505,66",
-      "salary_val": 19505.66,
-      "deadline_str": "14/12/2026",
-      "deadline_iso": "2026-12-14",
-      "days_remaining": 28,
-      "vacancies": "139 vagas",
-      "details": "139 vagas até R$ 19.505,66 | Vários Cargos | Superior",
-      "cargo_parts": [
-        "139 vagas até R$ 19.505,66",
-        "Vários Cargos",
-        "Superior"
-      ],
-      "dist_km": null,
-      "dist_road_km": null,
-      "distance_category": "Sem localização exata",
-      "lat": null,
-      "lng": null,
-      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/%C3%93rg%C3%A3o+Estadual+%28AC%29%2C+AC%2C+Brasil"
-    },
-    {
-      "id": 100,
       "title": "Fundape - Fundação de Apoio e Desenvolvimento ao Ensino, Pesquisa e Extensão Universitária no Acre",
       "headline": "Fundape - AC abre processo seletivo para formação de cadastro de reserva",
       "link": "https://www.pciconcursos.com.br/noticias/fundape-ac-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
       "city": "Órgão Estadual (AC)",
       "uf": "AC",
-      "status": "Inscrições Abertas",
+      "status": "Últimos Dias",
       "is_open": true,
       "salary_str": "R$ 7.300,00",
       "salary_val": 7300.0,
       "deadline_str": "19/11/2026",
       "deadline_iso": "2026-11-19",
-      "days_remaining": 3,
+      "days_remaining": 2,
       "vacancies": "CR",
       "details": "Vagas até R$ 7.300,00 | Vários Cargos | Fundamental / Médio / Superior",
       "cargo_parts": [
@@ -2849,7 +2821,7 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/%C3%93rg%C3%A3o+Estadual+%28AC%29%2C+AC%2C+Brasil"
     },
     {
-      "id": 101,
+      "id": 100,
       "title": "Prefeitura de Pedra Branca do Amapari",
       "headline": "Prefeitura de Pedra Branca do Amapari - AP abre concurso público com salários de até R$ 6.000,00",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pedra-branca-do-amapari-ap-abre-concurso-publico-com-salarios-de-ate-6000",
@@ -2861,7 +2833,7 @@
       "salary_val": 6000.0,
       "deadline_str": "23/12/2026",
       "deadline_iso": "2026-12-23",
-      "days_remaining": 37,
+      "days_remaining": 36,
       "vacancies": "171 vagas",
       "details": "171 vagas até R$ 6.000,00 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2877,6 +2849,34 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Pedra+Branca+do+Amapari%2C+AP%2C+Brasil"
     },
     {
+      "id": 101,
+      "title": "Prefeitura de Trairão",
+      "headline": "Prefeitura de Trairão - PA abre três processos seletivos para diversas áreas",
+      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-trairao-pa-abre-tres-processos-seletivos-para-diversas-areas",
+      "city": "Trairão",
+      "uf": "PA",
+      "status": "Inscrições Abertas",
+      "is_open": true,
+      "salary_str": "R$ 4.258,76",
+      "salary_val": 4258.76,
+      "deadline_str": "27/11/2026",
+      "deadline_iso": "2026-11-27",
+      "days_remaining": 10,
+      "vacancies": "589 vagas",
+      "details": "589 vagas até R$ 4.258,76 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
+      "cargo_parts": [
+        "589 vagas até R$ 4.258,76",
+        "Vários Cargos",
+        "Fundamental / Médio / Técnico / Superior"
+      ],
+      "dist_km": 2104.4,
+      "dist_road_km": 2630.5,
+      "distance_category": "Muito Distante (> 600 km)",
+      "lat": -4.57347,
+      "lng": -55.9429,
+      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Trair%C3%A3o%2C+PA%2C+Brasil"
+    },
+    {
       "id": 102,
       "title": "IPAM - Instituto de Previdência e Assistência dos Servidores do Município de Porto Velho",
       "headline": "IPAM de Porto Velho - RO abre concurso público com salários de até R$ 5.000,00",
@@ -2889,7 +2889,7 @@
       "salary_val": 5000.0,
       "deadline_str": "07/12/2026",
       "deadline_iso": "2026-12-07",
-      "days_remaining": 21,
+      "days_remaining": 20,
       "vacancies": "71 vagas",
       "details": "71 vagas até R$ 5.000,00 | Técnico Autárquico, Analista Autárquico | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2917,7 +2917,7 @@
       "salary_val": 14718.92,
       "deadline_str": "07/12/2026",
       "deadline_iso": "2026-12-07",
-      "days_remaining": 21,
+      "days_remaining": 20,
       "vacancies": "1001 vagas",
       "details": "1001 vagas até R$ 14.718,92 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -2945,7 +2945,7 @@
       "salary_val": 3606.93,
       "deadline_str": "22/11/2026",
       "deadline_iso": "2026-11-22",
-      "days_remaining": 6,
+      "days_remaining": 5,
       "vacancies": "95 vagas",
       "details": "95 vagas até R$ 3.606,93 | Vários Cargos | Fundamental / Médio / Superior",
       "cargo_parts": [
@@ -2973,7 +2973,7 @@
       "salary_val": 5130.65,
       "deadline_str": "07/12/2026",
       "deadline_iso": "2026-12-07",
-      "days_remaining": 21,
+      "days_remaining": 20,
       "vacancies": "314 vagas",
       "details": "314 vagas até R$ 5.130,65 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3001,7 +3001,7 @@
       "salary_val": 6500.0,
       "deadline_str": "01/12/2026",
       "deadline_iso": "2026-12-01",
-      "days_remaining": 15,
+      "days_remaining": 14,
       "vacancies": "211 vagas",
       "details": "211 vagas até R$ 6.500,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3029,7 +3029,7 @@
       "salary_val": 10000.0,
       "deadline_str": "16/12/2026",
       "deadline_iso": "2026-12-16",
-      "days_remaining": 30,
+      "days_remaining": 29,
       "vacancies": "117 vagas",
       "details": "117 vagas até R$ 10.000,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3057,7 +3057,7 @@
       "salary_val": 3988.96,
       "deadline_str": "13/12/2026",
       "deadline_iso": "2026-12-13",
-      "days_remaining": 27,
+      "days_remaining": 26,
       "vacancies": "141 vagas",
       "details": "141 vagas até R$ 3.988,96 | Vários Cargos | Fundamental / Médio / Superior",
       "cargo_parts": [
@@ -3085,7 +3085,7 @@
       "salary_val": 10000.0,
       "deadline_str": "09/12/2026",
       "deadline_iso": "2026-12-09",
-      "days_remaining": 23,
+      "days_remaining": 22,
       "vacancies": "29 vagas",
       "details": "29 vagas até R$ 10.000,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3113,7 +3113,7 @@
       "salary_val": 10000.0,
       "deadline_str": "20/11/2026",
       "deadline_iso": "2026-11-20",
-      "days_remaining": 4,
+      "days_remaining": 3,
       "vacancies": "175 vagas",
       "details": "175 vagas até R$ 10.000,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3130,6 +3130,34 @@
     },
     {
       "id": 111,
+      "title": "Prefeitura de Custódia",
+      "headline": "Prefeitura de Custódia - PE abre concurso público com diversas vagas",
+      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-custodia-pe-abre-concurso-publico-com-diversas-vagas",
+      "city": "Custódia",
+      "uf": "PE",
+      "status": "Inscrições Abertas",
+      "is_open": true,
+      "salary_str": "R$ 8.000,00",
+      "salary_val": 8000.0,
+      "deadline_str": "18/12/2026",
+      "deadline_iso": "2026-12-18",
+      "days_remaining": 31,
+      "vacancies": "384 vagas",
+      "details": "384 vagas até R$ 8.000,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
+      "cargo_parts": [
+        "384 vagas até R$ 8.000,00",
+        "Vários Cargos",
+        "Fundamental / Médio / Técnico / Superior"
+      ],
+      "dist_km": 1551.1,
+      "dist_road_km": 1938.9,
+      "distance_category": "Muito Distante (> 600 km)",
+      "lat": -8.08546,
+      "lng": -37.6443,
+      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Cust%C3%B3dia%2C+PE%2C+Brasil"
+    },
+    {
+      "id": 112,
       "title": "Prefeitura de Moreilândia",
       "headline": "Prefeitura de Moreilândia - PE retifica dois concursos públicos",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-moreilandia-pe-retifica-dois-concursos-publicos",
@@ -3141,7 +3169,7 @@
       "salary_val": 10000.0,
       "deadline_str": "03/12/2026",
       "deadline_iso": "2026-12-03",
-      "days_remaining": 17,
+      "days_remaining": 16,
       "vacancies": "381 vagas",
       "details": "381 vagas até R$ 10.000,00 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3157,19 +3185,19 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Moreil%C3%A2ndia%2C+PE%2C+Brasil"
     },
     {
-      "id": 112,
+      "id": 113,
       "title": "Prefeitura de Ferreiros",
       "headline": "Prefeitura de Ferreiros - PE abre concurso público com vagas para diversas áreas",
       "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ferreiros-pe-abre-concurso-publico-com-vagas-para-diversas-areas",
       "city": "Ferreiros",
       "uf": "PE",
-      "status": "Inscrições Abertas",
+      "status": "Últimos Dias",
       "is_open": true,
       "salary_str": "R$ 4.179,47",
       "salary_val": 4179.47,
       "deadline_str": "19/11/2026",
       "deadline_iso": "2026-11-19",
-      "days_remaining": 3,
+      "days_remaining": 2,
       "vacancies": "57 vagas",
       "details": "57 vagas até R$ 4.179,47 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3185,34 +3213,6 @@
       "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Ferreiros%2C+PE%2C+Brasil"
     },
     {
-      "id": 113,
-      "title": "Prefeitura de Goiana",
-      "headline": "Prefeitura de Goiana - PE retifica edital de seleção pública",
-      "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-goiana-pe-retifica-edital-de-selecao-publica",
-      "city": "Goiana",
-      "uf": "PE",
-      "status": "Últimos Dias",
-      "is_open": true,
-      "salary_str": "R$ 8.926,43",
-      "salary_val": 8926.43,
-      "deadline_str": "17/11/2026",
-      "deadline_iso": "2026-11-17",
-      "days_remaining": 1,
-      "vacancies": "166 vagas",
-      "details": "166 vagas até R$ 8.926,43 | Vários Cargos | Médio / Técnico / Superior",
-      "cargo_parts": [
-        "166 vagas até R$ 8.926,43",
-        "Vários Cargos",
-        "Médio / Técnico / Superior"
-      ],
-      "dist_km": 1758.9,
-      "dist_road_km": 2198.6,
-      "distance_category": "Muito Distante (> 600 km)",
-      "lat": -7.5606,
-      "lng": -34.9959,
-      "maps_url": "https://www.google.com/maps/dir/Divinopolis+-+MG/Goiana%2C+PE%2C+Brasil"
-    },
-    {
       "id": 114,
       "title": "Prefeitura de Belém do Piauí",
       "headline": "Prefeitura de Belém do Piauí - PI abre concurso com remunerações de até R$ 12.000,00",
@@ -3225,7 +3225,7 @@
       "salary_val": 12000.0,
       "deadline_str": "25/11/2026",
       "deadline_iso": "2026-11-25",
-      "days_remaining": 9,
+      "days_remaining": 8,
       "vacancies": "49 vagas",
       "details": "49 vagas até R$ 12.000,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3253,7 +3253,7 @@
       "salary_val": 8257.0,
       "deadline_str": "25/11/2026",
       "deadline_iso": "2026-11-25",
-      "days_remaining": 9,
+      "days_remaining": 8,
       "vacancies": "90 vagas",
       "details": "90 vagas até R$ 8.257,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3281,7 +3281,7 @@
       "salary_val": 8000.0,
       "deadline_str": "23/11/2026",
       "deadline_iso": "2026-11-23",
-      "days_remaining": 7,
+      "days_remaining": 6,
       "vacancies": "101 vagas",
       "details": "101 vagas até R$ 8.000,00 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3309,7 +3309,7 @@
       "salary_val": 8374.0,
       "deadline_str": "11/11/2026",
       "deadline_iso": "2026-11-11",
-      "days_remaining": -5,
+      "days_remaining": -6,
       "vacancies": "Cadastro de Reserva",
       "details": "Cadastro de reserva até R$ 8.374,00 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3337,7 +3337,7 @@
       "salary_val": 0.0,
       "deadline_str": "10/11/2026",
       "deadline_iso": "2026-11-10",
-      "days_remaining": -6,
+      "days_remaining": -7,
       "vacancies": "25 vagas",
       "details": "25 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -3365,7 +3365,7 @@
       "salary_val": 0.0,
       "deadline_str": "10/11/2026",
       "deadline_iso": "2026-11-10",
-      "days_remaining": -6,
+      "days_remaining": -7,
       "vacancies": "171 vagas",
       "details": "171 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -3393,7 +3393,7 @@
       "salary_val": 0.0,
       "deadline_str": "07/10/2026",
       "deadline_iso": "2026-10-07",
-      "days_remaining": -40,
+      "days_remaining": -41,
       "vacancies": "31 vagas",
       "details": "31 vagas | Médico | Superior",
       "cargo_parts": [
@@ -3421,7 +3421,7 @@
       "salary_val": 10302.0,
       "deadline_str": "22/09/2026",
       "deadline_iso": "2026-09-22",
-      "days_remaining": -55,
+      "days_remaining": -56,
       "vacancies": "Cadastro de Reserva",
       "details": "Cadastro de reserva até R$ 10.302,00 | Vários Cargos | Técnico / Superior",
       "cargo_parts": [
@@ -3449,7 +3449,7 @@
       "salary_val": 15034.81,
       "deadline_str": "21/09/2026",
       "deadline_iso": "2026-09-21",
-      "days_remaining": -56,
+      "days_remaining": -57,
       "vacancies": "CR",
       "details": "Vagas até R$ 15.034,81 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3477,7 +3477,7 @@
       "salary_val": 11464.58,
       "deadline_str": "17/06/2026",
       "deadline_iso": "2026-06-17",
-      "days_remaining": -152,
+      "days_remaining": -153,
       "vacancies": "3 vagas",
       "details": "3 vagas até R$ 11.464,58 | Físico, Médico | Superior",
       "cargo_parts": [
@@ -3505,7 +3505,7 @@
       "salary_val": 0.0,
       "deadline_str": "12/06/2026",
       "deadline_iso": "2026-06-12",
-      "days_remaining": -157,
+      "days_remaining": -158,
       "vacancies": "168 vagas",
       "details": "168 vagas | Médico, Farmacêutico, Dentista | Superior",
       "cargo_parts": [
@@ -3533,7 +3533,7 @@
       "salary_val": 0.0,
       "deadline_str": "12/06/2026",
       "deadline_iso": "2026-06-12",
-      "days_remaining": -157,
+      "days_remaining": -158,
       "vacancies": "180 vagas",
       "details": "180 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -3561,7 +3561,7 @@
       "salary_val": 11464.58,
       "deadline_str": "11/06/2026",
       "deadline_iso": "2026-06-11",
-      "days_remaining": -158,
+      "days_remaining": -159,
       "vacancies": "110 vagas",
       "details": "110 vagas até R$ 11.464,58 | Médico | Superior",
       "cargo_parts": [
@@ -3589,7 +3589,7 @@
       "salary_val": 9663.6,
       "deadline_str": "08/04/2026",
       "deadline_iso": "2026-04-08",
-      "days_remaining": -222,
+      "days_remaining": -223,
       "vacancies": "CR",
       "details": "Vagas até R$ 9.663,60 | Vários Cargos | Superior",
       "cargo_parts": [
@@ -3617,7 +3617,7 @@
       "salary_val": 0.0,
       "deadline_str": "13/03/2026",
       "deadline_iso": "2026-03-13",
-      "days_remaining": -248,
+      "days_remaining": -249,
       "vacancies": "272 vagas",
       "details": "272 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -3645,7 +3645,7 @@
       "salary_val": 12302.0,
       "deadline_str": "23/02/2026",
       "deadline_iso": "2026-02-23",
-      "days_remaining": -266,
+      "days_remaining": -267,
       "vacancies": "12 vagas",
       "details": "12 vagas até R$ 12.302,00 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3673,7 +3673,7 @@
       "salary_val": 19107.31,
       "deadline_str": "30/01/2026",
       "deadline_iso": "2026-01-30",
-      "days_remaining": -290,
+      "days_remaining": -291,
       "vacancies": "152 vagas",
       "details": "152 vagas até R$ 19.107,31 | Médico | Superior",
       "cargo_parts": [
@@ -3701,7 +3701,7 @@
       "salary_val": 12497.63,
       "deadline_str": "22/01/2026",
       "deadline_iso": "2026-01-22",
-      "days_remaining": -298,
+      "days_remaining": -299,
       "vacancies": "59 vagas",
       "details": "59 vagas até R$ 12.497,63 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3729,7 +3729,7 @@
       "salary_val": 16544.65,
       "deadline_str": "18/01/2026",
       "deadline_iso": "2026-01-18",
-      "days_remaining": -302,
+      "days_remaining": -303,
       "vacancies": "1 vagas",
       "details": "1 vaga até R$ 16.544,65 | Médico PSF | Superior",
       "cargo_parts": [
@@ -3757,7 +3757,7 @@
       "salary_val": 0.0,
       "deadline_str": "08/01/2026",
       "deadline_iso": "2026-01-08",
-      "days_remaining": -312,
+      "days_remaining": -313,
       "vacancies": "18 vagas",
       "details": "18 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -3785,7 +3785,7 @@
       "salary_val": 0.0,
       "deadline_str": "08/01/2026",
       "deadline_iso": "2026-01-08",
-      "days_remaining": -312,
+      "days_remaining": -313,
       "vacancies": "32 vagas",
       "details": "32 vagas | Vários Cargos | Técnico / Superior",
       "cargo_parts": [
@@ -3813,7 +3813,7 @@
       "salary_val": 2122.95,
       "deadline_str": "12/12/2025",
       "deadline_iso": "2025-12-12",
-      "days_remaining": -339,
+      "days_remaining": -340,
       "vacancies": "3 vagas",
       "details": "3 vagas até R$ 2122,95 | Médico | Superior",
       "cargo_parts": [
@@ -3841,7 +3841,7 @@
       "salary_val": 16495.0,
       "deadline_str": "08/12/2025",
       "deadline_iso": "2025-12-08",
-      "days_remaining": -343,
+      "days_remaining": -344,
       "vacancies": "184 vagas",
       "details": "184 vagas até R$ 16.495,00 | Vários Cargos | Superior",
       "cargo_parts": [
@@ -3869,7 +3869,7 @@
       "salary_val": 9739.1,
       "deadline_str": "17/11/2025",
       "deadline_iso": "2025-11-17",
-      "days_remaining": -364,
+      "days_remaining": -365,
       "vacancies": "59 vagas",
       "details": "59 vagas até R$ 9739,10 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -3897,7 +3897,7 @@
       "salary_val": 11511.22,
       "deadline_str": "06/11/2025",
       "deadline_iso": "2025-11-06",
-      "days_remaining": -375,
+      "days_remaining": -376,
       "vacancies": "2 vagas",
       "details": "2 vagas até R$ 11.511,22 | Analista em Saúde | Superior",
       "cargo_parts": [
@@ -3925,7 +3925,7 @@
       "salary_val": 0.0,
       "deadline_str": "06/11/2025",
       "deadline_iso": "2025-11-06",
-      "days_remaining": -375,
+      "days_remaining": -376,
       "vacancies": "CR",
       "details": "Vagas | Médico Dermatologista, Psiquiatra | Superior",
       "cargo_parts": [
@@ -3953,7 +3953,7 @@
       "salary_val": 0.0,
       "deadline_str": "20/10/2025",
       "deadline_iso": "2025-10-20",
-      "days_remaining": -392,
+      "days_remaining": -393,
       "vacancies": "24 vagas",
       "details": "24 vagas | Oficial de 3º Classe da Reserva da Marinha (RM3) | Superior",
       "cargo_parts": [
@@ -3981,7 +3981,7 @@
       "salary_val": 17726.42,
       "deadline_str": "20/07/2025",
       "deadline_iso": "2025-07-20",
-      "days_remaining": -484,
+      "days_remaining": -485,
       "vacancies": "652 vagas",
       "details": "3.652 vagas até R$ 17.726,42 | Vários Cargos | Médio / Superior",
       "cargo_parts": [
@@ -4009,7 +4009,7 @@
       "salary_val": 0.0,
       "deadline_str": "20/06/2025",
       "deadline_iso": "2025-06-20",
-      "days_remaining": -514,
+      "days_remaining": -515,
       "vacancies": "165 vagas",
       "details": "165 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -4037,7 +4037,7 @@
       "salary_val": 28406.4,
       "deadline_str": "17/06/2025",
       "deadline_iso": "2025-06-17",
-      "days_remaining": -517,
+      "days_remaining": -518,
       "vacancies": "CR",
       "details": "Vagas até R$ 28.406,40 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -4065,7 +4065,7 @@
       "salary_val": 17700.0,
       "deadline_str": "10/06/2025",
       "deadline_iso": "2025-06-10",
-      "days_remaining": -524,
+      "days_remaining": -525,
       "vacancies": "2 vagas",
       "details": "2 vagas até R$ 17.700,00 | Médico, Psicólogo | Superior",
       "cargo_parts": [
@@ -4093,7 +4093,7 @@
       "salary_val": 11070.93,
       "deadline_str": "23/05/2025",
       "deadline_iso": "2025-05-23",
-      "days_remaining": -542,
+      "days_remaining": -543,
       "vacancies": "192 vagas",
       "details": "192 vagas até R$ 11.070,93 | Vários Cargos | Médio / Superior",
       "cargo_parts": [
@@ -4121,7 +4121,7 @@
       "salary_val": 9070.6,
       "deadline_str": "14/05/2025",
       "deadline_iso": "2025-05-14",
-      "days_remaining": -551,
+      "days_remaining": -552,
       "vacancies": "174 vagas",
       "details": "174 vagas até R$ 9070,60 | Cirurgião-Dentista, Capelães Navais, Engenheiros | Superior",
       "cargo_parts": [
@@ -4149,7 +4149,7 @@
       "salary_val": 10302.0,
       "deadline_str": "03/04/2025",
       "deadline_iso": "2025-04-03",
-      "days_remaining": -592,
+      "days_remaining": -593,
       "vacancies": "93 vagas",
       "details": "93 vagas até R$ 10.302,00 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -4177,7 +4177,7 @@
       "salary_val": 10787.12,
       "deadline_str": "02/04/2025",
       "deadline_iso": "2025-04-02",
-      "days_remaining": -593,
+      "days_remaining": -594,
       "vacancies": "1 vagas",
       "details": "1 vaga até R$ 10.787,12 | Médico Oftalmologia | Superior",
       "cargo_parts": [
@@ -4205,7 +4205,7 @@
       "salary_val": 0.0,
       "deadline_str": "17/03/2025",
       "deadline_iso": "2025-03-17",
-      "days_remaining": -609,
+      "days_remaining": -610,
       "vacancies": "345 vagas",
       "details": "345 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -4233,7 +4233,7 @@
       "salary_val": 17978.62,
       "deadline_str": "20/01/2025",
       "deadline_iso": "2025-01-20",
-      "days_remaining": -665,
+      "days_remaining": -666,
       "vacancies": "198 vagas",
       "details": "198 vagas até R$ 17.978,62 | Médicos | Superior",
       "cargo_parts": [
@@ -4261,7 +4261,7 @@
       "salary_val": 0.0,
       "deadline_str": "10/01/2025",
       "deadline_iso": "2025-01-10",
-      "days_remaining": -675,
+      "days_remaining": -676,
       "vacancies": "276 vagas",
       "details": "276 vagas | Oficiais Temporários | Superior",
       "cargo_parts": [
@@ -4289,7 +4289,7 @@
       "salary_val": 14166.99,
       "deadline_str": "09/01/2025",
       "deadline_iso": "2025-01-09",
-      "days_remaining": -676,
+      "days_remaining": -677,
       "vacancies": "250 vagas",
       "details": "250 vagas até R$ 14.166,99 | Perito Médico Federal | Superior",
       "cargo_parts": [
@@ -4317,7 +4317,7 @@
       "salary_val": 0.0,
       "deadline_str": "06/01/2025",
       "deadline_iso": "2025-01-06",
-      "days_remaining": -679,
+      "days_remaining": -680,
       "vacancies": "43 vagas",
       "details": "43 vagas | Oficiais Temporários | Superior",
       "cargo_parts": [
@@ -4345,7 +4345,7 @@
       "salary_val": 28903.6,
       "deadline_str": "24/10/2024",
       "deadline_iso": "2024-10-24",
-      "days_remaining": -753,
+      "days_remaining": -754,
       "vacancies": "CR",
       "details": "Vagas até R$ 28.903,60 | Vários Cargos | Técnico / Superior",
       "cargo_parts": [
@@ -4373,7 +4373,7 @@
       "salary_val": 6326.31,
       "deadline_str": "17/10/2024",
       "deadline_iso": "2024-10-17",
-      "days_remaining": -760,
+      "days_remaining": -761,
       "vacancies": "1 vagas",
       "details": "1 vaga até R$ 6326,31 | Médico Veterinário, Agente Administrativo | Médio / Superior",
       "cargo_parts": [
@@ -4401,7 +4401,7 @@
       "salary_val": 9173.62,
       "deadline_str": "03/10/2024",
       "deadline_iso": "2024-10-03",
-      "days_remaining": -774,
+      "days_remaining": -775,
       "vacancies": "236 vagas",
       "details": "236 vagas até R$ 9173,62 | Vários Cargos | Médio / Superior",
       "cargo_parts": [
@@ -4429,7 +4429,7 @@
       "salary_val": 6872.48,
       "deadline_str": "08/09/2024",
       "deadline_iso": "2024-09-08",
-      "days_remaining": -799,
+      "days_remaining": -800,
       "vacancies": "33 vagas",
       "details": "33 vagas até R$ 6872,48 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -4457,7 +4457,7 @@
       "salary_val": 27874.0,
       "deadline_str": "19/08/2024",
       "deadline_iso": "2024-08-19",
-      "days_remaining": -819,
+      "days_remaining": -820,
       "vacancies": "CR",
       "details": "Vagas até R$ 27.874,00 | Vários Cargos | Fundamental / Superior",
       "cargo_parts": [
@@ -4485,7 +4485,7 @@
       "salary_val": 0.0,
       "deadline_str": "29/07/2024",
       "deadline_iso": "2024-07-29",
-      "days_remaining": -840,
+      "days_remaining": -841,
       "vacancies": "187 vagas",
       "details": "187 vagas | Serviço Militar Temporário | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -4513,7 +4513,7 @@
       "salary_val": 0.0,
       "deadline_str": "14/06/2024",
       "deadline_iso": "2024-06-14",
-      "days_remaining": -885,
+      "days_remaining": -886,
       "vacancies": "210 vagas",
       "details": "210 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -4541,7 +4541,7 @@
       "salary_val": 19385.1,
       "deadline_str": "31/05/2024",
       "deadline_iso": "2024-05-31",
-      "days_remaining": -899,
+      "days_remaining": -900,
       "vacancies": "CR",
       "details": "Vagas até R$ 19.385,10 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -4569,7 +4569,7 @@
       "salary_val": 0.0,
       "deadline_str": "29/05/2024",
       "deadline_iso": "2024-05-29",
-      "days_remaining": -901,
+      "days_remaining": -902,
       "vacancies": "CR",
       "details": "Vagas | Médicos | Superior",
       "cargo_parts": [
@@ -4597,7 +4597,7 @@
       "salary_val": 9070.6,
       "deadline_str": "08/05/2024",
       "deadline_iso": "2024-05-08",
-      "days_remaining": -922,
+      "days_remaining": -923,
       "vacancies": "60 vagas",
       "details": "60 vagas até R$ 9070,60 | Vários Cargos | Superior",
       "cargo_parts": [
@@ -4625,7 +4625,7 @@
       "salary_val": 0.0,
       "deadline_str": "25/04/2024",
       "deadline_iso": "2024-04-25",
-      "days_remaining": -935,
+      "days_remaining": -936,
       "vacancies": "CR",
       "details": "Vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -4653,7 +4653,7 @@
       "salary_val": 14915.0,
       "deadline_str": "25/03/2024",
       "deadline_iso": "2024-03-25",
-      "days_remaining": -966,
+      "days_remaining": -967,
       "vacancies": "4050 vagas",
       "details": "4050 vagas até R$ 14.915,00 | Vários Cargos | Médio / Superior",
       "cargo_parts": [
@@ -4681,7 +4681,7 @@
       "salary_val": 10302.0,
       "deadline_str": "18/03/2024",
       "deadline_iso": "2024-03-18",
-      "days_remaining": -973,
+      "days_remaining": -974,
       "vacancies": "68 vagas",
       "details": "68 vagas até R$ 10.302,00 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -4709,7 +4709,7 @@
       "salary_val": 0.0,
       "deadline_str": "11/03/2024",
       "deadline_iso": "2024-03-11",
-      "days_remaining": -980,
+      "days_remaining": -981,
       "vacancies": "207 vagas",
       "details": "207 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -4737,7 +4737,7 @@
       "salary_val": 12233.7,
       "deadline_str": "05/03/2024",
       "deadline_iso": "2024-03-05",
-      "days_remaining": -986,
+      "days_remaining": -987,
       "vacancies": "300 vagas",
       "details": "300 vagas até R$ 12.233,70 | Vários Cargos | Superior",
       "cargo_parts": [
@@ -4765,7 +4765,7 @@
       "salary_val": 10838.67,
       "deadline_str": "19/02/2024",
       "deadline_iso": "2024-02-19",
-      "days_remaining": -1001,
+      "days_remaining": -1002,
       "vacancies": "CR",
       "details": "Vagas até R$ 10.838,67 | Vários Cargos | Fundamental / Médio / Técnico / Superior",
       "cargo_parts": [
@@ -4793,7 +4793,7 @@
       "salary_val": 22921.71,
       "deadline_str": "09/02/2024",
       "deadline_iso": "2024-02-09",
-      "days_remaining": -1011,
+      "days_remaining": -1012,
       "vacancies": "640 vagas",
       "details": "6.640 vagas até R$ 22.921,71 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -4821,7 +4821,7 @@
       "salary_val": 36914.91,
       "deadline_str": "21/12/2023",
       "deadline_iso": "2023-12-21",
-      "days_remaining": -1061,
+      "days_remaining": -1062,
       "vacancies": "23 vagas",
       "details": "23 vagas até R$ 36.914,91 | Médicos | Superior",
       "cargo_parts": [
@@ -4849,7 +4849,7 @@
       "salary_val": 12524.35,
       "deadline_str": "31/10/2023",
       "deadline_iso": "2023-10-31",
-      "days_remaining": -1112,
+      "days_remaining": -1113,
       "vacancies": "693 vagas",
       "details": "693 vagas até R$ 12.524,35 | Vários Cargos | Médio / Técnico / Superior",
       "cargo_parts": [
@@ -4877,7 +4877,7 @@
       "salary_val": 34812.19,
       "deadline_str": "04/10/2023",
       "deadline_iso": "2023-10-04",
-      "days_remaining": -1139,
+      "days_remaining": -1140,
       "vacancies": "140 vagas",
       "details": "140 vagas até R$ 34.812,19 | Vários Cargos | Superior",
       "cargo_parts": [
@@ -4905,7 +4905,7 @@
       "salary_val": 8747.61,
       "deadline_str": "18/08/2023",
       "deadline_iso": "2023-08-18",
-      "days_remaining": -1186,
+      "days_remaining": -1187,
       "vacancies": "222 vagas",
       "details": "222 vagas até R$ 8747,61 | Vários Cargos | Médio / Superior",
       "cargo_parts": [
@@ -4933,7 +4933,7 @@
       "salary_val": 0.0,
       "deadline_str": "11/08/2023",
       "deadline_iso": "2023-08-11",
-      "days_remaining": -1193,
+      "days_remaining": -1194,
       "vacancies": "CR",
       "details": "Vagas | Médico, Dentista, Farmacêutico e Veterinário | Superior",
       "cargo_parts": [
@@ -4961,7 +4961,7 @@
       "salary_val": 0.0,
       "deadline_str": "02/08/2023",
       "deadline_iso": "2023-08-02",
-      "days_remaining": -1202,
+      "days_remaining": -1203,
       "vacancies": "162 vagas",
       "details": "162 vagas | Curso de Formação de Oficiais do Serviço de Saúde | Superior",
       "cargo_parts": [
@@ -4989,7 +4989,7 @@
       "salary_val": 0.0,
       "deadline_str": "31/07/2023",
       "deadline_iso": "2023-07-31",
-      "days_remaining": -1204,
+      "days_remaining": -1205,
       "vacancies": "CR",
       "details": "Vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -5017,7 +5017,7 @@
       "salary_val": 0.0,
       "deadline_str": "25/07/2023",
       "deadline_iso": "2023-07-25",
-      "days_remaining": -1210,
+      "days_remaining": -1211,
       "vacancies": "203 vagas",
       "details": "203 vagas | Vários Cargos | Fundamental / Médio / Superior",
       "cargo_parts": [
@@ -5045,7 +5045,7 @@
       "salary_val": 0.0,
       "deadline_str": "13/07/2023",
       "deadline_iso": "2023-07-13",
-      "days_remaining": -1222,
+      "days_remaining": -1223,
       "vacancies": "CR",
       "details": "Vagas | Serviço Militar Voluntário - Médico | Superior",
       "cargo_parts": [
@@ -5073,7 +5073,7 @@
       "salary_val": 9070.6,
       "deadline_str": "25/06/2023",
       "deadline_iso": "2023-06-25",
-      "days_remaining": -1240,
+      "days_remaining": -1241,
       "vacancies": "44 vagas",
       "details": "44 vagas até R$ 9070,60 | Vários Cargos | Superior",
       "cargo_parts": [
@@ -5101,7 +5101,7 @@
       "salary_val": 12386.5,
       "deadline_str": "31/05/2023",
       "deadline_iso": "2023-05-31",
-      "days_remaining": -1265,
+      "days_remaining": -1266,
       "vacancies": "5970 vagas",
       "details": "5970 vagas até R$ 12.386,50 | Médicos | Superior",
       "cargo_parts": [
@@ -5129,7 +5129,7 @@
       "salary_val": 0.0,
       "deadline_str": "13/03/2023",
       "deadline_iso": "2023-03-13",
-      "days_remaining": -1344,
+      "days_remaining": -1345,
       "vacancies": "208 vagas",
       "details": "208 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -5157,7 +5157,7 @@
       "salary_val": 0.0,
       "deadline_str": "08/11/2022",
       "deadline_iso": "2022-11-08",
-      "days_remaining": -1469,
+      "days_remaining": -1470,
       "vacancies": "16 vagas",
       "details": "16 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -5185,7 +5185,7 @@
       "salary_val": 0.0,
       "deadline_str": "08/11/2022",
       "deadline_iso": "2022-11-08",
-      "days_remaining": -1469,
+      "days_remaining": -1470,
       "vacancies": "42 vagas",
       "details": "42 vagas | Vários Cargos | Superior",
       "cargo_parts": [
@@ -5213,7 +5213,7 @@
       "salary_val": 0.0,
       "deadline_str": "05/08/2022",
       "deadline_iso": "2022-08-05",
-      "days_remaining": -1564,
+      "days_remaining": -1565,
       "vacancies": "122 vagas",
       "details": "122 vagas | Curso de Formação de Oficiais | Superior",
       "cargo_parts": [
@@ -5241,7 +5241,7 @@
       "salary_val": 0.0,
       "deadline_str": "03/08/2022",
       "deadline_iso": "2022-08-03",
-      "days_remaining": -1566,
+      "days_remaining": -1567,
       "vacancies": "CR",
       "details": "Vagas | Médicos Voluntários | Superior",
       "cargo_parts": [
@@ -5269,7 +5269,7 @@
       "salary_val": 9070.6,
       "deadline_str": "24/07/2022",
       "deadline_iso": "2022-07-24",
-      "days_remaining": -1576,
+      "days_remaining": -1577,
       "vacancies": "25 vagas",
       "details": "25 vagas até R$ 9070,60 | Médicos | Superior",
       "cargo_parts": [
@@ -5297,96 +5297,12 @@
       "salary_val": 0.0,
       "deadline_str": "08/07/2022",
       "deadline_iso": "2022-07-08",
-      "days_remaining": -1592,
+      "days_remaining": -1593,
       "vacancies": "CR",
       "details": "Vagas | Oficiais Temporários | Superior",
       "cargo_parts": [
         "Vagas",
         "Oficiais Temporários",
-        "Superior"
-      ],
-      "dist_km": null,
-      "dist_road_km": null,
-      "distance_category": "Âmbito Nacional",
-      "lat": null,
-      "lng": null,
-      "maps_url": null
-    },
-    {
-      "id": 189,
-      "title": "EBSERH - Empresa Brasileira de Serviços Hospitalares - HU UFSCAR",
-      "headline": "EBSERH abre dois Processos Seletivos com 12 vagas",
-      "link": "https://www.pciconcursos.com.br/noticias/ebserh-abre-dois-processos-seletivos-com-12-vagas",
-      "city": "Âmbito Nacional",
-      "uf": "Nacional",
-      "status": "Encerrado",
-      "is_open": false,
-      "salary_str": "R$ 8984,81",
-      "salary_val": 8984.81,
-      "deadline_str": "25/06/2022",
-      "deadline_iso": "2022-06-25",
-      "days_remaining": -1605,
-      "vacancies": "12 vagas",
-      "details": "12 vagas até R$ 8984,81 | Médicos | Superior",
-      "cargo_parts": [
-        "12 vagas até R$ 8984,81",
-        "Médicos",
-        "Superior"
-      ],
-      "dist_km": null,
-      "dist_road_km": null,
-      "distance_category": "Âmbito Nacional",
-      "lat": null,
-      "lng": null,
-      "maps_url": null
-    },
-    {
-      "id": 190,
-      "title": "EBSERH - Empresa Brasileira de Serviços Hospitalares",
-      "headline": "EBSERH realiza novo Processo Seletivo para médicos",
-      "link": "https://www.pciconcursos.com.br/noticias/ebserh-realiza-novo-processo-seletivo-para-medicos",
-      "city": "Âmbito Nacional",
-      "uf": "Nacional",
-      "status": "Encerrado",
-      "is_open": false,
-      "salary_str": "R$ 8984,81",
-      "salary_val": 8984.81,
-      "deadline_str": "21/06/2022",
-      "deadline_iso": "2022-06-21",
-      "days_remaining": -1609,
-      "vacancies": "4 vagas",
-      "details": "4 vagas até R$ 8984,81 | Médico | Superior",
-      "cargo_parts": [
-        "4 vagas até R$ 8984,81",
-        "Médico",
-        "Superior"
-      ],
-      "dist_km": null,
-      "dist_road_km": null,
-      "distance_category": "Âmbito Nacional",
-      "lat": null,
-      "lng": null,
-      "maps_url": null
-    },
-    {
-      "id": 191,
-      "title": "EBSERH - Empresa Brasileira de Serviços Hospitalares",
-      "headline": "EBSERH anuncia dois novos Processos Seletivos",
-      "link": "https://www.pciconcursos.com.br/noticias/ebserh-anuncia-dois-novos-processos-seletivos",
-      "city": "Âmbito Nacional",
-      "uf": "Nacional",
-      "status": "Encerrado",
-      "is_open": false,
-      "salary_str": "R$ 8984,81",
-      "salary_val": 8984.81,
-      "deadline_str": "21/06/2022",
-      "deadline_iso": "2022-06-21",
-      "days_remaining": -1609,
-      "vacancies": "18 vagas",
-      "details": "18 vagas até R$ 8984,81 | Médico | Superior",
-      "cargo_parts": [
-        "18 vagas até R$ 8984,81",
-        "Médico",
         "Superior"
       ],
       "dist_km": null,
